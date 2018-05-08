@@ -1,4 +1,4 @@
-This repo is currently private but would be live on soon on jananiravi.github.io!
+This repo is currently private but would be live on soon on [jananiravi.github.io](jananiravi.github.io)!
 
 I've used Hugo blogdown with the Hugo-academic theme to create a static website+blog.
 
