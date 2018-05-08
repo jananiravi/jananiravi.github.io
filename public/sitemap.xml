@@ -150,16 +150,6 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2018-05-05T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/actinobacteria/</loc>
       <lastmod>2018-05-07T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -250,7 +240,7 @@
     
     <url>
     
-      <loc>/categories/git/</loc>
+      <loc>/tags/git/</loc>
       <lastmod>2018-05-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -260,7 +250,7 @@
     
     <url>
     
-      <loc>/tags/git/</loc>
+      <loc>/categories/git/</loc>
       <lastmod>2018-05-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -272,6 +262,16 @@
     
       <loc>/tags/github/</loc>
       <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2018-05-05T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

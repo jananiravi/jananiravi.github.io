@@ -31,9 +31,11 @@
 {{ end }}
 {{ if $.Params.projects }}
 {{ range $.Params.projects }}
-<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ ($.Site.GetPage "page" "project" .).Permalink }}">
+ {{ with ($.Site.GetPage "page" "project" .) }}
+ <a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ .Permalink }}">
   {{ i18n "btn_project" }}
 </a>
+{{ end }}
 {{ end }}
 {{ else }}
 {{ with $.Params.url_project }}
