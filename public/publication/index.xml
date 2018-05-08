@@ -11,11 +11,21 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>The evolution, conservation, and covariation of the bacterial Psp envelope-stress-response system</title>
+      <link>/publication/psp-evolution/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/psp-evolution/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria.</title>
-      <link>/publication/pspa-actinobacteria/</link>
+      <link>/publication/pspa-actino/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
       
-      <guid>/publication/pspa-actinobacteria/</guid>
+      <guid>/publication/pspa-actino/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
@@ -36,6 +46,16 @@
       <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
       
       <guid>/publication/psp-mtb/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection.</title>
+      <link>/publication/vitd/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/vitd/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

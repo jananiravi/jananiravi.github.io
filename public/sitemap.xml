@@ -5,7 +5,16 @@
     
     <url>
     
-      <loc>/project/psp-actino/</loc>
+      <loc>/publication/psp-evolution/</loc>
+      <lastmod>2018-07-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/stress-response/</loc>
       <lastmod>2018-05-07T00:00:00-04:00</lastmod>
     </url>
     
@@ -23,7 +32,7 @@
     
     <url>
     
-      <loc>/publication/pspa-actinobacteria/</loc>
+      <loc>/publication/pspa-actino/</loc>
       <lastmod>2018-02-27T00:00:00-05:00</lastmod>
     </url>
     
@@ -122,6 +131,15 @@
     
     <url>
     
+      <loc>/publication/vitd/</loc>
+      <lastmod>2014-07-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/</loc>
       <lastmod>2012-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -133,6 +151,16 @@
     
       <loc>/publication_types/2/</loc>
       <lastmod>2018-02-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/3/</loc>
+      <lastmod>2018-07-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
