@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Janani Ravi</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria.</title>
+      <link>/publication/pspa-actinobacteria/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/pspa-actinobacteria/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis.</title>
+      <link>/publication/sigfac-mtb/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/sigfac-mtb/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions.</title>
+      <link>/publication/psp-mtb/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/psp-mtb/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

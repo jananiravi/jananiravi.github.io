@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Janani Ravi on Janani Ravi</title>
+    <link>/</link>
+    <description>Recent content in Janani Ravi on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Sat, 05 May 2018 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PspA in Actinobacteria</title>
+      <link>/project/psp-actino/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/psp-actino/</guid>
+      <description>&lt;p&gt;The phage shock protein (Psp) stress-response system protects bacteria from envelope stress through a cascade of interactions with other proteins and membrane lipids to stabilize the cell membrane. A key component of this multi-gene system is PspA, an effector protein that is found in diverse bacterial phyla, archaea, cyanobacteria, and chloroplasts. Other members of the Psp system include the cognate partners of PspA that are part of known operons: pspF||pspABC in Proteobacteria, liaIHGFSR in Firmicutes, and clgRpspAMN in Actinobacteria. Despite the functional significance of the Psp system, the conservation of PspA and other Psp functions, as well as the various genomic contexts of PspA, remain poorly characterized in Actinobacteria. Here we utilize a computational evolutionary approach to systematically identify the variations of the Psp system in ~450 completed actinobacterial genomes. We first determined the homologs of PspA and its cognate partners (as reported in Escherichia coli, Bacillus subtilis, and Mycobacterium tuberculosis) across Actinobacteria. This survey revealed that PspA and most of its functional partners are prevalent in Actinobacteria. We then found that PspA occurs in four predominant genomic contexts within Actinobacteria, the primary context being the clgRpspAM system previously identified in Mycobacteria. We also constructed a phylogenetic tree of PspA homologs (including paralogs) to trace the conservation and evolution of PspA across Actinobacteria. The genomic context revealed that PspA shows changes in its gene-neighborhood. The presence of multiple PspA contexts or of other known Psp members in genomic neighborhoods that do not carry pspA suggests yet undiscovered functional implications in envelope stress response mechanisms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Useful Git/GitHub links</title>
+      <link>/post/useful-git-github-links/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/useful-git-github-links/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#see-also&#34;&gt;See also:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#git&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#git-and-github&#34;&gt;Git and GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#r-and-git&#34;&gt;R and Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#github-pages-gists-jekyll&#34;&gt;GitHub Pages, Gists | Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#hugo-blogdown-and-git&#34;&gt;Hugo, Blogdown and Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;see-also&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;See also:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2018-04-27 — My simply Git Cheatsheet&lt;/li&gt;
+&lt;li&gt;2018–earlier — R Note Links&lt;/li&gt;
+&lt;li&gt;2018-03-15 — Creating Jekyll page on GitHub&lt;/li&gt;
+&lt;li&gt;2017-12-25 — Excuse me, do you have a moment to talk about version control?&lt;/li&gt;
+&lt;li&gt;2017-08-06 — Krishnan Lab | Source code, Data, &amp;amp; Code review&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2017-02-11 (Check my &lt;a href=&#34;https://twitter.com/janani137/status/926516970920562688&#34;&gt;tweet&lt;/a&gt; as well.)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;git&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Git&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Version control with &lt;a href=&#34;http://swcarpentry.github.io/git-novice/&#34;&gt;Git on Software Carpentry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sklise.com/2012/10/07/git-workflow-beginner/&#34;&gt;Git workflow for beginners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/&#34;&gt;Mozilla Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://guides.beanstalkapp.com/version-control/getting-started-with-git.html&#34;&gt;Getting started with Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rogerdudler.github.io/git-guide/&#34;&gt;Git, the simple guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cbattista/learn-github/wiki/Learn-Github-Exercises&#34;&gt;Git exercises&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://githowto.com/&#34;&gt;GitHowTo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sklise.com/2012/09/22/introduction-to-git/&#34;&gt;Introduction to Git and command line&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kirstiejane.github.io/friendly-github-intro/&#34;&gt;Friendly introduction to Git, Jane&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/alicebartlett/git-for-humans&#34;&gt;Git for humans, slides by Bartlett&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://learngitbranching.js.org&#34;&gt;Learn Git branching&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52&#34;&gt;Git cheat sheet and best practices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ohshitgit.com&#34;&gt;Getting yourself out of a Git mess&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://try.github.io&#34;&gt;Try Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;git-and-github&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Git and GitHub&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kbroman/github_tutorial&#34;&gt;GitHub tutorial, Broman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/new&#34;&gt;New GitHub repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://seankross.com/the-unix-workbench/git-and-github.html&#34;&gt;Git &amp;amp; Github | Seankross&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mac.github.com/help.html&#34;&gt;GitHub on Mac&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r-and-git&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R and Git&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://happygitwithr.com/big-picture.html&#34;&gt;R with Git and GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;github-pages-gists-jekyll&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;GitHub Pages, Gists | Jekyll&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Github pages &lt;a href=&#34;https://guides.github.com/features/pages/&#34;&gt;#1&lt;/a&gt; &lt;a href=&#34;https://pages.github.com/&#34;&gt;#2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/categories/gists/&#34;&gt;Creating gists on Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jekyllrb.com/docs/installation/&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gcc.gnu.org/install/&#34;&gt;GCC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ruby-lang.org/en/downloads/&#34;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rubygems.org/pages/download&#34;&gt;Ruby Gems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;hugo-blogdown-and-git&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Hugo, Blogdown and Git&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://daijiang.name/en/2017/03/30/updating-website-with-hugo-and-blogdown/&#34;&gt;Updating your website using Hugo &amp;amp; Blogdown, by Daijiang Li&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria.</title>
+      <link>/publication/pspa-actinobacteria/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/pspa-actinobacteria/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Black Swan by Nassim Taleb</title>
+      <link>/post/black-swan-by-nassim-taleb/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/black-swan-by-nassim-taleb/</guid>
+      <description>&lt;div id=&#34;book-review&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Book Review&lt;/h1&gt;
+&lt;p&gt;I find myself increasingly drawn to the field of Behavioral Economics (so much so that I was considering a second PhD to channelize my love!), and how beautifully evasive these concepts are in real life.
+Starting with Daniel Kahneman’s Thinking Fast and Slow, followed by the writings and blogs of Steven Levitt, Dan Ariely, Nate Silver and Barry Schwartz (and still others like Malcolm Gladwell), has set me thinking a lot about how insane and illogical we are. We do see ourselves as logical and reasonably intelligent people who do not fall for the usual traps (OK, maybe you didn’t see me that way, but we’ll let that slide for now…), but how fool-proof are we? What about the narrative fallacy - ‘aah, that makes sense now’ or ‘I thought so’ or confirmation biases?&lt;/p&gt;
+&lt;p&gt;‘The Black Swan’ by Nassim Nicholas Taleb (&lt;a href=&#34;http://fooledbyrandomness.com/&#34; class=&#34;uri&#34;&gt;http://fooledbyrandomness.com/&lt;/a&gt;) has been on my list ever since I first got infatuated with this topic. I finally finished it last month. Man, is it it well-written! The guy is brilliant, and his wit and humor are unmatchable! Among other things, he leads (and concludes) with our love for everything normal, statistically speaking and otherwise, and how we can’t but help make the obvious blunders of predicting, quite erroneously, based on the past, even though we know fully well that life doesn’t present itself as a series of bell curves stringed together just so that we can get away with some easy math! You’ll hear a lot about epistemology (defined in PS3; truth be told, I hadn’t heard of this word until last month), mediocristan (the Gaussian life) vs extremistan (scale-free distributions encountered more often than not in real-life)&lt;/p&gt;
+&lt;p&gt;Here’s a snippet: &lt;a href=&#34;https://drive.google.com/file/d/0B7_wAV4HsNrkQmdFMndHSHhldFE/view&#34; class=&#34;uri&#34;&gt;https://drive.google.com/file/d/0B7_wAV4HsNrkQmdFMndHSHhldFE/view&lt;/a&gt; Never mind if you don’t get it. I enjoyed every last bit of the book, and hope that you do too!
+Give it a try - whether you love it or hate it, it would be time well-spent! :)&lt;/p&gt;
+&lt;p&gt;Happy reading!
+Lots of love,
+J&lt;/p&gt;
+&lt;p&gt;PS1. I’ve heard that people either love it or hate it. Clearly, I fall in the bin #1. Do I agree with everything? Well, yeah, almost everything.
+PS2. Luckily, none of you are directly tied to economics or financial sectors. :D Well, scientists and statisticians have been insulted too, but the elegance of it makes it OK! Lots to think about.:)
+PS3. Epistemology studies the nature of knowledge, justification, and the rationality of belief. Much of the debate in epistemology centers on four areas: (1) the philosophical analysis of the nature of knowledge and how it relates to such concepts as truth, belief, and justification, (2) various problems of skepticism, (3) the sources and scope of knowledge and justified belief, and (4) the criteria for knowledge and justification.&lt;/p&gt;
+&lt;div id=&#34;tags&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Tags&lt;/h2&gt;
+&lt;p&gt;#behavioraleconomics #books #suggestions #mustread #randomness #economics #business #philosophy&lt;/p&gt;
+&lt;p&gt;blurb, review, snapshot below&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;blurb&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Blurb&lt;/h1&gt;
+&lt;p&gt;A black swan is a highly improbable event with three principal characteristics: It is unpredictable; it carries a massive impact; and, after the fact, we concoct an explanation that makes it appear less random, and more predictable, than it was.&lt;/p&gt;
+&lt;p&gt;The astonishing success of Google was a black swan; so was 9/11. For Nassim Nicholas Taleb, black swans underlie almost everything about our world, from the rise of religions to events in our own personal lives.&lt;/p&gt;
+&lt;p&gt;Why do we not acknowledge the phenomenon of black swans until after they occur? Part of the answer, according to Taleb, is that humans are hardwired to learn specifics when they should be focused on generalities.&lt;/p&gt;
+&lt;p&gt;We concentrate on things we already know and time and time again fail to take into consideration what we don’t know. We are, therefore, unable to truly estimate opportunities, too vulnerable to the impulse to simplify, narrate, and categorize, and not open enough to rewarding those who can imagine the “impossible.”&lt;/p&gt;
+&lt;p&gt;For years, Taleb has studied how we fool ourselves into thinking we know more than we actually do. We restrict our thinking to the irrelevant and inconsequential, while large events continue to surprise us and shape our world. Now, in this revelatory book, Taleb explains everything we know about what we don’t know. He offers surprisingly simple tricks for dealing with black swans and benefiting from them.&lt;/p&gt;
+&lt;p&gt;Elegant, startling, and universal in its applications ‘The Black Swan’ will change the way you look at the world. Taleb is a vastly entertaining writer, with wit, irreverence, and unusual stories to tell. He has a polymathic command of subjects ranging from cognitive science to business to probability theory.&lt;/p&gt;
+&lt;p&gt;‘The Black Swan’ is a landmark book – itself a black swan.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>J1 visa waiver | How to obtain your NORI?</title>
+      <link>/post/2017-03-14-j1-visa-waiver/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-03-14-j1-visa-waiver/</guid>
+      <description>
+
+&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+
+&lt;p&gt;I’m Janani Ravi, currently at Michigan State University.&lt;/p&gt;
+
+&lt;h3 id=&#34;contact&#34;&gt;Contact:&lt;/h3&gt;
+
+&lt;p&gt;Email: &lt;a href=&#34;http://scr.im/janani&#34; target=&#34;_blank&#34;&gt;http://scr.im/janani&lt;/a&gt; | Twitter: &lt;a href=&#34;twitter.com/janani137&#34; target=&#34;_blank&#34;&gt;@janani137&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;why-i-m-writing-this&#34;&gt;Why I’m writing this&lt;/h1&gt;
+
+&lt;p&gt;I went through this rather painful &amp;amp; ghastly process from Rutgers University, Newark, NJ. My closest consulate was, therefore, the one in New York (CGNY).
+I hail from Chennai, Tamil Nadu (India). So, most of the state department and RPO/police verification guidelines worked for my specific case. Of course, folks from other countries can skip ahead from their consulate to the last step reading some country-specific blogs in-between.&lt;/p&gt;
+
+&lt;h1 id=&#34;the-initial-process-where-you-read-and-imbibe&#34;&gt;The initial process, where you read and imbibe!&lt;/h1&gt;
+
+&lt;h2 id=&#34;helpful-links&#34;&gt;Helpful links:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;US govt. websites&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver.html&#34; target=&#34;_blank&#34;&gt;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver.html&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver/ds-3035-instructions.html&#34; target=&#34;_blank&#34;&gt;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver/ds-3035-instructions.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov&#34; target=&#34;_blank&#34;&gt;https://j1visawaiverrecommendation.state.gov&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/accessController.asp?page=26&#34; target=&#34;_blank&#34;&gt;https://j1visawaiverrecommendation.state.gov/accessController.asp?page=26&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/cancelHandler.asp&#34; target=&#34;_blank&#34;&gt;https://j1visawaiverrecommendation.state.gov/cancelHandler.asp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blogs&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sameetmehta.com/2015/01/the-j1-waiver-process-for-indian.html&#34; target=&#34;_blank&#34;&gt;http://www.sameetmehta.com/2015/01/the-j1-waiver-process-for-indian.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sciash.wordpress.com/2016/03/20/j1-waiver-step-by-step-guide/&#34; target=&#34;_blank&#34;&gt;https://sciash.wordpress.com/2016/03/20/j1-waiver-step-by-step-guide/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.immihelp.com/forum/showthread.php/113424-J1-visa-home-residency-requirement-waiver-from-India&#34; target=&#34;_blank&#34;&gt;http://www.immihelp.com/forum/showthread.php/113424-J1-visa-home-residency-requirement-waiver-from-India&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://j1.aruppukottai.net/&#34; target=&#34;_blank&#34;&gt;http://j1.aruppukottai.net/&lt;/a&gt; (old 2009)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://prashanth-jaikumar.blogspot.com/2010/05/how-i-learned-to-stop-worrying-and-love.html&#34; target=&#34;_blank&#34;&gt;http://prashanth-jaikumar.blogspot.com/2010/05/how-i-learned-to-stop-worrying-and-love.html&lt;/a&gt; (2010 May)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tip&lt;/em&gt;: Find specific blogs for your state since the rules and guidelines might be somewhat different. Mine was Tamil Nadu.&lt;/li&gt;
+&lt;li&gt;Other useful PDFs that may include some of the above: The_process&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;approximate-order-of-key-events-things-to-do&#34;&gt;Approximate order of key events &amp;amp; things-to-do&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read &amp;amp; decipher the resources. It’s a one-time thing. So, do it!&lt;/li&gt;
+&lt;li&gt;Start at least 1–1.5yrs before your current employment ends/your extended J1 expires. The process takes time &amp;amp; patience. Give time for ‘worst case scenarios’!&lt;/li&gt;
+&lt;li&gt;Tip: Talk to your department admin and your university’s international/J1 office.&lt;/li&gt;
+&lt;li&gt;Note: First extend your J1 &amp;amp; then apply for the waiver. You can’t extend once you apply for your waiver.&lt;/li&gt;
+&lt;li&gt;Notarization of your biodata and affidavit (your local bank or other notary publics)&lt;/li&gt;
+&lt;li&gt;Attestation of your biodata and affidavit: Local Indian consulate with the necessary documents
+
+&lt;ul&gt;
+&lt;li&gt;Some require passport-sized photo taken within the last 6 mo (CGNY did ‘require&amp;rsquo; but they didn’t ’need&amp;rsquo; it!!)&lt;/li&gt;
+&lt;li&gt;Call to get their full list and check their website before going&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Send your packages to the 3 departments back home (web portal/postal mail w/ tracking)&lt;/li&gt;
+&lt;li&gt;Back to the local Indian consulate
+
+&lt;ul&gt;
+&lt;li&gt;Take your 3 NORIs and forms to get a NORI that they will forward to the Department of State, US)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Send your package to USCIS (w/ tracking)
+
+&lt;ul&gt;
+&lt;li&gt;Include all the necessary background documents&lt;/li&gt;
+&lt;li&gt;NORIs from all of the above&lt;/li&gt;
+&lt;li&gt;DS-3035 form&lt;/li&gt;
+&lt;li&gt;Preferably, don’t include what’s not in the govt. list&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Note: You can migrate your J1 to a different university during your J1’s duration of validity.
+
+&lt;ul&gt;
+&lt;li&gt;Talk to both the universities’ J1 departments.&lt;/li&gt;
+&lt;li&gt;This would take 24-48h but can only happen before you terminate your current appointment. Once you are out, you need to process a new J1 and, possibly, go this whole process once again!&lt;/li&gt;
+&lt;li&gt;This could happen even while your J1 is being petitioned.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;initial-set-of-documents-needed-for-the-indian-consulate-attestation&#34;&gt;Initial set of documents needed for the Indian Consulate attestation&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Original Passport + Visa (+ copy)&lt;/li&gt;
+&lt;li&gt;All DS-2019s (+ copy)&lt;/li&gt;
+&lt;li&gt;Latest I-94 (+ copy)
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://i94.cbp.dhs.gov/I94&#34; target=&#34;_blank&#34;&gt;https://i94.cbp.dhs.gov/I94&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Proof of residence in the US (preferably 2)&lt;/li&gt;
+&lt;li&gt;Cash, money order or cashier’s cheque&lt;/li&gt;
+&lt;li&gt;Biodata &amp;amp; Affidavit
+
+&lt;ul&gt;
+&lt;li&gt;unfilled sample: J1-waiver-biodata-affidavit-NY_unfilled.pdf&lt;/li&gt;
+&lt;li&gt;The first page is for New York Consulate General but others could use it as a guide too.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;documents-to-be-sent-to-indian-home-department&#34;&gt;Documents to be sent to Indian Home Department&lt;/h1&gt;
+
+&lt;p&gt;Govt. of India Ministry of Human Resource Development (HRD)
+No Obligation to Return to India
+&lt;a href=&#34;http://www.nori.ac.in/&#34; target=&#34;_blank&#34;&gt;http://www.nori.ac.in/&lt;/a&gt; (quite straightforward; trackable (!); they are really fast &amp;amp; responsive)
+* Biodata and Affidavit (Notarized &amp;amp; Attested by the Consulate General of India, New York, USA)
+* e-Copy of Passport (New and Old) and J1-Visa
+* e-Copy of all DS-2019s
+* e-Copies of PhD &amp;amp; BTech (other, as applicable) Degree Certificate
+* I don’t remember if I included:
+    * Employment letter from the department chair (I needed this somewhere)
+    * Proof of current residence in the US&lt;/p&gt;
+
+&lt;h1 id=&#34;documents-to-be-sent-to-the-other-two-departments&#34;&gt;Documents to be sent to the other two departments:&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;your state government&lt;/li&gt;
+&lt;li&gt;your Regional Passport Office (likely, where you got your first passport)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;list-of-documents&#34;&gt;List of documents&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Biodata and Affidavit (Notarized &amp;amp; Attested by the Consulate General of India, New York, USA)&lt;/li&gt;
+&lt;li&gt;Copy of Passport (New and Old) and J1-Visa&lt;/li&gt;
+&lt;li&gt;Copy of all DS-2019s&lt;/li&gt;
+&lt;li&gt;Proof of current residence in the US&lt;/li&gt;
+&lt;li&gt;Copies of Ph.D. &amp;amp; B.Tech (other, as applicable) Degree Certificate&lt;/li&gt;
+&lt;li&gt;Cover letter with your request to grant NORI
+
+&lt;ul&gt;
+&lt;li&gt;Your correct address &amp;amp; theirs (of course!) including your email ID (you never know!)&lt;/li&gt;
+&lt;li&gt;Where you are studying/working&lt;/li&gt;
+&lt;li&gt;Passport number (new and old)&lt;/li&gt;
+&lt;li&gt;Why you need the waiver (change of job, extending the same one, …)&lt;/li&gt;
+&lt;li&gt;List of attested/enclosed copies of documents&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Letter of consent from your parent saying that you have no legal obligation to return. Include these details, if possible/applicable
+
+&lt;ul&gt;
+&lt;li&gt;Who they are, where they are working/retired from&lt;/li&gt;
+&lt;li&gt;Brief family history&lt;/li&gt;
+&lt;li&gt;Your residential address (India)&lt;/li&gt;
+&lt;li&gt;Your brief educational history&lt;/li&gt;
+&lt;li&gt;When and why you came to the US&lt;/li&gt;
+&lt;li&gt;Your marital &amp;amp; dependent info (briefly) when applicable&lt;/li&gt;
+&lt;li&gt;Your current residential address in the US&lt;/li&gt;
+&lt;li&gt;Why you are requesting the waiver (in their words)&lt;/li&gt;
+&lt;li&gt;And something along these lines (sample below)
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;With regard to the NORI certification, I confirm that all the details
+stated above are true to the best of my knowledge and all supporting documents
+have been attached for your perusal (the shipping document list is on the next page).
+There is no civil or criminal case against my daughter, XYZ.
+Also, she did not take any educational loan from the Indian or US governments.
+Therefore, she does not have any commitments here in India for legal,
+financial or personal reasons.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  I, therefore, request you to kindly provide the necessary NORI certificate
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;that will help her continue working towards her professional and personal
+goals in the US. The experience and expertise that she gains during her stay
+there will help her serve India better in the long run.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&#34;addresses-for-mailing-your-packages&#34;&gt;Addresses for mailing your packages&lt;/h1&gt;
+
+&lt;h2 id=&#34;tn-state-department&#34;&gt;TN State Department&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;The Secretary
+Home (Citz II) Department
+Government of Tamil Nadu
+Secretariat, Fort St. George
+Chennai 600 009
+Tamil Nadu, India
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;regional-passport-office-rpo&#34;&gt;Regional Passport Office (RPO)&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;The Passport Officer
+Regional Passport Office
+Royala Towers No. 2 and 3, IV Floor,
+Old No. 785, New No. 158, Anna Salai,
+Chennai 600002
+Tamil Nadu, India
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h1 id=&#34;additional-documents-required-for-police-verification&#34;&gt;Additional documents required for police verification&lt;/h1&gt;
+
+&lt;p&gt;&lt;code&gt;[At least, I needed it (Chennai, Tamil Nadu)]&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;main-letters-documents&#34;&gt;Main letters/documents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Consent letter and Pro Forma from the applicant&amp;rsquo;s parent&lt;/li&gt;
+&lt;li&gt;Letter from the applicant&amp;rsquo;s spouse&lt;/li&gt;
+&lt;li&gt;Biodata of the applicant&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;supporting-documents&#34;&gt;Supporting documents&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Applicant&amp;rsquo;s: Mark sheets and certificates
+
+&lt;ol&gt;
+&lt;li&gt;10th 12th mark sheets&lt;/li&gt;
+&lt;li&gt;B. Tech. degree certificate&lt;/li&gt;
+&lt;li&gt;Ph.D. degree certificate&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Applicant&amp;rsquo;s: Passport and Visa
+
+&lt;ol&gt;
+&lt;li&gt;Passport (front/back)&lt;/li&gt;
+&lt;li&gt;J-1 Visa &amp;amp; Certificate of eligibility for exchange visitor (J-1) status (DS-2019)&lt;/li&gt;
+&lt;li&gt;Old passport and old J1 and F1 visas&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Applicant&amp;rsquo;s: Graduate assistantship letter for PhD&lt;/li&gt;
+&lt;li&gt;Applicant&amp;rsquo;s: Employment letter (current place of work)&lt;/li&gt;
+&lt;li&gt;Spouse&amp;rsquo;s: Mark sheets and certificates
+
+&lt;ol&gt;
+&lt;li&gt;10th, 12th mark sheets&lt;/li&gt;
+&lt;li&gt;B. Tech. degree certificate&lt;/li&gt;
+&lt;li&gt;Ph.D. degree certificate&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Applicant’s Spouse&amp;rsquo;s: Passport and Visa
+
+&lt;ol&gt;
+&lt;li&gt;Passport (front/back)&lt;/li&gt;
+&lt;li&gt;H1B visa approval notice (I-797)&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Applicant’s Spouse&amp;rsquo;s: Employment letter (MSU)&lt;/li&gt;
+&lt;li&gt;Both: Marriage certificate&lt;/li&gt;
+&lt;li&gt;Both: Present address proof (Wells Fargo bank statement)&lt;/li&gt;
+&lt;li&gt;Applicant’s Parents&amp;rsquo;: Chennai address proof (Ration card, gas bill)&lt;/li&gt;
+&lt;li&gt;Applicant’s Parents&amp;rsquo;: Aadhar card&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;final-set-of-documents-to-be-sent-to-the-uscis-department-of-state&#34;&gt;Final set of documents to be sent to the USCIS, Department of State&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read the &lt;a href=&#34;https://travel.state.gov/content/travel/en/us-visas/study/exchange/waiver-of-the-exchange-visitor/how-to-apply-waiver.html&#34; target=&#34;_blank&#34;&gt;How to apply for a waiver&lt;/a&gt; page on the travel.state.gov website again.&lt;/li&gt;
+&lt;li&gt;DS-3035 &amp;amp; SOR J1 waiver application packet for USCIS and Department of State
+
+&lt;ul&gt;
+&lt;li&gt;Application fee
+
+&lt;ul&gt;
+&lt;li&gt;Non-refundable — do it at the end&lt;/li&gt;
+&lt;li&gt;cashier’s cheque written out to ’The US Department of State’&lt;/li&gt;
+&lt;li&gt;Include your name and case number (from the DS-3035 barcode)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Waiver review division barcode&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.j1waivertips.com/sample-statement-of-reason-for-j1-visa-waiver-application-at-us-dept-of-state/&#34; target=&#34;_blank&#34;&gt;Statement of reason&lt;/a&gt; (below)
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;	Sample statement:
+	I am XYZ working at ABC as a PQR. I am currently on J1 visa sponsored by QWERTY. My J1 visa started on 7/19/2013 and ends on 7/19/2018 with a two-year home residency requirement. The main purpose of my J1 visa is to allow me to do research. My research work is progressing well, and it needs more time (longer than 7/19/2018) to complete my research projects. Since I am the lead person in the research projects, my employer and I feel that the opportunity for me to stay here in the US and complete the projects by obtaining the J1 visa waiver will be great.
+
+	I am requesting a waiver of the two-year home residence requirement to complete my work here on the basis of No Objection certificate.  My home country “Govt of India” has no objection in allowing me to continue working here in the US, and has issued a No Objection certificate to that effect.  The Indian Embassy in the USA will be issuing the No Objection statement to you. I kindly request you to grant me the J1 visa waiver at the earliest.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;* The actual completed DS-3035
+    * https://j1visawaiverrecommendation.state.gov/
+    * If you make a mistake, fill it out from the beginning
+* Passport data page
+* All DS2019s, IAP-66
+* Degree Certificates (Bachelors, Masters, PhD, …)
+* Statement of Reason
+* Two self-addressed stamped envelopes (legal-size)
+* Your NORis from
+    * India: i) home department, ii) state department and iii) regional passport office (for police verification) and
+    * US (local Indian Consulate, although they would be sending a copy)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;address-for-the-package-to-be-sent&#34;&gt;Address for the package to be sent&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;Postal Service
+Department of State J-1 Waiver
+P.O. Box 979037
+St. Louis, MO 63197-9000
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;Courier Service
+Department of State J-1 Waiver
+P.O. Box 979037
+1005 Convention Plaza
+St. Louis, MO 63101-1200
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;tracking-progress&#34;&gt;Tracking progress&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/&#34; target=&#34;_blank&#34;&gt;https://j1visawaiverrecommendation.state.gov/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic: the website designer for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Key features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
+&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
+&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
+&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
+
+&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Ocean&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Dark&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Coffee theme with Playfair font&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;1950s&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
+&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
+&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
+&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34;&gt;Install Academic with Netlify&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
+&lt;li&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
+
+&lt;p&gt;Prerequisites:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd My_Website
+git submodule update --init --recursive
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo server
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now visit &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
+
+&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
+
+&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
+
+&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
+
+&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
+
+&lt;p&gt;For support, head over to the &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis.</title>
+      <link>/publication/sigfac-mtb/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/sigfac-mtb/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions.</title>
+      <link>/publication/psp-mtb/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/psp-mtb/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: A fancy pie chart.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -22,9 +22,11 @@
 </a>
 {{ end }}
 {{ range $.Params.projects }}
+{{ with ($.Site.GetPage "page" "project" .) }}
 <a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ ($.Site.GetPage "page" "project" .).Permalink }}">
   {{ i18n "btn_project" }}
 </a>
+{{ end }}
 {{ end }}
 {{ range $.Params.url_custom }}
 <a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ .url | absURL }}">
