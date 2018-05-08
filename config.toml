@@ -243,15 +243,15 @@ enableGitInfo = false
     icon_pack = "ai"
     link = "//researchgate.com/jananiravi"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/jananiravi"
-
    [[params.social]]
     icon = "goodreads"
     icon_pack = "fa"
     link = "//goodreads.com/jananiravi"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/jananiravi"
 
 
 # Navigation Links
