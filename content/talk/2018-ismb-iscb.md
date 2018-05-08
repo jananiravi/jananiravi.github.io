@@ -1,17 +1,17 @@
 +++
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
-title = "Example Talk"
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+title = "Using computational appraches to understand host-pathogen biology"
+time_start = 2018-07-06T13:00:00
+time_end = 2018-07-10T15:00:00
 abstract = ""
 abstract_short = ""
 event = "Academic Theme Conference"
-event_url = "https://example.org"
-location = "London, United Kingdom"
+event_url = ""
+location = "Chicago, IL"
 
 # Is this a selected talk? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -33,7 +33,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "psp-3systems.tiff"
 caption = "My caption :smile:"
 
 +++
