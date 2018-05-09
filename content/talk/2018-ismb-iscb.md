@@ -6,8 +6,8 @@ time_start = 2018-07-06T13:00:00
 time_end = 2018-07-10T15:00:00
 abstract = ""
 abstract_short = ""
-event = "Academic Theme Conference"
-event_url = ""
+event = "ISMB (ISCB)"
+event_url = "https://www.iscb.org/ismb2018"
 location = "Chicago, IL"
 
 # Is this a selected talk? (true/false)
@@ -16,7 +16,7 @@ selected = true
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["psp-actino"]
+projects = ["stress-response"]
 
 # Links (optional).
 url_pdf = ""

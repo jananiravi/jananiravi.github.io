@@ -33,8 +33,8 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Host-pathogen biology"
-  tag = ".host-pathogen"
+  name = "Stress response"
+  tag = ".stress-response"
 
 [[filter]]
   name = "Dynamical Systems"

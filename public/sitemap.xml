@@ -5,15 +5,6 @@
     
     <url>
     
-      <loc>/publication/psp-evolution/</loc>
-      <lastmod>2018-07-01T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/project/stress-response/</loc>
       <lastmod>2018-05-07T00:00:00-04:00</lastmod>
     </url>
@@ -159,16 +150,6 @@
     
     <url>
     
-      <loc>/publication_types/3/</loc>
-      <lastmod>2018-07-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/actinobacteria/</loc>
       <lastmod>2018-05-07T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -259,7 +240,7 @@
     
     <url>
     
-      <loc>/categories/git/</loc>
+      <loc>/tags/git/</loc>
       <lastmod>2018-05-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -269,7 +250,7 @@
     
     <url>
     
-      <loc>/tags/git/</loc>
+      <loc>/categories/git/</loc>
       <lastmod>2018-05-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
