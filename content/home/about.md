@@ -11,10 +11,9 @@ weight = 1
 [interests]
   interests = [
     "Computational Biology",
-    "Bioinformatics",
-    "Data Science",
-    "Genomics",
+    "Host-pathogen Biology",
     "Translational Research",
+    "Data Science & R",
     "Mathematical Biology"
   ]
 

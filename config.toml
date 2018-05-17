@@ -64,7 +64,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Me_at_work.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "janani@msu.edu"
-  address = "Pathobiology and Diagnostic Investigation, 784 Wilson Rd, Room G304, Michigan State University, East Lansing, 48824, USA"
+  address = "Pathobiology and Diagnostic Investigation,\n784 Wilson Rd, Room G304,\nMichigan State University,\nEast Lansing, 48824, USA"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+1 517 353 5491"
   skype = "jananiravi"
@@ -79,7 +79,7 @@ enableGitInfo = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "Me_at_work.jpg"
+  logo = "bookhat-profilepic.jpg"
 
   # Enable/disable map in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose

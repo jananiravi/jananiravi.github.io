@@ -38,7 +38,7 @@ filter_default = 0
 
 [[filter]]
   name = "Dynamical Systems"
-  tag = ".eg-ext-proj"
+  tag = ".dynamical-systems"
 
 +++
 

@@ -11,23 +11,27 @@
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Stress response systems</title>
-      <link>/project/stress-response-systems/</link>
+      <title>Stress response</title>
+      <link>/project/stress-response/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/project/stress-response-systems/</guid>
+      <guid>/project/stress-response/</guid>
       <description>
 
+&lt;h2 id=&#34;psp-systems-across-the-tree-of-life&#34;&gt;Psp systems across the tree of life&lt;/h2&gt;
+
 &lt;h2 id=&#34;psp-systems-in-actinobacteria&#34;&gt;Psp systems in actinobacteria&lt;/h2&gt;
+
+&lt;h2 id=&#34;psp-system-in-m-tuberculosis&#34;&gt;Psp system in M. tuberculosis&lt;/h2&gt;
 </description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
+      <title>Dynamical Systems</title>
+      <link>/project/dynamical-systems/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/external-project/</guid>
+      <guid>/project/dynamical-systems/</guid>
       <description></description>
     </item>
     

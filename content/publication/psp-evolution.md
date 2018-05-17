@@ -3,7 +3,7 @@ title = "The evolution, conservation, and covariation of the bacterial Psp envel
 date = 2018-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Janani Ravi", "Vivek Anantharaman", "L Aravind", "Maria Laura Gennaro"]
+authors = ["_J Ravi_", "V Anantharaman", "L Aravind", "ML Gennaro"]
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ authors = ["Janani Ravi", "Vivek Anantharaman", "L Aravind", "Maria Laura Gennar
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Molecular Biology and Evolution*, XXX."
+publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -28,7 +28,7 @@ abstract_short = "XYZ_short"
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

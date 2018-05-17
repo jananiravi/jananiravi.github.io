@@ -1,9 +1,9 @@
 +++
-title = "The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions."
+title = "The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions"
 date = 2015-08-03T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pratik Datta", "Janani Ravi", "Valentina Guerrini", "Rinki Chauhan", "Matthew B Neiditch", "Scarlet S Shell", "Sarah M Fortune", "Baris Hancioglu", "Oleg A Igoshin", "Maria L Gennaro"]
+authors = ["P Datta", "*J Ravi*", "V Guerrini", "R Chauhan", "MB Neiditch", "SS Shell", "SM Fortune", "B Hancioglu", "OA Igoshin", "ML Gennaro"]
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ authors = ["Pratik Datta", "Janani Ravi", "Valentina Guerrini", "Rinki Chauhan",
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Molecular Microbiology*, Wiley."
+publication = "In *Molecular Microbiology*, Wiley"
 publication_short = "In *Mol Micro*"
 
 # Abstract and optional shortened version.

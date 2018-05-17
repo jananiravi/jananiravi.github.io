@@ -3,7 +3,7 @@ title = "Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tub
 date = 2014-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Hugh Salamon", "Natalie Bruiners", "Karim Lakehal", "Lanbo Shi", "Janani Ravi", "Ken D Yamaguchi", "Richard Pine", "Maria L Gennaro"]
+authors = [ "H Salamon", "N Bruiners", "K Lakehal", "L Shi", "*J Ravi*", "KD Yamaguchi", "R Pine", "ML Gennaro"]
 
 # Publication type.
 # Legend:

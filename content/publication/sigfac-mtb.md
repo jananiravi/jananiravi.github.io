@@ -1,9 +1,9 @@
 +++
-title = "Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis."
+title = "Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis"
 date = 2016-03-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Rinki Chauhan", "Janani Ravi", "Pratik Datta", "Tianlong Chen", "Dirk Schnappinger", "Kevin E Bassler", "Gabor Balázsi", "Maria L Gennaro"]
+authors = [ "R Chauhan", "*J Ravi*", "P Datta", "T Chen", "D Schnappinger", "KE Bassler", "G Balázsi", "ML Gennaro"]
 
 # Publication type.
 # Legend:

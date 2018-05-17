@@ -3,17 +3,17 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "External Project"
+title = "Dynamical Systems"
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "My prior mathematical biology projects involving dynamical systems e.g. [*START transition in the Budding Yeast Cell Cycle*](http://mpf.biol.vt.edu/lab_website/research.php)."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+image_preview = "start-by-cellcycle-simple.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["demo"]
+tags = ["dynamical-systems"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://example.org"

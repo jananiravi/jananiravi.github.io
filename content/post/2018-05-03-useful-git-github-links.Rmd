@@ -3,12 +3,12 @@ title: Useful Git/GitHub links
 author: Janani Ravi
 date: '2018-05-03'
 categories:
-  - Git
+  - Resources
 tags:
-  - Git
-  - GitHub
+  - git-github
+  - software-tools
   - refs
-slug: useful-git-github-links
+# slug: useful-git-github-links
 output:
   blogdown::html_page:
     toc: true

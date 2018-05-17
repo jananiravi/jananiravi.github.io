@@ -1,6 +1,17 @@
 ---
 title: "J1 visa waiver | How to obtain your NORI?"
 date: "2017-03-14"
+author: Janani Ravi
+categories:
+  - Resources
+tags:
+  - travel
+  - resources
+  - refs
+# slug: j1-visa-waiver-nori
+output:
+  blogdown::html_page:
+    toc: true
 ---
 
 # About Me

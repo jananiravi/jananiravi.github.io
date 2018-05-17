@@ -21,23 +21,27 @@
     </item>
     
     <item>
-      <title>Stress response systems</title>
-      <link>/project/stress-response-systems/</link>
+      <title>Stress response</title>
+      <link>/project/stress-response/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/project/stress-response-systems/</guid>
+      <guid>/project/stress-response/</guid>
       <description>
 
+&lt;h2 id=&#34;psp-systems-across-the-tree-of-life&#34;&gt;Psp systems across the tree of life&lt;/h2&gt;
+
 &lt;h2 id=&#34;psp-systems-in-actinobacteria&#34;&gt;Psp systems in actinobacteria&lt;/h2&gt;
+
+&lt;h2 id=&#34;psp-system-in-m-tuberculosis&#34;&gt;Psp system in M. tuberculosis&lt;/h2&gt;
 </description>
     </item>
     
     <item>
       <title>Useful Git/GitHub links</title>
-      <link>/post/useful-git-github-links/</link>
+      <link>/post/usefulgit/github-links/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/useful-git-github-links/</guid>
+      <guid>/post/usefulgit/github-links/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#see-also&#34;&gt;See also:&lt;/a&gt;&lt;/li&gt;
@@ -115,11 +119,11 @@
     </item>
     
     <item>
-      <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria.</title>
-      <link>/publication/variations-on-a-theme-evolution-of-the-phage-shock-protein-system-in-actinobacteria./</link>
+      <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
+      <link>/publication/variations-on-a-theme-evolution-of-the-phage-shock-protein-system-in-actinobacteria/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
       
-      <guid>/publication/variations-on-a-theme-evolution-of-the-phage-shock-protein-system-in-actinobacteria./</guid>
+      <guid>/publication/variations-on-a-theme-evolution-of-the-phage-shock-protein-system-in-actinobacteria/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
@@ -485,11 +489,11 @@ St. Louis, MO 63101-1200
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
+      <title>Dynamical Systems</title>
+      <link>/project/dynamical-systems/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/external-project/</guid>
+      <guid>/project/dynamical-systems/</guid>
       <description></description>
     </item>
     
@@ -682,21 +686,21 @@ git submodule update --init --recursive
     </item>
     
     <item>
-      <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis.</title>
-      <link>/publication/reconstruction-and-topological-characterization-of-the-sigma-factor-regulatory-network-of-mycobacterium-tuberculosis./</link>
+      <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
+      <link>/publication/reconstruction-and-topological-characterization-of-the-sigma-factor-regulatory-network-of-mycobacterium-tuberculosis/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
       
-      <guid>/publication/reconstruction-and-topological-characterization-of-the-sigma-factor-regulatory-network-of-mycobacterium-tuberculosis./</guid>
+      <guid>/publication/reconstruction-and-topological-characterization-of-the-sigma-factor-regulatory-network-of-mycobacterium-tuberculosis/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions.</title>
-      <link>/publication/the-psp-system-of-mycobacterium-tuberculosis-integrates-envelope-stress-sensing-and-envelope-preserving-functions./</link>
+      <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
+      <link>/publication/the-psp-system-of-mycobacterium-tuberculosis-integrates-envelope-stress-sensing-and-envelope-preserving-functions/</link>
       <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
       
-      <guid>/publication/the-psp-system-of-mycobacterium-tuberculosis-integrates-envelope-stress-sensing-and-envelope-preserving-functions./</guid>
+      <guid>/publication/the-psp-system-of-mycobacterium-tuberculosis-integrates-envelope-stress-sensing-and-envelope-preserving-functions/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

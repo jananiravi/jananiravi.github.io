@@ -1,9 +1,9 @@
 +++
-title = "Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria."
+title = "Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria"
 date = 2018-02-27T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Janani Ravi", "Vivek Anantharaman", "L Aravind", "Maria Laura Gennaro"]
+authors = ["*J Ravi*", "V Anantharaman", "L Aravind", "ML Gennaro"]
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ authors = ["Janani Ravi", "Vivek Anantharaman", "L Aravind", "Maria Laura Gennar
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Antonie Van Leeuwenhoek*, Springer."
+publication = "In *Antonie Van Leeuwenhoek*, Springer"
 publication_short = "In *Anto*"
 
 # Abstract and optional shortened version.
