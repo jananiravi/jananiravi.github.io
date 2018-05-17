@@ -1,11 +1,12 @@
 +++
 title = "Academic: the website designer for Hugo"
 
-date = 2016-04-20T00:00:00
+date = 2018-05-07T00:00:00
 lastmod = 2018-01-13T00:00:00
 draft = false
 
-tags = ["academic"]
+tags = ["refs"]
+categories = ["Resources"]
 summary = "Create a beautifully simple website or blog in under 10 minutes."
 
 [header]

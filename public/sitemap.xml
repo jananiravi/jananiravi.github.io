@@ -14,6 +14,15 @@
     
     <url>
     
+      <loc>/post/academic-the-website-designer-for-hugo/</loc>
+      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/stress-response/</loc>
       <lastmod>2018-05-07T00:00:00-04:00</lastmod>
     </url>
@@ -97,15 +106,6 @@
     
       <loc>/project/dynamical-systems/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/academic-the-website-designer-for-hugo/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -290,7 +290,7 @@
     <url>
     
       <loc>/tags/refs/</loc>
-      <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -310,7 +310,7 @@
     <url>
     
       <loc>/categories/resources/</loc>
-      <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
