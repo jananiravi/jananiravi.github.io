@@ -3,7 +3,7 @@
 date = 2018-05-07T00:00:00
 
 # Project title.
-title = "PspA in Actinobacteria"
+title = "Stress response systems"
 
 # Project summary to display on homepage.
 summary = "XYZ"
@@ -28,7 +28,5 @@ caption = "Psp in actinobacteria"
 
 +++
 
-# Paper 1
-# Paper 2
-# Paper 3
-# Paper 4
+
+## Psp systems in actinobacteria

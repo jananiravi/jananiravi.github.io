@@ -182,6 +182,13 @@ enableGitInfo = false
     'Book section'  # 6
   ]
 
+## INCLUDING FROM @gcushen suggestion in https://github.com/gcushen/hugo-academic/issues/534
+[permalinks]
+  post = "/post/:slug"
+  talk = "/talk/:slug"
+  publication = "/publication/:slug"
+  project = "/project/:slug"
+
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
@@ -196,7 +203,7 @@ enableGitInfo = false
   # Configuration of project pages.
   [params.projects]
     # List publications and talks related to the project?
-    list_children = true
+    list_children = false
 
     # Publication list format.
     #   0 = Simple
@@ -241,7 +248,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "researchgate"
     icon_pack = "ai"
-    link = "//researchgate.com/jananiravi"
+    link = "//researchgate.com/Janani_Ravi2"
 
    [[params.social]]
     icon = "goodreads"
@@ -269,7 +276,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
@@ -282,10 +289,10 @@ enableGitInfo = false
   url = "#projects"
   weight = 4
 
-# [[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 5
+ [[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"

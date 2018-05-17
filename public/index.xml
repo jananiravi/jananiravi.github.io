@@ -11,20 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>PspA in Actinobacteria</title>
-      <link>/project/stress-response/</link>
+      <title>The evolution, conservation, and covariation of the bacterial Psp envelope-stress-response system</title>
+      <link>/publication/the-evolution-conservation-and-covariation-of-the-bacterial-psp-envelope-stress-response-system/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/the-evolution-conservation-and-covariation-of-the-bacterial-psp-envelope-stress-response-system/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stress response systems</title>
+      <link>/project/stress-response-systems/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/project/stress-response/</guid>
+      <guid>/project/stress-response-systems/</guid>
       <description>
 
-&lt;h1 id=&#34;paper-1&#34;&gt;Paper 1&lt;/h1&gt;
-
-&lt;h1 id=&#34;paper-2&#34;&gt;Paper 2&lt;/h1&gt;
-
-&lt;h1 id=&#34;paper-3&#34;&gt;Paper 3&lt;/h1&gt;
-
-&lt;h1 id=&#34;paper-4&#34;&gt;Paper 4&lt;/h1&gt;
+&lt;h2 id=&#34;psp-systems-in-actinobacteria&#34;&gt;Psp systems in actinobacteria&lt;/h2&gt;
 </description>
     </item>
     
@@ -112,10 +116,10 @@
     
     <item>
       <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria.</title>
-      <link>/publication/pspa-actino/</link>
+      <link>/publication/variations-on-a-theme-evolution-of-the-phage-shock-protein-system-in-actinobacteria./</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
       
-      <guid>/publication/pspa-actino/</guid>
+      <guid>/publication/variations-on-a-theme-evolution-of-the-phage-shock-protein-system-in-actinobacteria./</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
@@ -133,9 +137,7 @@ Starting with Daniel Kahneman’s Thinking Fast and Slow, followed by the writin
 &lt;p&gt;‘The Black Swan’ by Nassim Nicholas Taleb (&lt;a href=&#34;http://fooledbyrandomness.com/&#34; class=&#34;uri&#34;&gt;http://fooledbyrandomness.com/&lt;/a&gt;) has been on my list ever since I first got infatuated with this topic. I finally finished it last month. Man, is it it well-written! The guy is brilliant, and his wit and humor are unmatchable! Among other things, he leads (and concludes) with our love for everything normal, statistically speaking and otherwise, and how we can’t but help make the obvious blunders of predicting, quite erroneously, based on the past, even though we know fully well that life doesn’t present itself as a series of bell curves stringed together just so that we can get away with some easy math! You’ll hear a lot about epistemology (defined in PS3; truth be told, I hadn’t heard of this word until last month), mediocristan (the Gaussian life) vs extremistan (scale-free distributions encountered more often than not in real-life)&lt;/p&gt;
 &lt;p&gt;Here’s a snippet: &lt;a href=&#34;https://drive.google.com/file/d/0B7_wAV4HsNrkQmdFMndHSHhldFE/view&#34; class=&#34;uri&#34;&gt;https://drive.google.com/file/d/0B7_wAV4HsNrkQmdFMndHSHhldFE/view&lt;/a&gt; Never mind if you don’t get it. I enjoyed every last bit of the book, and hope that you do too!
 Give it a try - whether you love it or hate it, it would be time well-spent! :)&lt;/p&gt;
-&lt;p&gt;Happy reading!
-Lots of love,
-J&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Happy reading!&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;PS1. I’ve heard that people either love it or hate it. Clearly, I fall in the bin #1. Do I agree with everything? Well, yeah, almost everything.
 PS2. Luckily, none of you are directly tied to economics or financial sectors. :D Well, scientists and statisticians have been insulted too, but the elegance of it makes it OK! Lots to think about.:)
 PS3. Epistemology studies the nature of knowledge, justification, and the rationality of belief. Much of the debate in epistemology centers on four areas: (1) the philosophical analysis of the nature of knowledge and how it relates to such concepts as truth, belief, and justification, (2) various problems of skepticism, (3) the sources and scope of knowledge and justified belief, and (4) the criteria for knowledge and justification.&lt;/p&gt;
@@ -160,10 +162,10 @@ PS3. Epistemology studies the nature of knowledge, justification, and the ration
     
     <item>
       <title>J1 visa waiver | How to obtain your NORI?</title>
-      <link>/post/2017-03-14-j1-visa-waiver/</link>
+      <link>/post/j1-visa-waiver--how-to-obtain-your-nori/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017-03-14-j1-visa-waiver/</guid>
+      <guid>/post/j1-visa-waiver--how-to-obtain-your-nori/</guid>
       <description>
 
 &lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
@@ -474,29 +476,29 @@ St. Louis, MO 63101-1200
     
     <item>
       <title>Using computational appraches to understand host-pathogen biology</title>
-      <link>/talk/2018-ismb-iscb/</link>
+      <link>/talk/using-computational-appraches-to-understand-host-pathogen-biology/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/talk/2018-ismb-iscb/</guid>
+      <guid>/talk/using-computational-appraches-to-understand-host-pathogen-biology/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>/project/example-external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/example-external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>/post/academic-the-website-designer-for-hugo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>/post/academic-the-website-designer-for-hugo/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -681,30 +683,30 @@ git submodule update --init --recursive
     
     <item>
       <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis.</title>
-      <link>/publication/sigfac-mtb/</link>
+      <link>/publication/reconstruction-and-topological-characterization-of-the-sigma-factor-regulatory-network-of-mycobacterium-tuberculosis./</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
       
-      <guid>/publication/sigfac-mtb/</guid>
+      <guid>/publication/reconstruction-and-topological-characterization-of-the-sigma-factor-regulatory-network-of-mycobacterium-tuberculosis./</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions.</title>
-      <link>/publication/psp-mtb/</link>
+      <link>/publication/the-psp-system-of-mycobacterium-tuberculosis-integrates-envelope-stress-sensing-and-envelope-preserving-functions./</link>
       <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
       
-      <guid>/publication/psp-mtb/</guid>
+      <guid>/publication/the-psp-system-of-mycobacterium-tuberculosis-integrates-envelope-stress-sensing-and-envelope-preserving-functions./</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection.</title>
-      <link>/publication/vitd/</link>
+      <link>/publication/cutting-edge-vitamin-d-regulates-lipid-metabolism-in-mycobacterium-tuberculosis-infection./</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
       
-      <guid>/publication/vitd/</guid>
+      <guid>/publication/cutting-edge-vitamin-d-regulates-lipid-metabolism-in-mycobacterium-tuberculosis-infection./</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

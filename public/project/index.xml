@@ -11,29 +11,23 @@
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>PspA in Actinobacteria</title>
-      <link>/project/stress-response/</link>
+      <title>Stress response systems</title>
+      <link>/project/stress-response-systems/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/project/stress-response/</guid>
+      <guid>/project/stress-response-systems/</guid>
       <description>
 
-&lt;h1 id=&#34;paper-1&#34;&gt;Paper 1&lt;/h1&gt;
-
-&lt;h1 id=&#34;paper-2&#34;&gt;Paper 2&lt;/h1&gt;
-
-&lt;h1 id=&#34;paper-3&#34;&gt;Paper 3&lt;/h1&gt;
-
-&lt;h1 id=&#34;paper-4&#34;&gt;Paper 4&lt;/h1&gt;
+&lt;h2 id=&#34;psp-systems-in-actinobacteria&#34;&gt;Psp systems in actinobacteria&lt;/h2&gt;
 </description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>/project/example-external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/example-external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description></description>
     </item>
     

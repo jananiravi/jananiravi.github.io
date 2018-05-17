@@ -35,4 +35,4 @@ weight = 1
 
 I am a computational biologist (@Michigan State University) working on host-pathogen biology, protein sequence-structure-function relationships, and drug repurposing. I am interested in quantitative biology, like to code & develop methods, and enjoy being in a collaborative environment addressing interesting biological questions.
 
-I also like teaching statistical data analysis and visualization, and R/Python programming. I recently founded the R-Ladies East Lansing chapter. You could join us on [Meetup](meetup.com/Rladieselansing), [Twitter](twitter.com/RLadiesELansing), Slack or [GitHub](github.com/rladies).
+I also like teaching statistical data analysis and visualization, and R/Python programming. I recently founded the R-Ladies East Lansing chapter. You could join us on [Meetup](meetup.com/Rladieselansing), [Twitter](twitter.com/RLadiesELansing), [Slack](rladies-eastlansing.slack.com) or [GitHub](github.com/rladies).

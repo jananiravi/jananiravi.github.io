@@ -8,7 +8,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 4
 
 # Content.
 # Display content from the following folder.
@@ -38,7 +38,7 @@ filter_default = 0
 
 [[filter]]
   name = "Dynamical Systems"
-  tag = ".demo"
+  tag = ".eg-ext-proj"
 
 +++
 
