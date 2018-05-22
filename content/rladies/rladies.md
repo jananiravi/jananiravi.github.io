@@ -7,17 +7,13 @@ active = false
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Teaching"
-subtitle = ""
+# title = "R-Ladies"
+# subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 7
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
-I am a teaching instructor for the following courses at University X:
-
-- CS101: An intro to computer science
-
+# *Welcome to R-Ladies East Lansing!*
+Please join us on [Meetup](meetup.com/Rladieselansing), [Twitter](twitter.com/RLadiesELansing), [Slack](rladies-eastlansing.slack.com) or [GitHub](github.com/rladies).

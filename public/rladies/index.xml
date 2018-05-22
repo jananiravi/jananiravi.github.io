@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R-Ladies on Janani Ravi</title>
+    <link>/rladies/</link>
+    <description>Recent content in R-Ladies on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/rladies/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

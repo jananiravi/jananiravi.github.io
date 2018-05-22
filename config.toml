@@ -79,7 +79,7 @@ enableGitInfo = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "bookhat-profilepic.jpg"
+  logo = "monkey_icon.jpg"
 
   # Enable/disable map in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -188,6 +188,7 @@ enableGitInfo = false
   talk = "/talk/:slug"
   publication = "/publication/:slug"
   project = "/project/:slug"
+  rladies = "/rladies/:slug"
 
   # Configuration of talk pages.
   [params.talks]
@@ -210,7 +211,7 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 2
+    publication_format = 3
 
   # Social/Academic Networking
   #
@@ -276,7 +277,8 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications"
+    url = "#publications"
+  # url = "/publication"
   weight = 2
 
 [[menu.main]]
@@ -294,10 +296,16 @@ enableGitInfo = false
   url = "#talks"
   weight = 5
 
+# [[menu.main]]
+#  name = "R-Ladies"
+#  url = "#rladies"
+#  weight = 6
+
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
+
 
 # Taxonomies.
 [taxonomies]
