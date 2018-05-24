@@ -12,7 +12,7 @@ title = "Janani Ravi"
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; Janani Ravi, 2018"
 
-theme = "hugo-academic"
+theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
