@@ -14,7 +14,5 @@ list_format = 1
 image = ""
 caption = ""
 
-# *Welcome to R-Ladies East Lansing!*
-Please join us on [Meetup](meetup.com/Rladieselansing), [Twitter](twitter.com/RLadiesELansing), [Slack](rladies-eastlansing.slack.com) or [GitHub](github.com/rladies).
 
 +++
