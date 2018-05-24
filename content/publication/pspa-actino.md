@@ -17,8 +17,8 @@ authors = ["*J Ravi*", "V Anantharaman", "L Aravind", "ML Gennaro"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Antonie Van Leeuwenhoek*, Springer"
-publication_short = "In *Anto*"
+publication = "*Antonie Van Leeuwenhoek*, Springer."
+publication_short = "*Anto*"
 
 # Abstract and optional shortened version.
 abstract = "XYZ"

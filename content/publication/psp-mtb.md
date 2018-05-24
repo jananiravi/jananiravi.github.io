@@ -17,8 +17,8 @@ authors = ["P Datta", "*J Ravi*", "V Guerrini", "R Chauhan", "MB Neiditch", "SS 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Molecular Microbiology*, Wiley"
-publication_short = "In *Mol Micro*"
+publication = "*Molecular Microbiology*, Wiley"
+publication_short = "*Mol Micro*"
 
 # Abstract and optional shortened version.
 abstract = "The bacterial envelope integrates essential stress-sensing and adaptive functions; thus, envelope-preserving functions are important for survival. In Gram-negative bacteria, envelope integrity during stress is maintained by the multi-gene Psp response. Mycobacterium tuberculosis was thought to lack the Psp system since it encodes only pspA and no other psp ortholog. Intriguingly, pspA maps downstream from clgR, which encodes a transcription factor regulated by the MprAB-σ(E) envelope-stress-signaling system. clgR inactivation lowered ATP concentration during stress and protonophore treatment-induced clgR-pspA expression, suggesting that these genes express Psp-like functions. We identified a four-gene set - clgR, pspA (rv2744c), rv2743c, rv2742c - that is regulated by clgR and in turn regulates ClgR activity. Regulatory and protein-protein interactions within the set and a requirement of the four genes for functions associated with envelope integrity and surface-stress tolerance indicate that a Psp-like system has evolved in mycobacteria. Among Actinobacteria, the four-gene module occurred only in tuberculous mycobacteria and was required for intramacrophage growth, suggesting links between its function and mycobacterial virulence. Additionally, the four-gene module was required for MprAB-σ(E) stress-signaling activity. The positive feedback between envelope-stress-sensing and envelope-preserving functions allows sustained responses to multiple, envelope-perturbing signals during chronic infection, making the system uniquely suited to tuberculosis pathogenesis."
