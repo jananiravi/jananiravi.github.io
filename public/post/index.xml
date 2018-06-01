@@ -7,203 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 -0500</lastBuildDate>
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>/post/academic-the-website-designer-for-hugo/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/post/academic-the-website-designer-for-hugo/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Key features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
-&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
-&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
-&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
-&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
-
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Ocean&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Dark&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Coffee theme with Playfair font&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;1950s&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
-  &lt;/a&gt;
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
-&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
-&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
-&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34;&gt;Install Academic with Netlify&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
-&lt;li&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
-
-&lt;p&gt;Prerequisites:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;cd My_Website
-git submodule update --init --recursive
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo server
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now visit &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
-
-&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
-
-&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
-
-&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
-
-&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
-
-&lt;p&gt;For support, head over to the &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Useful Git/GitHub links</title>
-      <link>/post/usefulgit/github-links/</link>
+      <title>Useful Git/GitHub links</title>
+      <link>/post/2018/git-github-links/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/usefulgit/github-links/</guid>
+      <guid>/post/2018/git-github-links/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#see-also&#34;&gt;See also:&lt;/a&gt;&lt;/li&gt;
@@ -281,11 +93,77 @@ git submodule update --init --recursive
     </item>
     
     <item>
+      <title>Launching R-Ladies East Lansing!</title>
+      <link>/post/2018/rladies-elansing/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/rladies-elansing/</guid>
+      <description>&lt;div id=&#34;welcome-to-our-new-chapter&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;em&gt;Welcome to our new chapter!&lt;/em&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div id=&#34;what-were-about&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What we’re about&lt;/h2&gt;
+&lt;p&gt;R-Ladies East Lansing welcomes members of all R proficiency levels, whether you are a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp;amp; expert upskilling. Our non-profit, civil society community is designed to develop our members’ R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!&lt;/p&gt;
+&lt;p&gt;A local chapter of R-Ladies Global, &lt;strong&gt;R-Ladies East Lansing&lt;/strong&gt; exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. As a founding principle, there is no cost or charge to participate in any of our R-Ladies communities around the world.&lt;/p&gt;
+&lt;p&gt;We are part of Global R-Ladies group. Here are some links! You can access our presentations, R scripts and more (soon) on our Github account and follow us on twitter to stay up to date about R-Ladies news!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;where-to-find-us&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Where to find us?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rladies.org&#34;&gt;R-Ladies Global&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Github: &lt;a href=&#34;https://github.com/rladies&#34;&gt;@rladies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter: &lt;a href=&#34;http://twitter.com/RLadiesGlobal&#34;&gt;@RLadiesGlobal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email: info [at] rladies [dot] org&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;R-Ladies East Lansing
+&lt;ul&gt;
+&lt;li&gt;Twitter: &lt;a href=&#34;http://twitter.com/RLadiesELansing&#34;&gt;@RLadiesELansing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://meetup.com/rladies-east-lansing/&#34;&gt;Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rladies-eastlansing.slack.com&#34;&gt;Slack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;E-mail:
+&lt;ul&gt;
+&lt;li&gt;eastlansing [at] rladies [dot] org&lt;/li&gt;
+&lt;li&gt;janani [at] rladies [dot] org&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ps-community-policies-code-of-conduct&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;em&gt;PS&lt;/em&gt; Community Policies &amp;amp; Code of Conduct:&lt;/h2&gt;
+&lt;p&gt;The leadership, mentoring &amp;amp; teaching roles within this Community are held exclusively by minority genders (majority gender speakers may be allowed/invited as one-off guests in exceptional circumstances at the leadership team’s discretion). Due to unexpected demand, we have opened learning participation to all genders, dependent on initial and on-going vetting by the leadership team. However, the stated priority of the R-Ladies communities is the development &amp;amp; support specifically of those identifying as a minority gender, and we, therefore, reserve the right to guard this interest through whatever measures the leadership team deems appropriate. Anyone involved with R-Ladies East Lansing is expected to fully respect each other, the mandate of this community, and the goodwill on which R-Ladies is founded, or face expulsion/a penalty of any form, at the discretion of the leadership team. Full community guidelines are found here: &lt;a href=&#34;https://github.com/rladies/starter-kit/wiki&#34; class=&#34;uri&#34;&gt;https://github.com/rladies/starter-kit/wiki&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;pps-photos-films-and-all-other-mediarecordings&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;em&gt;PPS&lt;/em&gt; Photos, Films and all other media/recordings:&lt;/h2&gt;
+&lt;p&gt;Photos, Films, and all other media/recordings: photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies East Lansing event you grant the community organizers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fundraising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organizer.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017: Year in Books | Goodreads</title>
+      <link>/post/2017/goodreads-2017/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017/goodreads-2017/</guid>
+      <description>&lt;p&gt;Check out &lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2017/1671098&#34;&gt;2017 #MyYearInBooks&lt;/a&gt; on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;! &lt;a href=&#34;//twitter.com/goodreads&#34;&gt;@goodreads&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;summary-stats&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;2017: Summary Stats&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2018-01-01-goodreads-2017_files/20180101-goodreads-part1.png&#34; width=&#34;450&#34; height=&#34;450&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;books-read&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;2017: Books Read&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2018-01-01-goodreads-2017_files/2017-goodreads-part2.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Black Swan by Nassim Taleb</title>
-      <link>/post/black-swan-by-nassim-taleb/</link>
+      <link>/post/2017/black-swan-nassim-taleb/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/black-swan-by-nassim-taleb/</guid>
+      <guid>/post/2017/black-swan-nassim-taleb/</guid>
       <description>&lt;div id=&#34;book-review&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Book Review&lt;/h1&gt;
 &lt;p&gt;I find myself increasingly drawn to the field of Behavioral Economics (so much so that I was considering a second PhD to channelize my love!), and how beautifully evasive these concepts are in real life.
@@ -318,60 +196,81 @@ PS3. Epistemology studies the nature of knowledge, justification, and the ration
     
     <item>
       <title>J1 visa waiver | How to obtain your NORI?</title>
-      <link>/post/j1-visa-waiver--how-to-obtain-your-nori/</link>
+      <link>/post/2017/j1-visa-waiver-nori/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/j1-visa-waiver--how-to-obtain-your-nori/</guid>
-      <description>
+      <guid>/post/2017/j1-visa-waiver-nori/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#about-me&#34;&gt;About Me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#why-im-writing-this&#34;&gt;Why I’m writing this&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#the-initial-process-where-you-read-and-imbibe&#34;&gt;The initial process, where you read and imbibe!&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#helpful-links&#34;&gt;Helpful links:&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#approximate-order-of-key-events-things-to-do&#34;&gt;Approximate order of key events &amp;amp; things-to-do&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#initial-set-of-documents-needed-for-the-indian-consulate-attestation&#34;&gt;Initial set of documents needed for the Indian Consulate attestation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#documents-to-be-sent-to-indian-home-department&#34;&gt;Documents to be sent to Indian Home Department&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#documents-to-be-sent-to-the-other-two-departments&#34;&gt;Documents to be sent to the other two departments:&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#list-of-documents&#34;&gt;List of documents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#addresses-for-mailing-your-packages&#34;&gt;Addresses for mailing your packages&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#tn-state-department&#34;&gt;TN State Department&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#regional-passport-office-rpo&#34;&gt;Regional Passport Office (RPO)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#additional-documents-required-for-police-verification&#34;&gt;Additional documents required for police verification&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#main-lettersdocuments&#34;&gt;Main letters/documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#supporting-documents&#34;&gt;Supporting documents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#final-set-of-documents-to-be-sent-to-the-uscis-department-of-state&#34;&gt;Final set of documents to be sent to the USCIS, Department of State&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#address-for-the-package-to-be-sent&#34;&gt;Address for the package to be sent&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#tracking-progress&#34;&gt;Tracking progress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 
-&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
-
-&lt;p&gt;I’m Janani Ravi, currently at Michigan State University.&lt;/p&gt;
-
-&lt;h3 id=&#34;contact&#34;&gt;Contact:&lt;/h3&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;http://scr.im/janani&#34; target=&#34;_blank&#34;&gt;http://scr.im/janani&lt;/a&gt; | Twitter: &lt;a href=&#34;twitter.com/janani137&#34; target=&#34;_blank&#34;&gt;@janani137&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;why-i-m-writing-this&#34;&gt;Why I’m writing this&lt;/h1&gt;
-
+&lt;div id=&#34;about-me&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;About Me&lt;/h1&gt;
+&lt;p&gt;I’m Janani Ravi, currently at Michigan State University.
+### Contact:
+Email: &lt;a href=&#34;http://scr.im/janani&#34; class=&#34;uri&#34;&gt;http://scr.im/janani&lt;/a&gt; | Twitter: &lt;span class=&#34;citation&#34;&gt;[@janani137]&lt;/span&gt;(twitter.com/janani137)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;why-im-writing-this&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Why I’m writing this&lt;/h1&gt;
 &lt;p&gt;I went through this rather painful &amp;amp; ghastly process from Rutgers University, Newark, NJ. My closest consulate was, therefore, the one in New York (CGNY).
 I hail from Chennai, Tamil Nadu (India). So, most of the state department and RPO/police verification guidelines worked for my specific case. Of course, folks from other countries can skip ahead from their consulate to the last step reading some country-specific blogs in-between.&lt;/p&gt;
-
-&lt;h1 id=&#34;the-initial-process-where-you-read-and-imbibe&#34;&gt;The initial process, where you read and imbibe!&lt;/h1&gt;
-
-&lt;h2 id=&#34;helpful-links&#34;&gt;Helpful links:&lt;/h2&gt;
-
+&lt;/div&gt;
+&lt;div id=&#34;the-initial-process-where-you-read-and-imbibe&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;The initial process, where you read and imbibe!&lt;/h1&gt;
+&lt;div id=&#34;helpful-links&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Helpful links:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;US govt. websites&lt;/strong&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver.html&#34; target=&#34;_blank&#34;&gt;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver.html&lt;/a&gt;
-
+&lt;li&gt;&lt;a href=&#34;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver.html&#34; class=&#34;uri&#34;&gt;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver.html&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver/ds-3035-instructions.html&#34; target=&#34;_blank&#34;&gt;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver/ds-3035-instructions.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver/ds-3035-instructions.html&#34; class=&#34;uri&#34;&gt;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver/ds-3035-instructions.html&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov&#34; target=&#34;_blank&#34;&gt;https://j1visawaiverrecommendation.state.gov&lt;/a&gt;
-
+&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov&#34; class=&#34;uri&#34;&gt;https://j1visawaiverrecommendation.state.gov&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/accessController.asp?page=26&#34; target=&#34;_blank&#34;&gt;https://j1visawaiverrecommendation.state.gov/accessController.asp?page=26&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/cancelHandler.asp&#34; target=&#34;_blank&#34;&gt;https://j1visawaiverrecommendation.state.gov/cancelHandler.asp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/accessController.asp?page=26&#34; class=&#34;uri&#34;&gt;https://j1visawaiverrecommendation.state.gov/accessController.asp?page=26&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/cancelHandler.asp&#34; class=&#34;uri&#34;&gt;https://j1visawaiverrecommendation.state.gov/cancelHandler.asp&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Blogs&lt;/strong&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sameetmehta.com/2015/01/the-j1-waiver-process-for-indian.html&#34; target=&#34;_blank&#34;&gt;http://www.sameetmehta.com/2015/01/the-j1-waiver-process-for-indian.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sciash.wordpress.com/2016/03/20/j1-waiver-step-by-step-guide/&#34; target=&#34;_blank&#34;&gt;https://sciash.wordpress.com/2016/03/20/j1-waiver-step-by-step-guide/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.immihelp.com/forum/showthread.php/113424-J1-visa-home-residency-requirement-waiver-from-India&#34; target=&#34;_blank&#34;&gt;http://www.immihelp.com/forum/showthread.php/113424-J1-visa-home-residency-requirement-waiver-from-India&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://j1.aruppukottai.net/&#34; target=&#34;_blank&#34;&gt;http://j1.aruppukottai.net/&lt;/a&gt; (old 2009)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://prashanth-jaikumar.blogspot.com/2010/05/how-i-learned-to-stop-worrying-and-love.html&#34; target=&#34;_blank&#34;&gt;http://prashanth-jaikumar.blogspot.com/2010/05/how-i-learned-to-stop-worrying-and-love.html&lt;/a&gt; (2010 May)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sameetmehta.com/2015/01/the-j1-waiver-process-for-indian.html&#34; class=&#34;uri&#34;&gt;http://www.sameetmehta.com/2015/01/the-j1-waiver-process-for-indian.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sciash.wordpress.com/2016/03/20/j1-waiver-step-by-step-guide/&#34; class=&#34;uri&#34;&gt;https://sciash.wordpress.com/2016/03/20/j1-waiver-step-by-step-guide/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.immihelp.com/forum/showthread.php/113424-J1-visa-home-residency-requirement-waiver-from-India&#34; class=&#34;uri&#34;&gt;http://www.immihelp.com/forum/showthread.php/113424-J1-visa-home-residency-requirement-waiver-from-India&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://j1.aruppukottai.net/&#34; class=&#34;uri&#34;&gt;http://j1.aruppukottai.net/&lt;/a&gt; (old 2009)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://prashanth-jaikumar.blogspot.com/2010/05/how-i-learned-to-stop-worrying-and-love.html&#34; class=&#34;uri&#34;&gt;http://prashanth-jaikumar.blogspot.com/2010/05/how-i-learned-to-stop-worrying-and-love.html&lt;/a&gt; (2010 May)&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Tip&lt;/em&gt;: Find specific blogs for your state since the rules and guidelines might be somewhat different. Mine was Tamil Nadu.&lt;/li&gt;
 &lt;li&gt;Other useful PDFs that may include some of the above: The_process&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h1 id=&#34;approximate-order-of-key-events-things-to-do&#34;&gt;Approximate order of key events &amp;amp; things-to-do&lt;/h1&gt;
-
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;approximate-order-of-key-events-things-to-do&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Approximate order of key events &amp;amp; things-to-do&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Read &amp;amp; decipher the resources. It’s a one-time thing. So, do it!&lt;/li&gt;
 &lt;li&gt;Start at least 1–1.5yrs before your current employment ends/your extended J1 expires. The process takes time &amp;amp; patience. Give time for ‘worst case scenarios’!&lt;/li&gt;
@@ -379,19 +278,16 @@ I hail from Chennai, Tamil Nadu (India). So, most of the state department and RP
 &lt;li&gt;Note: First extend your J1 &amp;amp; then apply for the waiver. You can’t extend once you apply for your waiver.&lt;/li&gt;
 &lt;li&gt;Notarization of your biodata and affidavit (your local bank or other notary publics)&lt;/li&gt;
 &lt;li&gt;Attestation of your biodata and affidavit: Local Indian consulate with the necessary documents
-
 &lt;ul&gt;
-&lt;li&gt;Some require passport-sized photo taken within the last 6 mo (CGNY did ‘require&amp;rsquo; but they didn’t ’need&amp;rsquo; it!!)&lt;/li&gt;
+&lt;li&gt;Some require passport-sized photo taken within the last 6 mo (CGNY did ‘require’ but they didn’t ’need’ it!!)&lt;/li&gt;
 &lt;li&gt;Call to get their full list and check their website before going&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Send your packages to the 3 departments back home (web portal/postal mail w/ tracking)&lt;/li&gt;
 &lt;li&gt;Back to the local Indian consulate
-
 &lt;ul&gt;
 &lt;li&gt;Take your 3 NORIs and forms to get a NORI that they will forward to the Department of State, US)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Send your package to USCIS (w/ tracking)
-
 &lt;ul&gt;
 &lt;li&gt;Include all the necessary background documents&lt;/li&gt;
 &lt;li&gt;NORIs from all of the above&lt;/li&gt;
@@ -399,64 +295,61 @@ I hail from Chennai, Tamil Nadu (India). So, most of the state department and RP
 &lt;li&gt;Preferably, don’t include what’s not in the govt. list&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Note: You can migrate your J1 to a different university during your J1’s duration of validity.
-
 &lt;ul&gt;
 &lt;li&gt;Talk to both the universities’ J1 departments.&lt;/li&gt;
 &lt;li&gt;This would take 24-48h but can only happen before you terminate your current appointment. Once you are out, you need to process a new J1 and, possibly, go this whole process once again!&lt;/li&gt;
 &lt;li&gt;This could happen even while your J1 is being petitioned.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h1 id=&#34;initial-set-of-documents-needed-for-the-indian-consulate-attestation&#34;&gt;Initial set of documents needed for the Indian Consulate attestation&lt;/h1&gt;
-
+&lt;/div&gt;
+&lt;div id=&#34;initial-set-of-documents-needed-for-the-indian-consulate-attestation&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Initial set of documents needed for the Indian Consulate attestation&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Original Passport + Visa (+ copy)&lt;/li&gt;
 &lt;li&gt;All DS-2019s (+ copy)&lt;/li&gt;
 &lt;li&gt;Latest I-94 (+ copy)
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://i94.cbp.dhs.gov/I94&#34; target=&#34;_blank&#34;&gt;https://i94.cbp.dhs.gov/I94&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://i94.cbp.dhs.gov/I94&#34; class=&#34;uri&#34;&gt;https://i94.cbp.dhs.gov/I94&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Proof of residence in the US (preferably 2)&lt;/li&gt;
 &lt;li&gt;Cash, money order or cashier’s cheque&lt;/li&gt;
 &lt;li&gt;Biodata &amp;amp; Affidavit
-
 &lt;ul&gt;
 &lt;li&gt;unfilled sample: J1-waiver-biodata-affidavit-NY_unfilled.pdf&lt;/li&gt;
 &lt;li&gt;The first page is for New York Consulate General but others could use it as a guide too.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h1 id=&#34;documents-to-be-sent-to-indian-home-department&#34;&gt;Documents to be sent to Indian Home Department&lt;/h1&gt;
-
+&lt;/div&gt;
+&lt;div id=&#34;documents-to-be-sent-to-indian-home-department&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Documents to be sent to Indian Home Department&lt;/h1&gt;
 &lt;p&gt;Govt. of India Ministry of Human Resource Development (HRD)
 No Obligation to Return to India
-&lt;a href=&#34;http://www.nori.ac.in/&#34; target=&#34;_blank&#34;&gt;http://www.nori.ac.in/&lt;/a&gt; (quite straightforward; trackable (!); they are really fast &amp;amp; responsive)
+&lt;a href=&#34;http://www.nori.ac.in/&#34; class=&#34;uri&#34;&gt;http://www.nori.ac.in/&lt;/a&gt; (quite straightforward; trackable (!); they are really fast &amp;amp; responsive)
 * Biodata and Affidavit (Notarized &amp;amp; Attested by the Consulate General of India, New York, USA)
 * e-Copy of Passport (New and Old) and J1-Visa
 * e-Copy of all DS-2019s
 * e-Copies of PhD &amp;amp; BTech (other, as applicable) Degree Certificate
 * I don’t remember if I included:
-    * Employment letter from the department chair (I needed this somewhere)
-    * Proof of current residence in the US&lt;/p&gt;
-
-&lt;h1 id=&#34;documents-to-be-sent-to-the-other-two-departments&#34;&gt;Documents to be sent to the other two departments:&lt;/h1&gt;
-
-&lt;ol&gt;
+* Employment letter from the department chair (I needed this somewhere)
+* Proof of current residence in the US&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;documents-to-be-sent-to-the-other-two-departments&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Documents to be sent to the other two departments:&lt;/h1&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;your state government&lt;/li&gt;
 &lt;li&gt;your Regional Passport Office (likely, where you got your first passport)&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;h2 id=&#34;list-of-documents&#34;&gt;List of documents&lt;/h2&gt;
-
-&lt;ol&gt;
+&lt;div id=&#34;list-of-documents&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;List of documents&lt;/h2&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;Biodata and Affidavit (Notarized &amp;amp; Attested by the Consulate General of India, New York, USA)&lt;/li&gt;
 &lt;li&gt;Copy of Passport (New and Old) and J1-Visa&lt;/li&gt;
 &lt;li&gt;Copy of all DS-2019s&lt;/li&gt;
 &lt;li&gt;Proof of current residence in the US&lt;/li&gt;
 &lt;li&gt;Copies of Ph.D. &amp;amp; B.Tech (other, as applicable) Degree Certificate&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
 &lt;li&gt;Cover letter with your request to grant NORI
-
 &lt;ul&gt;
 &lt;li&gt;Your correct address &amp;amp; theirs (of course!) including your email ID (you never know!)&lt;/li&gt;
 &lt;li&gt;Where you are studying/working&lt;/li&gt;
@@ -465,7 +358,6 @@ No Obligation to Return to India
 &lt;li&gt;List of attested/enclosed copies of documents&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Letter of consent from your parent saying that you have no legal obligation to return. Include these details, if possible/applicable
-
 &lt;ul&gt;
 &lt;li&gt;Who they are, where they are working/retired from&lt;/li&gt;
 &lt;li&gt;Brief family history&lt;/li&gt;
@@ -475,11 +367,9 @@ No Obligation to Return to India
 &lt;li&gt;Your marital &amp;amp; dependent info (briefly) when applicable&lt;/li&gt;
 &lt;li&gt;Your current residential address in the US&lt;/li&gt;
 &lt;li&gt;Why you are requesting the waiver (in their words)&lt;/li&gt;
-&lt;li&gt;And something along these lines (sample below)
-&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;And something along these lines (sample below)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
+&lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;With regard to the NORI certification, I confirm that all the details
 stated above are true to the best of my knowledge and all supporting documents
@@ -488,114 +378,103 @@ There is no civil or criminal case against my daughter, XYZ.
 Also, she did not take any educational loan from the Indian or US governments.
 Therefore, she does not have any commitments here in India for legal,
 financial or personal reasons.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;  I, therefore, request you to kindly provide the necessary NORI certificate
-&lt;/code&gt;&lt;/pre&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;  I, therefore, request you to kindly provide the necessary NORI certificate&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;that will help her continue working towards her professional and personal
 goals in the US. The experience and expertise that she gains during her stay
 there will help her serve India better in the long run.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;h1 id=&#34;addresses-for-mailing-your-packages&#34;&gt;Addresses for mailing your packages&lt;/h1&gt;
-
-&lt;h2 id=&#34;tn-state-department&#34;&gt;TN State Department&lt;/h2&gt;
-
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;addresses-for-mailing-your-packages&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Addresses for mailing your packages&lt;/h1&gt;
+&lt;div id=&#34;tn-state-department&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;TN State Department&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;The Secretary
 Home (Citz II) Department
 Government of Tamil Nadu
 Secretariat, Fort St. George
 Chennai 600 009
-Tamil Nadu, India
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;regional-passport-office-rpo&#34;&gt;Regional Passport Office (RPO)&lt;/h2&gt;
-
+Tamil Nadu, India&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;regional-passport-office-rpo&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Regional Passport Office (RPO)&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;The Passport Officer
 Regional Passport Office
 Royala Towers No. 2 and 3, IV Floor,
 Old No. 785, New No. 158, Anna Salai,
 Chennai 600002
-Tamil Nadu, India
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h1 id=&#34;additional-documents-required-for-police-verification&#34;&gt;Additional documents required for police verification&lt;/h1&gt;
-
+Tamil Nadu, India&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;additional-documents-required-for-police-verification&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Additional documents required for police verification&lt;/h1&gt;
 &lt;p&gt;&lt;code&gt;[At least, I needed it (Chennai, Tamil Nadu)]&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;main-letters-documents&#34;&gt;Main letters/documents&lt;/h2&gt;
-
+&lt;div id=&#34;main-lettersdocuments&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Main letters/documents&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Consent letter and Pro Forma from the applicant&amp;rsquo;s parent&lt;/li&gt;
-&lt;li&gt;Letter from the applicant&amp;rsquo;s spouse&lt;/li&gt;
+&lt;li&gt;Consent letter and Pro Forma from the applicant’s parent&lt;/li&gt;
+&lt;li&gt;Letter from the applicant’s spouse&lt;/li&gt;
 &lt;li&gt;Biodata of the applicant&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;supporting-documents&#34;&gt;Supporting documents&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Applicant&amp;rsquo;s: Mark sheets and certificates
-
-&lt;ol&gt;
+&lt;/div&gt;
+&lt;div id=&#34;supporting-documents&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Supporting documents&lt;/h2&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Applicant’s: Mark sheets and certificates
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;10th 12th mark sheets&lt;/li&gt;
 &lt;li&gt;B. Tech. degree certificate&lt;/li&gt;
-&lt;li&gt;Ph.D. degree certificate&lt;/li&gt;
+&lt;li&gt;Ph.D. degree certificate&lt;/li&gt;
 &lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Applicant&amp;rsquo;s: Passport and Visa
-
-&lt;ol&gt;
+&lt;li&gt;Applicant’s: Passport and Visa
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;Passport (front/back)&lt;/li&gt;
 &lt;li&gt;J-1 Visa &amp;amp; Certificate of eligibility for exchange visitor (J-1) status (DS-2019)&lt;/li&gt;
 &lt;li&gt;Old passport and old J1 and F1 visas&lt;/li&gt;
 &lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Applicant&amp;rsquo;s: Graduate assistantship letter for PhD&lt;/li&gt;
-&lt;li&gt;Applicant&amp;rsquo;s: Employment letter (current place of work)&lt;/li&gt;
-&lt;li&gt;Spouse&amp;rsquo;s: Mark sheets and certificates
-
-&lt;ol&gt;
+&lt;li&gt;Applicant’s: Graduate assistantship letter for PhD&lt;/li&gt;
+&lt;li&gt;Applicant’s: Employment letter (current place of work)&lt;/li&gt;
+&lt;li&gt;Spouse’s: Mark sheets and certificates
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;10th, 12th mark sheets&lt;/li&gt;
 &lt;li&gt;B. Tech. degree certificate&lt;/li&gt;
-&lt;li&gt;Ph.D. degree certificate&lt;/li&gt;
+&lt;li&gt;Ph.D. degree certificate&lt;/li&gt;
 &lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Applicant’s Spouse&amp;rsquo;s: Passport and Visa
-
-&lt;ol&gt;
+&lt;li&gt;Applicant’s Spouse’s: Passport and Visa
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;Passport (front/back)&lt;/li&gt;
 &lt;li&gt;H1B visa approval notice (I-797)&lt;/li&gt;
 &lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Applicant’s Spouse&amp;rsquo;s: Employment letter (MSU)&lt;/li&gt;
+&lt;li&gt;Applicant’s Spouse’s: Employment letter (MSU)&lt;/li&gt;
 &lt;li&gt;Both: Marriage certificate&lt;/li&gt;
 &lt;li&gt;Both: Present address proof (Wells Fargo bank statement)&lt;/li&gt;
-&lt;li&gt;Applicant’s Parents&amp;rsquo;: Chennai address proof (Ration card, gas bill)&lt;/li&gt;
-&lt;li&gt;Applicant’s Parents&amp;rsquo;: Aadhar card&lt;/li&gt;
+&lt;li&gt;Applicant’s Parents’: Chennai address proof (Ration card, gas bill)&lt;/li&gt;
+&lt;li&gt;Applicant’s Parents’: Aadhar card&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;h1 id=&#34;final-set-of-documents-to-be-sent-to-the-uscis-department-of-state&#34;&gt;Final set of documents to be sent to the USCIS, Department of State&lt;/h1&gt;
-
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;final-set-of-documents-to-be-sent-to-the-uscis-department-of-state&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Final set of documents to be sent to the USCIS, Department of State&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Read the &lt;a href=&#34;https://travel.state.gov/content/travel/en/us-visas/study/exchange/waiver-of-the-exchange-visitor/how-to-apply-waiver.html&#34; target=&#34;_blank&#34;&gt;How to apply for a waiver&lt;/a&gt; page on the travel.state.gov website again.&lt;/li&gt;
+&lt;li&gt;Read the &lt;a href=&#34;https://travel.state.gov/content/travel/en/us-visas/study/exchange/waiver-of-the-exchange-visitor/how-to-apply-waiver.html&#34;&gt;How to apply for a waiver&lt;/a&gt; page on the travel.state.gov website again.&lt;/li&gt;
 &lt;li&gt;DS-3035 &amp;amp; SOR J1 waiver application packet for USCIS and Department of State
-
 &lt;ul&gt;
 &lt;li&gt;Application fee
-
 &lt;ul&gt;
 &lt;li&gt;Non-refundable — do it at the end&lt;/li&gt;
 &lt;li&gt;cashier’s cheque written out to ’The US Department of State’&lt;/li&gt;
 &lt;li&gt;Include your name and case number (from the DS-3035 barcode)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Waiver review division barcode&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.j1waivertips.com/sample-statement-of-reason-for-j1-visa-waiver-application-at-us-dept-of-state/&#34; target=&#34;_blank&#34;&gt;Statement of reason&lt;/a&gt; (below)
-&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.j1waivertips.com/sample-statement-of-reason-for-j1-visa-waiver-application-at-us-dept-of-state/&#34;&gt;Statement of reason&lt;/a&gt; (below)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;    Sample statement:
+    I am XYZ working at ABC as a PQR. I am currently on J1 visa sponsored by QWERTY. My J1 visa started on 7/19/2013 and ends on 7/19/2018 with a two-year home residency requirement. The main purpose of my J1 visa is to allow me to do research. My research work is progressing well, and it needs more time (longer than 7/19/2018) to complete my research projects. Since I am the lead person in the research projects, my employer and I feel that the opportunity for me to stay here in the US and complete the projects by obtaining the J1 visa waiver will be great.
 
-&lt;pre&gt;&lt;code&gt;	Sample statement:
-	I am XYZ working at ABC as a PQR. I am currently on J1 visa sponsored by QWERTY. My J1 visa started on 7/19/2013 and ends on 7/19/2018 with a two-year home residency requirement. The main purpose of my J1 visa is to allow me to do research. My research work is progressing well, and it needs more time (longer than 7/19/2018) to complete my research projects. Since I am the lead person in the research projects, my employer and I feel that the opportunity for me to stay here in the US and complete the projects by obtaining the J1 visa waiver will be great.
-
-	I am requesting a waiver of the two-year home residence requirement to complete my work here on the basis of No Objection certificate.  My home country “Govt of India” has no objection in allowing me to continue working here in the US, and has issued a No Objection certificate to that effect.  The Indian Embassy in the USA will be issuing the No Objection statement to you. I kindly request you to grant me the J1 visa waiver at the earliest.
-&lt;/code&gt;&lt;/pre&gt;
-
+    I am requesting a waiver of the two-year home residence requirement to complete my work here on the basis of No Objection certificate.  My home country “Govt of India” has no objection in allowing me to continue working here in the US, and has issued a No Objection certificate to that effect.  The Indian Embassy in the USA will be issuing the No Objection statement to you. I kindly request you to grant me the J1 visa waiver at the earliest.&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;* The actual completed DS-3035
     * https://j1visawaiverrecommendation.state.gov/
     * If you make a mistake, fill it out from the beginning
@@ -606,27 +485,174 @@ Tamil Nadu, India
 * Two self-addressed stamped envelopes (legal-size)
 * Your NORis from
     * India: i) home department, ii) state department and iii) regional passport office (for police verification) and
-    * US (local Indian Consulate, although they would be sending a copy)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;address-for-the-package-to-be-sent&#34;&gt;Address for the package to be sent&lt;/h2&gt;
-
+    * US (local Indian Consulate, although they would be sending a copy)&lt;/code&gt;&lt;/pre&gt;
+&lt;div id=&#34;address-for-the-package-to-be-sent&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Address for the package to be sent&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;Postal Service
 Department of State J-1 Waiver
 P.O. Box 979037
-St. Louis, MO 63197-9000
-&lt;/code&gt;&lt;/pre&gt;
-
+St. Louis, MO 63197-9000&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;Courier Service
 Department of State J-1 Waiver
 P.O. Box 979037
 1005 Convention Plaza
-St. Louis, MO 63101-1200
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;tracking-progress&#34;&gt;Tracking progress&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/&#34; target=&#34;_blank&#34;&gt;https://j1visawaiverrecommendation.state.gov/&lt;/a&gt;&lt;/p&gt;
+St. Louis, MO 63101-1200&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tracking-progress&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Tracking progress&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/&#34; class=&#34;uri&#34;&gt;https://j1visawaiverrecommendation.state.gov/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016: Year in Books | Goodreads</title>
+      <link>/post/2017/goodreads-2016/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017/goodreads-2016/</guid>
+      <description>&lt;p&gt;Check out &lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2016/1671098&#34;&gt;2016 #MyYearInBooks&lt;/a&gt; on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;! &lt;a href=&#34;//twitter.com/goodreads&#34;&gt;@goodreads&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;summary-stats&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;2016: Summary Stats&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2017-01-01-goodreads-2016_files/20170101-goodreads-part1.png&#34; width=&#34;450&#34; height=&#34;450&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;books-read&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;2016: Books Read&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2016-12-31-goodreads-2016_files/2016-goodreads-part2.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Becoming Steve Jobs by Brent Schlender</title>
+      <link>/post/2016/becoming-steve-jobs/</link>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016/becoming-steve-jobs/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://becomingstevejobs.com/&#34;&gt;Becoming Steve Jobs &lt;em&gt;by&lt;/em&gt; Brent Schlender&lt;/a&gt; is a well-written biography of Steve Jobs &amp;amp; is definitely much better than Walter Isaacson’s ‘official’ one! And yeah, it is much more than a boring compendium of wiki and news articles. :)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;So, happy reading!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Matt Might&#39;s Blog</title>
+      <link>/post/2016/matt-might-blog/</link>
+      <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016/matt-might-blog/</guid>
+      <description>&lt;div id=&#34;background&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;a href=&#34;http://matt.might.net/&#34;&gt;Background&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://matt.might.net/#personal&#34;&gt;Matt Might&lt;/a&gt; has an &lt;em&gt;awesome&lt;/em&gt; easy-to-read &lt;a href=&#34;http://matt.might.net/articles/&#34;&gt;blog&lt;/a&gt; that has inspired us in &lt;em&gt;many&lt;/em&gt; ways! Matt is a tenured CS professor at Utah and a visiting professor at HMS (Harvard Medical School). He’s the dad of 3 kids, one of whom has a very &lt;a href=&#34;http://matt.might.net/articles/my-sons-killer/&#34;&gt;rare genetic disorder&lt;/a&gt;.
+He &amp;amp; his wife have spent a good part of their lives &lt;a href=&#34;http://www.overcomingmovementdisorder.com/p/about-us.html&#34;&gt;educating themselves and others&lt;/a&gt; about the &lt;a href=&#34;http://www.ngly1.org/&#34;&gt;disease&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;some-of-his-useful-blog-posts&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Some of his useful blog posts&lt;/h1&gt;
+&lt;div id=&#34;health-strength-training-justdoit&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Health | Strength-training | JustDoIt&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/hacking-strength/&#34;&gt;HOWTO: Gain strength and muscle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/least-resistance-weight-loss/&#34;&gt;Least resistance weight loss&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/#philosophy&#34;&gt;Path of least resistance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/preventing-and-managing-rsi/&#34;&gt;Handling repetitive strain injury (e.g. carpal tunnel syndrome)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;efficiency-productivity-work-life-balance&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Efficiency | Productivity | work-life-balance&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/&#34;&gt;Productivity tips for academics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/how-to-email/&#34;&gt;How to send and reply to email&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/work-life-balance/&#34;&gt;Tips for work-life balance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/travel-hacks/&#34;&gt;Travel hacks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/programmers-resolutions/&#34;&gt;12 resolutions for programmers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;academic-professorship&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Academic | Professorship&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/advice-for-academic-job-hunt/&#34;&gt;Academic job hunt advice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/tenure/&#34;&gt;HOWTO: Get tenure&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;code&gt;… = lots more where this came from!&lt;/code&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A dedication to Ramanujan</title>
+      <link>/post/2016/ramanujan/</link>
+      <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016/ramanujan/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Authors: Janani Ravi, Arjun Krishnan&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Srinivasa_Ramanujan&#34;&gt;Srinivasa Ramanujan&lt;/a&gt; has been noted as one of the classic ‘genius-mathematicians’ of all time! Hailing from the same state/country as him, &lt;a href=&#34;//arjun-krishnan.net&#34;&gt;Arjun Krishnan&lt;/a&gt; and I have always looked up to him &amp;amp; his elegant math as a source of inspiration right through our formative years!&lt;/p&gt;
+&lt;div id=&#34;the-movie&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Movie&lt;/h2&gt;
+&lt;p&gt;Recent movie that has drastically increased Ramanujan’s international visibility
+&lt;a href=&#34;https://g.co/kgs/gfuP3p&#34;&gt;The Man Who Knew Infinity&lt;/a&gt; by &lt;a href=&#34;https://www.imdb.com/name/nm0114226/&#34;&gt;Matthew Brown&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-play&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Play&lt;/h2&gt;
+&lt;p&gt;We watched this beautiful play in the University of Virginia campus during our grad school. Such unmistakable passion for math, that’s almost art-like &lt;em&gt;or was it art!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/A_Disappearing_Number&#34;&gt;A Disappearing Number&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Simon_McBurney&#34;&gt;Simon McBurney&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-book&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Book&lt;/h2&gt;
+&lt;p&gt;Here is a great companion book to better understand &lt;em&gt;the Man&lt;/em&gt; and little bit of &lt;em&gt;the Math&lt;/em&gt;!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Man_Who_Knew_Infinity:_A_Life_of_the_Genius_Ramanujan&#34;&gt;The Man Who Knew Infinity: A Life of the Genius Ramanujan&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Robert_Kanigel&#34;&gt;Robert Kanigel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-people&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The People&lt;/h2&gt;
+&lt;p&gt;Without the help of the following people (and many more we haven’t mentioned here), Ramanujan would have remained an unknown &amp;amp; obsolete genius!&lt;/p&gt;
+&lt;div id=&#34;gh-hardy-collaborator-mentor&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/G._H._Hardy&#34;&gt;GH Hardy&lt;/a&gt;: Collaborator, Mentor&lt;/h4&gt;
+&lt;p&gt;Hardy was an English mathematician who brought Ramanujan to Cambridge, encouraged his professional growth and helped publish his many theorems and elegant solutions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;matthew-brown-the-director&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.imdb.com/name/nm0114226/&#34;&gt;Matthew Brown&lt;/a&gt;: The Director&lt;/h4&gt;
+&lt;p&gt;The director of the new Ramanujan movie, &lt;em&gt;The Man Who Knew Infinity&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;manjul-bhargava-math-advisor-associate-producer&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Manjul_Bhargava&#34;&gt;Manjul Bhargava&lt;/a&gt;: Math advisor &amp;amp; associate producer&lt;/h4&gt;
+&lt;p&gt;Princeton number theorist, winner of the Field’s medal, and Associate Producer of the movie.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/128893911&#34;&gt;Video made for Manjul Bhargava Princeton&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ken-ono-math-advisor-associate-producer&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;//en.wikipedia.org/wiki/Ken_Ono&#34;&gt;Ken Ono&lt;/a&gt;: Math advisor &amp;amp; associate producer&lt;/h4&gt;
+&lt;p&gt;Ken Ono is this very accomplished mathematician who’s central research questions revolve around the work of Ramanujan.
+He is also a fantastic and sincere communicator, teacher and author so much so that you can read/listen to almost anything that he has to say.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EyvYr-2WLWg&amp;amp;list=WL&amp;amp;index=9&#34;&gt;Here’s a great video of a conversation he had with another mathematician where he talks about Ramanujan and his connection with him.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;steven-strogatz-applied-mathematician&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;www.stevenstrogatz.com/&#34;&gt;Steven Strogatz&lt;/a&gt;: Applied mathematician&lt;/h4&gt;
+&lt;p&gt;Famous applied mathematician and author of superb books &amp;amp; articles on mathematics.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;steven-strogatz-manjul-bhargava-matt-brown&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Steven Strogatz, Manjul Bhargava &amp;amp; Matt Brown&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yvHrn-41XMU&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;some-more-interesting-articles&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Some more interesting articles&lt;/h2&gt;
+&lt;div id=&#34;ramanujan-surprises-again-plus.maths.org&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;http://www.math.uiuc.edu/~berndt/articles/aachen.pdf&#34;&gt;Ramanujan surprises again| plus.maths.org&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&#34;remembering-ramanujan-india-celebrates-its-famous-mathematical-son&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;http://www.scientificamerican.com/article.cfm?id=remembering-ramanujan-india&#34;&gt;Remembering Ramanujan: India Celebrates Its Famous Mathematical Son&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;December 22, 2012&lt;/em&gt;, marks the 125th anniversary of the birth of legendary Indian mathematician Srinivasa Ramanujan. An intuitive mathematical genius, Ramanujan’s discoveries have influenced several areas of mathematics, but he is probably most famous for his contributions to number theory and infinite series, among them fascinating formulas that can be used to calculate digits of pi in unusual ways.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.scientificamerican.com/article.cfm?id=remembering-ramanujan-india&#34;&gt;More&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     

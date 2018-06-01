@@ -13,7 +13,7 @@ image_preview = "psp-3systems.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Psp", "stress-response", "phylogeny-evolution", "genomic-context"]
+tags = ["Psp", "stress-response", "phylogeny-evolution", "genomic-context", "Mtb", "actinobacteria", "tree-of-life", "research"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -22,14 +22,39 @@ external_link = ""
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
+# [header]
 image = "psp-3systems.png"
-caption = "Psp in actinobacteria"
+caption = "'Known' Psp systems"
 
 +++
+## Research
+During my postdoctoral research at Rutgers University, I focused on using computational approaches to study various facets of host and pathogen biology including:
 
-## Psp systems across the tree of life
+* delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp);
+* unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships;
+* reconstructing and analyzing the mycobacterial sigma factor regulatory network.
 
-## Psp systems in actinobacteria
+## Related publications
+* Psp systems across the tree of life, *in preparation.*
+* [Psp systems in actinobacteria](/publication/2018/anto)
+* [Psp system in *M. tuberculosis*](/publication/2015/molmicro)
+* [Sigma Factor Network in *M. tuberculosis*](/publication/2016/natcomm)
 
-## Psp system in M. tuberculosis
+## Collaborators
+#### Rutgers University
+* Marila Gennaro
+* Pratik Datta
+* Matt Neiditch
+* Arnold Barton
+* Rasel Khan
+* Rinki Chauhan
+
+#### NCBI, NIH
+* L Aravind
+* Vivek Anantharaman
+
+#### SUNY Buffalo
+* Gabor Balazsi
+
+## Rice University
+* Oleg Igoshin

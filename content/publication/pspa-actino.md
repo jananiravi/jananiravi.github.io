@@ -1,6 +1,7 @@
 +++
 title = "Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria"
 date = 2018-02-27T00:00:00
+slug = "anto"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["*J Ravi*", "V Anantharaman", "L Aravind", "ML Gennaro"]
@@ -21,8 +22,8 @@ publication = "*Antonie Van Leeuwenhoek*, Springer."
 publication_short = "*Anto*"
 
 # Abstract and optional shortened version.
-abstract = "XYZ"
-abstract_short = "XYZ_short"
+abstract = ""
+abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = "psp-actino.tiff"
@@ -33,7 +34,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = []
+projects = ["stress-response.md"]
 
 # Links (optional).
 url_pdf = "https://link.springer.com/content/pdf/10.1007%2Fs10482-018-1053-5.pdf"
@@ -58,10 +59,8 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "psp-actino.tiff"
+# [header]
+image = "psp-actino.png"
 caption = "PspA in actinobacteria"
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

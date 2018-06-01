@@ -1,6 +1,7 @@
 +++
 title = "Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection"
 date = 2014-07-01T00:00:00
+slug = "jimm"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "H Salamon", "N Bruiners", "K Lakehal", "L Shi", "*J Ravi*", "KD Yamaguchi", "R Pine", "ML Gennaro"]
@@ -25,7 +26,8 @@ abstract = "Vitamin D has long been linked to resistance to tuberculosis, an inf
 abstract_short = "ABC_short"
 
 # Featured image thumbnail (optional)
-image_preview = "vitd.jpg"
+image_preview = ""
+# vitd.jpg
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -54,7 +56,7 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
+# [header]
 image = "vitd.jpg"
 caption = "Vitamin D regulates lipid metabolism in Mtb"
 

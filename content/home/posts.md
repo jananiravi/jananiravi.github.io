@@ -6,10 +6,10 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Recent Posts"
-subtitle = ""
+# subtitle = "[All posts](/post/)"
 
 # Order that this section will appear in.
-weight = 3
+weight = 5
 
 # Filter posts by tag.
 #  By default, show all recent posts.
@@ -19,7 +19,7 @@ tags_include = []
 tags_exclude = []
 
 # Number of posts to list.
-count = 5
+count = 4
 
 # List format.
 #   0 = Simple

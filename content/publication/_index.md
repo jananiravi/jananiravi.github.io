@@ -13,6 +13,6 @@ list_format = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "psp-3systems.tiff"
+image = "" # psp-3systems.tiff
 caption = ""
 +++

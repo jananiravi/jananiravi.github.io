@@ -1,7 +1,7 @@
 +++
 title = "The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions"
 date = 2015-08-03T00:00:00
-
+slug = "molmicro"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["P Datta", "*J Ravi*", "V Guerrini", "R Chauhan", "MB Neiditch", "SS Shell", "SM Fortune", "B Hancioglu", "OA Igoshin", "ML Gennaro"]
 
@@ -25,7 +25,8 @@ abstract = "The bacterial envelope integrates essential stress-sensing and adapt
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "psp-mtb.tiff"
+image_preview = ""
+# psp-mtb.tiff
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -33,7 +34,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = []
+projects = ["stress-response.md"]
 
 # Links (optional).
 url_pdf = "https://onlinelibrary.wiley.com/doi/epdf/10.1111/mmi.13037"
@@ -54,8 +55,8 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "psp-mtb.tiff"
+# [header]
+image = "psp-mtb.png"
 caption = "Psp response of M. tuberculosis"
 
 +++

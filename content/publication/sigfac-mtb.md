@@ -1,6 +1,7 @@
 +++
 title = "Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis"
 date = 2016-03-01T00:00:00
+slug = "natcomm"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "R Chauhan", "*J Ravi*", "P Datta", "T Chen", "D Schnappinger", "KE Bassler", "G Balázsi", "ML Gennaro"]
@@ -25,7 +26,8 @@ abstract = "Accessory sigma factors, which reprogram RNA polymerase to transcrib
 abstract_short = "ABC_short"
 
 # Featured image thumbnail (optional)
-image_preview = "sigfac-mtb.jpg"
+image_preview = ""
+# sigfac-mtb.jpg
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -33,7 +35,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = []
+projects = ["stress-response.md"]
 
 # Links (optional).
 url_pdf = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4821874/pdf/ncomms11062.pdf"
@@ -54,10 +56,11 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
+# [header]
 image = "sigfac-mtb.jpg"
 caption = "Sigma factor network of M. tuberculosis"
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+
+

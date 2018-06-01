@@ -12,7 +12,7 @@ title = "Janani Ravi"
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; Janani Ravi, 2018"
 
-theme = "hugo-academic"
+theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -63,7 +63,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Me_at_work.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "janani@msu.edu"
+  email = "janani AT msu DOT edu"
   address = "Pathobiology and Diagnostic Investigation,\n784 Wilson Rd, Room G304,\nMichigan State University,\nEast Lansing, 48824, USA"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+1 517 353 5491"
@@ -115,7 +115,7 @@ enableGitInfo = false
   comment_count = true
 
   # Display next/previous section pager?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -153,7 +153,7 @@ enableGitInfo = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Privacy pack
   #   Show a cookie consent message to visitors
@@ -184,10 +184,11 @@ enableGitInfo = false
 
 ## INCLUDING FROM @gcushen suggestion in https://github.com/gcushen/hugo-academic/issues/534
 [permalinks]
-  post = "/post/:slug"
+  post = "/post/:year/:slug"
   talk = "/talk/:slug"
-  publication = "/publication/:slug"
-  project = "/project/:slug"
+  publication = "/publication/:year/:slug"
+  research = "/project/:slug"
+  interests = "/interests/:slug"
   rladies = "/rladies/:slug"
 
   # Configuration of talk pages.
@@ -204,7 +205,7 @@ enableGitInfo = false
   # Configuration of project pages.
   [params.projects]
     # List publications and talks related to the project?
-    list_children = false
+    list_children = true
 
     # Publication list format.
     #   0 = Simple
@@ -231,10 +232,12 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:janani@msu.edu"
+
+
+#  [[params.social]]
+#    icon = "google-scholar"
+#    icon_pack = "ai"
+#    link = "//scholar.google.com/citations?user=aIDw2_oAAAAJ&hl"
 
   [[params.social]]
     icon = "twitter"
@@ -242,25 +245,33 @@ enableGitInfo = false
     link = "//twitter.com/janani137"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "//scholar.google.com/citations?user=aIDw2_oAAAAJ&hl"
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/jananiravi"
 
   [[params.social]]
     icon = "researchgate"
     icon_pack = "ai"
     link = "//researchgate.com/Janani_Ravi2"
 
-   [[params.social]]
-    icon = "goodreads"
+  [[params.social]]
+    icon = "book"
     icon_pack = "fa"
     link = "//goodreads.com/jananiravi"
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/jananiravi"
+    icon = "cv"
+    icon_pack = "ai"
+    link = "//drive.google.com/file/d/1exIcXd1h5KGTOCbhy8Hsr9MpPTI-l9MA/view?usp=sharing"
+#  [[params.social]]
+#    icon = "linkedin-square"
+#    icon_pack = "fa"
+#    link = "//linkedin.com/in/ravijanani"
 
+#  [[params.social]]
+#    icon = "envelope"
+#    icon_pack = "fa"
+#    link = "mailto:janani@msu.edu"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -277,24 +288,35 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-    url = "#publications"
+  url = "#publications"
   # url = "/publication"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Research"
+  url = "#research"
   weight = 3
 
+# [[menu.main]]
+#  name = "CV"
+#  url = "https://drive.google.com/file/d/1exIcXd1h5KGTOCbhy8Hsr9MpPTI-l9MA/view?usp=sharing"
+#  weight=3
+
+
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Interests"
+  url = "#interests"
   weight = 4
 
- [[menu.main]]
-  name = "Talks"
-  url = "#talks"
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
   weight = 5
+
+ [[menu.main]]
+  name = "Conferences"
+  url = "#conferences"
+  weight = 6
 
 # [[menu.main]]
 #  name = "R-Ladies"
