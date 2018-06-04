@@ -11,7 +11,7 @@ slug: j1-visa-waiver-nori
 output:
   blogdown::html_page:
     toc: true
-summary: "This post describes, in detail, the process of getting a J1 visa waiver and a No Obligation to Return to India (NORI) certificate."
+summary: "This post describes, in detail, the process of getting a J1 visa waiver and a No Obligation to Return to India (NORI) certificate from the Indian & US governments."
 ---
 
 # About Me
@@ -20,8 +20,8 @@ I’m Janani Ravi, currently at Michigan State University.
 Email: http://scr.im/janani | Twitter: [@janani137](twitter.com/janani137)
 
 # Why I’m writing this
-I went through this rather painful & ghastly process from Rutgers University, Newark, NJ. My closest consulate was, therefore, the one in New York (CGNY).
-I hail from Chennai, Tamil Nadu (India). So, most of the state department and RPO/police verification guidelines worked for my specific case. Of course, folks from other countries can skip ahead from their consulate to the last step reading some country-specific blogs in-between.
+I went through this rather painful & ghastly process from Rutgers University, Newark, NJ. My closest consulate was the one in New York (CGNY).
+I am originally from Chennai, Tamil Nadu (India). So, most of the state department and RPO/police verification guidelines I've enlisted below worked for my specific case. Folks from other countries can skip ahead from their consulate to the last step reading some country-specific blogs in-between.
 
 # The initial process, where you read and imbibe!
 ## Helpful links:
@@ -120,7 +120,7 @@ Also, she did not take any educational loan from the Indian or US governments.
 Therefore, she does not have any commitments here in India for legal,
 financial or personal reasons.
 
->		I, therefore, request you to kindly provide the necessary NORI certificate
+>	I, therefore, request you to kindly provide the necessary NORI certificate
 that will help her continue working towards her professional and personal
 goals in the US. The experience and expertise that she gains during her stay
 there will help her serve India better in the long run.
@@ -147,7 +147,7 @@ Tamil Nadu, India
 ```
 
 # Additional documents required for police verification
-`[At least, I needed it (Chennai, Tamil Nadu)]`
+*[At least, I needed it (Chennai, Tamil Nadu)]*
 
 ## Main letters/documents
 
@@ -190,12 +190,10 @@ Tamil Nadu, India
     * Waiver review division barcode
     * [Statement of reason](http://www.j1waivertips.com/sample-statement-of-reason-for-j1-visa-waiver-application-at-us-dept-of-state/) (below)
     
-```
-	Sample statement:
+	>
+	*Sample statement:*
 	I am XYZ working at ABC as a PQR. I am currently on J1 visa sponsored by QWERTY. My J1 visa started on 7/19/2013 and ends on 7/19/2018 with a two-year home residency requirement. The main purpose of my J1 visa is to allow me to do research. My research work is progressing well, and it needs more time (longer than 7/19/2018) to complete my research projects. Since I am the lead person in the research projects, my employer and I feel that the opportunity for me to stay here in the US and complete the projects by obtaining the J1 visa waiver will be great.
-
-	I am requesting a waiver of the two-year home residence requirement to complete my work here on the basis of No Objection certificate.  My home country “Govt of India” has no objection in allowing me to continue working here in the US, and has issued a No Objection certificate to that effect.  The Indian Embassy in the USA will be issuing the No Objection statement to you. I kindly request you to grant me the J1 visa waiver at the earliest.
-```
+	I am requesting a waiver of the two-year home residence requirement to complete my work here on the basis of No Objection certificate.  My home country “ABC” has no objection in allowing me to continue working here in the US, and has issued a No Objection certificate to that effect.  The ABCian Embassy in the USA will be issuing the No Objection statement to you. I kindly request you to grant me the J1 visa waiver at the earliest.
 
     * The actual completed DS-3035
         * https://j1visawaiverrecommendation.state.gov/
@@ -205,7 +203,7 @@ Tamil Nadu, India
     * Degree Certificates (Bachelors, Masters, PhD, …)
     * Statement of Reason
     * Two self-addressed stamped envelopes (legal-size)
-    * Your NORis from
+    * Your NORI letters from
         * India: i) home department, ii) state department and iii) regional passport office (for police verification) and
         * US (local Indian Consulate, although they would be sending a copy)
 
@@ -216,9 +214,8 @@ Postal Service
 Department of State J-1 Waiver
 P.O. Box 979037
 St. Louis, MO 63197-9000
-```
 
-```
+
 Courier Service
 Department of State J-1 Waiver
 P.O. Box 979037

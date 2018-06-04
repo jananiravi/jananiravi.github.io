@@ -318,15 +318,15 @@ enableGitInfo = false
   url = "#conferences"
   weight = 6
 
-# [[menu.main]]
-#  name = "R-Ladies"
-#  url = "#rladies"
-#  weight = 6
+ [[menu.main]]
+  name = "Tags"
+  url = "#tags"
+  weight = 7
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 
 # Taxonomies.

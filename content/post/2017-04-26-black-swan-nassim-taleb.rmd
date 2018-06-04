@@ -10,7 +10,7 @@ tags:
   - review
   - authors
   - behavioral-economics
-summary: "This is a brief book review for Nassim Taleb's Black Swan that I'd originally composed as an email to few of my close friends and family."
+summary: "Brief book review/book recommendation."
 ---
 
 # Book Review

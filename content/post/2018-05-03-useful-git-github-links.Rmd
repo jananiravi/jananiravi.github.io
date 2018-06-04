@@ -7,21 +7,17 @@ categories:
 tags:
   - software-tools
   - refs
+  - git
 slug: git-github-links
 output:
-  blogdown::html_page:
-    toc: true
-summary: "Here are a few useful Git/GitHub links incl. interactions with R/RStudio and Hugo/Blogdown."
+  blogdown::html_page
+    # toc: true
+summary: "... on how to get started, incl. integration with R/RStudio."
 ---
 
 ## See also:
-* 2018-04-27 — My simply Git Cheatsheet
-* 2018–earlier — R Note Links
-* 2018-03-15 — Creating Jekyll page on GitHub
-* 2017-12-25 — Excuse me, do you have a moment to talk about version control?
-* 2017-08-06 — Krishnan Lab | Source code, Data, & Code review
-
-2017-02-11 (Check my [tweet](https://twitter.com/janani137/status/926516970920562688) as well.)
+* [My tweet dated: 2017-03-11](https://twitter.com/janani137/status/926516970920562688)
+* [Resources](/interests/resources/) for more links related to Blogdown, Rmarkdown & GitHub
 
 # Git
 * Version control with [Git on Software Carpentry](http://swcarpentry.github.io/git-novice/)
@@ -55,6 +51,3 @@ summary: "Here are a few useful Git/GitHub links incl. interactions with R/RStud
 * [GCC](https://gcc.gnu.org/install/)
 * [Ruby](https://www.ruby-lang.org/en/downloads/)
 * [Ruby Gems](https://rubygems.org/pages/download)
-
-# Hugo, Blogdown and Git
-* [Updating your website using Hugo & Blogdown, by Daijiang Li](https://daijiang.name/en/2017/03/30/updating-website-with-hugo-and-blogdown/)

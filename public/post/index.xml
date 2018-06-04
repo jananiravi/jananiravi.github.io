@@ -11,32 +11,42 @@
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Modeler&#39;s Hippocratic Oath</title>
+      <link>/post/2018/modelers-hippocratic-oath/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/modelers-hippocratic-oath/</guid>
+      <description>
+
+&lt;p&gt;I recently came across the &lt;strong&gt;Modeler&amp;rsquo;s Hippocratic Oath&lt;/strong&gt; while reading &lt;a href=&#34;//twitter.com/mathbabedotorg&#34; target=&#34;_blank&#34;&gt;Cathy O&amp;rsquo;Neil&amp;rsquo;s&lt;/a&gt; &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;This was originally written by &lt;a href=&#34;//twitter.com/EmanuelDerman&#34; target=&#34;_blank&#34;&gt;Emanuel Derman&lt;/a&gt; and &lt;a href=&#34;//twitter.com/wilmott&#34; target=&#34;_blank&#34;&gt;Paul Wilmott&lt;/a&gt; in the wake of the 2008 financial crisis.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-oath&#34;&gt;The Oath&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I will remember that I didn’t make the world, and it doesn’t satisfy my equations.&lt;/li&gt;
+&lt;li&gt;Though I will use models boldly to estimate value, I will not be overly impressed by mathematics.&lt;/li&gt;
+&lt;li&gt;I will never sacrifice reality for elegance without explaining why I have done so.&lt;/li&gt;
+&lt;li&gt;Nor will I give the people who use my model false comfort about its accuracy. Instead, I will make explicit its assumptions and oversights.&lt;/li&gt;
+&lt;li&gt;I understand that my work may have enormous effects on society and the economy, many of them beyond my comprehension.
+&lt;img src=&#34;/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Useful Git/GitHub links</title>
       <link>/post/2018/git-github-links/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/git-github-links/</guid>
-      <description>&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#see-also&#34;&gt;See also:&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#git&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#git-and-github&#34;&gt;Git and GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#r-and-git&#34;&gt;R and Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#github-pages-gists-jekyll&#34;&gt;GitHub Pages, Gists | Jekyll&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#hugo-blogdown-and-git&#34;&gt;Hugo, Blogdown and Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;see-also&#34; class=&#34;section level2&#34;&gt;
+      <description>&lt;div id=&#34;see-also&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;See also:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;2018-04-27 — My simply Git Cheatsheet&lt;/li&gt;
-&lt;li&gt;2018–earlier — R Note Links&lt;/li&gt;
-&lt;li&gt;2018-03-15 — Creating Jekyll page on GitHub&lt;/li&gt;
-&lt;li&gt;2017-12-25 — Excuse me, do you have a moment to talk about version control?&lt;/li&gt;
-&lt;li&gt;2017-08-06 — Krishnan Lab | Source code, Data, &amp;amp; Code review&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/janani137/status/926516970920562688&#34;&gt;My tweet dated: 2017-03-11&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/interests/resources/&#34;&gt;Resources&lt;/a&gt; for more links related to Blogdown, Rmarkdown &amp;amp; GitHub&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;2017-02-11 (Check my &lt;a href=&#34;https://twitter.com/janani137/status/926516970920562688&#34;&gt;tweet&lt;/a&gt; as well.)&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;git&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Git&lt;/h1&gt;
@@ -81,12 +91,6 @@
 &lt;li&gt;&lt;a href=&#34;https://gcc.gnu.org/install/&#34;&gt;GCC&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ruby-lang.org/en/downloads/&#34;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://rubygems.org/pages/download&#34;&gt;Ruby Gems&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;hugo-blogdown-and-git&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Hugo, Blogdown and Git&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://daijiang.name/en/2017/03/30/updating-website-with-hugo-and-blogdown/&#34;&gt;Updating your website using Hugo &amp;amp; Blogdown, by Daijiang Li&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </description>
@@ -236,8 +240,8 @@ Email: &lt;a href=&#34;http://scr.im/janani&#34; class=&#34;uri&#34;&gt;http://s
 &lt;/div&gt;
 &lt;div id=&#34;why-im-writing-this&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Why I’m writing this&lt;/h1&gt;
-&lt;p&gt;I went through this rather painful &amp;amp; ghastly process from Rutgers University, Newark, NJ. My closest consulate was, therefore, the one in New York (CGNY).
-I hail from Chennai, Tamil Nadu (India). So, most of the state department and RPO/police verification guidelines worked for my specific case. Of course, folks from other countries can skip ahead from their consulate to the last step reading some country-specific blogs in-between.&lt;/p&gt;
+&lt;p&gt;I went through this rather painful &amp;amp; ghastly process from Rutgers University, Newark, NJ. My closest consulate was the one in New York (CGNY).
+I am originally from Chennai, Tamil Nadu (India). So, most of the state department and RPO/police verification guidelines I’ve enlisted below worked for my specific case. Folks from other countries can skip ahead from their consulate to the last step reading some country-specific blogs in-between.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;the-initial-process-where-you-read-and-imbibe&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;The initial process, where you read and imbibe!&lt;/h1&gt;
@@ -380,8 +384,8 @@ Therefore, she does not have any commitments here in India for legal,
 financial or personal reasons.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;pre&gt;&lt;code&gt;  I, therefore, request you to kindly provide the necessary NORI certificate&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;that will help her continue working towards her professional and personal
+&lt;p&gt;I, therefore, request you to kindly provide the necessary NORI certificate
+that will help her continue working towards her professional and personal
 goals in the US. The experience and expertise that she gains during her stay
 there will help her serve India better in the long run.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -410,7 +414,7 @@ Tamil Nadu, India&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div id=&#34;additional-documents-required-for-police-verification&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Additional documents required for police verification&lt;/h1&gt;
-&lt;p&gt;&lt;code&gt;[At least, I needed it (Chennai, Tamil Nadu)]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;[At least, I needed it (Chennai, Tamil Nadu)]&lt;/em&gt;&lt;/p&gt;
 &lt;div id=&#34;main-lettersdocuments&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Main letters/documents&lt;/h2&gt;
 &lt;ul&gt;
@@ -469,30 +473,39 @@ Tamil Nadu, India&lt;/code&gt;&lt;/pre&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Waiver review division barcode&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.j1waivertips.com/sample-statement-of-reason-for-j1-visa-waiver-application-at-us-dept-of-state/&#34;&gt;Statement of reason&lt;/a&gt; (below)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Sample statement:&lt;/em&gt;
+I am XYZ working at ABC as a PQR. I am currently on J1 visa sponsored by QWERTY. My J1 visa started on 7/19/2013 and ends on 7/19/2018 with a two-year home residency requirement. The main purpose of my J1 visa is to allow me to do research. My research work is progressing well, and it needs more time (longer than 7/19/2018) to complete my research projects. Since I am the lead person in the research projects, my employer and I feel that the opportunity for me to stay here in the US and complete the projects by obtaining the J1 visa waiver will be great.
+I am requesting a waiver of the two-year home residence requirement to complete my work here on the basis of No Objection certificate. My home country “ABC” has no objection in allowing me to continue working here in the US, and has issued a No Objection certificate to that effect. The ABCian Embassy in the USA will be issuing the No Objection statement to you. I kindly request you to grant me the J1 visa waiver at the earliest.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;The actual completed DS-3035
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/&#34; class=&#34;uri&#34;&gt;https://j1visawaiverrecommendation.state.gov/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If you make a mistake, fill it out from the beginning&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Passport data page&lt;/li&gt;
+&lt;li&gt;All DS2019s, IAP-66&lt;/li&gt;
+&lt;li&gt;Degree Certificates (Bachelors, Masters, PhD, …)&lt;/li&gt;
+&lt;li&gt;Statement of Reason&lt;/li&gt;
+&lt;li&gt;Two self-addressed stamped envelopes (legal-size)&lt;/li&gt;
+&lt;li&gt;Your NORI letters from
+&lt;ul&gt;
+&lt;li&gt;India: i) home department, ii) state department and iii) regional passport office (for police verification) and&lt;/li&gt;
+&lt;li&gt;US (local Indian Consulate, although they would be sending a copy)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;    Sample statement:
-    I am XYZ working at ABC as a PQR. I am currently on J1 visa sponsored by QWERTY. My J1 visa started on 7/19/2013 and ends on 7/19/2018 with a two-year home residency requirement. The main purpose of my J1 visa is to allow me to do research. My research work is progressing well, and it needs more time (longer than 7/19/2018) to complete my research projects. Since I am the lead person in the research projects, my employer and I feel that the opportunity for me to stay here in the US and complete the projects by obtaining the J1 visa waiver will be great.
-
-    I am requesting a waiver of the two-year home residence requirement to complete my work here on the basis of No Objection certificate.  My home country “Govt of India” has no objection in allowing me to continue working here in the US, and has issued a No Objection certificate to that effect.  The Indian Embassy in the USA will be issuing the No Objection statement to you. I kindly request you to grant me the J1 visa waiver at the earliest.&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;* The actual completed DS-3035
-    * https://j1visawaiverrecommendation.state.gov/
-    * If you make a mistake, fill it out from the beginning
-* Passport data page
-* All DS2019s, IAP-66
-* Degree Certificates (Bachelors, Masters, PhD, …)
-* Statement of Reason
-* Two self-addressed stamped envelopes (legal-size)
-* Your NORis from
-    * India: i) home department, ii) state department and iii) regional passport office (for police verification) and
-    * US (local Indian Consulate, although they would be sending a copy)&lt;/code&gt;&lt;/pre&gt;
 &lt;div id=&#34;address-for-the-package-to-be-sent&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Address for the package to be sent&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;Postal Service
 Department of State J-1 Waiver
 P.O. Box 979037
-St. Louis, MO 63197-9000&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;Courier Service
+St. Louis, MO 63197-9000
+
+
+Courier Service
 Department of State J-1 Waiver
 P.O. Box 979037
 1005 Convention Plaza

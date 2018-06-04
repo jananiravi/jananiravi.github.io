@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Research"
-subtitle = "*A few recent projects.*"
+subtitle = "*Projects & People*"
 
 # Order that this section will appear in.
 weight = 3
