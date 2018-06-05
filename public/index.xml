@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Janani Ravi on Janani Ravi</title>
-    <link>https://jananiravi.github.io/</link>
+    <link>/</link>
     <description>Recent content in Janani Ravi on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,11 +11,21 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>The evolution, conservation, and covariation of the bacterial Psp envelope-stress-response system</title>
+      <link>/unused/psp-evolution/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/unused/psp-evolution/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Modeler&#39;s Hippocratic Oath</title>
-      <link>https://jananiravi.github.io/post/2018/modelers-hippocratic-oath/</link>
+      <link>/post/2018/modelers-hippocratic-oath/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2018/modelers-hippocratic-oath/</guid>
+      <guid>/post/2018/modelers-hippocratic-oath/</guid>
       <description>
 
 &lt;p&gt;I recently came across the &lt;strong&gt;Modeler&amp;rsquo;s Hippocratic Oath&lt;/strong&gt; while reading &lt;a href=&#34;//twitter.com/mathbabedotorg&#34; target=&#34;_blank&#34;&gt;Cathy O&amp;rsquo;Neil&amp;rsquo;s&lt;/a&gt; &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.&lt;/p&gt;
@@ -30,17 +40,17 @@
 &lt;li&gt;I will never sacrifice reality for elegance without explaining why I have done so.&lt;/li&gt;
 &lt;li&gt;Nor will I give the people who use my model false comfort about its accuracy. Instead, I will make explicit its assumptions and oversights.&lt;/li&gt;
 &lt;li&gt;I understand that my work may have enormous effects on society and the economy, many of them beyond my comprehension.
-&lt;img src=&#34;https://jananiravi.github.io/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
+&lt;img src=&#34;/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>https://jananiravi.github.io/unused/getting-started/</link>
+      <link>/unused/getting-started/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/unused/getting-started/</guid>
+      <guid>/unused/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -225,37 +235,37 @@ git submodule update --init --recursive
     
     <item>
       <title>R-Ladies (East Lansing)</title>
-      <link>https://jananiravi.github.io/interests/r-ladies-east-lansing/</link>
+      <link>/interests/r-ladies-east-lansing/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/interests/r-ladies-east-lansing/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/rladies-elansing&#34;&gt;Launching R-Ladies East Lansing&lt;/a&gt;&lt;/p&gt;
+      <guid>/interests/r-ladies-east-lansing/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/post/2018/rladies-elansing&#34;&gt;Launching R-Ladies East Lansing&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Reading</title>
-      <link>https://jananiravi.github.io/interests/reading/</link>
+      <link>/interests/reading/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/interests/reading/</guid>
+      <guid>/interests/reading/</guid>
       <description>&lt;p&gt;Check out my &lt;a href=&#34;//goodreads.com/jananiravi&#34; target=&#34;_blank&#34;&gt;Goodreads&lt;/a&gt; profile for my latest reads and recommendations! :)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>https://jananiravi.github.io/interests/resources/</link>
+      <link>/interests/resources/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/interests/resources/</guid>
+      <guid>/interests/resources/</guid>
       <description>
 
-&lt;p&gt;My posts with some &lt;a href=&#34;https://jananiravi.github.io/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;My posts with some &lt;a href=&#34;/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;great-posts-academic&#34;&gt;Great posts | academic&lt;/h2&gt;
@@ -322,10 +332,10 @@ git submodule update --init --recursive
     
     <item>
       <title>Stress response</title>
-      <link>https://jananiravi.github.io/project/stress-response/</link>
+      <link>/project/stress-response/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/project/stress-response/</guid>
+      <guid>/project/stress-response/</guid>
       <description>
 
 &lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
@@ -342,9 +352,9 @@ git submodule update --init --recursive
 
 &lt;ul&gt;
 &lt;li&gt;Psp systems across the tree of life, &lt;em&gt;in preparation.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/publication/2018/anto&#34;&gt;Psp systems in actinobacteria&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/publication/2015/molmicro&#34;&gt;Psp system in &lt;em&gt;M. tuberculosis&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/publication/2016/natcomm&#34;&gt;Sigma Factor Network in &lt;em&gt;M. tuberculosis&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/publication/2018/anto&#34;&gt;Psp systems in actinobacteria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/publication/2015/molmicro&#34;&gt;Psp system in &lt;em&gt;M. tuberculosis&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/publication/2016/natcomm&#34;&gt;Sigma Factor Network in &lt;em&gt;M. tuberculosis&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
@@ -383,15 +393,15 @@ git submodule update --init --recursive
     
     <item>
       <title>Useful Git/GitHub links</title>
-      <link>https://jananiravi.github.io/post/2018/git-github-links/</link>
+      <link>/post/2018/git-github-links/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2018/git-github-links/</guid>
+      <guid>/post/2018/git-github-links/</guid>
       <description>&lt;div id=&#34;see-also&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;See also:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/janani137/status/926516970920562688&#34;&gt;My tweet dated: 2017-03-11&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/interests/resources/&#34;&gt;Resources&lt;/a&gt; for more links related to Blogdown, Rmarkdown &amp;amp; GitHub&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/interests/resources/&#34;&gt;Resources&lt;/a&gt; for more links related to Blogdown, Rmarkdown &amp;amp; GitHub&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;git&#34; class=&#34;section level1&#34;&gt;
@@ -444,10 +454,10 @@ git submodule update --init --recursive
     
     <item>
       <title>Launching R-Ladies East Lansing!</title>
-      <link>https://jananiravi.github.io/post/2018/rladies-elansing/</link>
+      <link>/post/2018/rladies-elansing/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2018/rladies-elansing/</guid>
+      <guid>/post/2018/rladies-elansing/</guid>
       <description>&lt;div id=&#34;welcome-to-our-new-chapter&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;&lt;em&gt;Welcome to our new chapter!&lt;/em&gt;&lt;/h2&gt;
 &lt;/div&gt;
@@ -492,37 +502,37 @@ git submodule update --init --recursive
     
     <item>
       <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
-      <link>https://jananiravi.github.io/publication/2018/anto/</link>
+      <link>/publication/2018/anto/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/publication/2018/anto/</guid>
+      <guid>/publication/2018/anto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2017: Year in Books | Goodreads</title>
-      <link>https://jananiravi.github.io/post/2017/goodreads-2017/</link>
+      <link>/post/2017/goodreads-2017/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2017/goodreads-2017/</guid>
+      <guid>/post/2017/goodreads-2017/</guid>
       <description>&lt;p&gt;Check out &lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2017/1671098&#34;&gt;2017 #MyYearInBooks&lt;/a&gt; on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;! &lt;a href=&#34;//twitter.com/goodreads&#34;&gt;@goodreads&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;summary-stats&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;2017: Summary Stats&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://jananiravi.github.io/post/2018-01-01-goodreads-2017_files/20180101-goodreads-part1.png&#34; width=&#34;450&#34; height=&#34;450&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2018-01-01-goodreads-2017_files/20180101-goodreads-part1.png&#34; width=&#34;450&#34; height=&#34;450&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;books-read&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;2017: Books Read&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://jananiravi.github.io/post/2018-01-01-goodreads-2017_files/2017-goodreads-part2.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2018-01-01-goodreads-2017_files/2017-goodreads-part2.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Black Swan by Nassim Taleb</title>
-      <link>https://jananiravi.github.io/post/2017/black-swan-nassim-taleb/</link>
+      <link>/post/2017/black-swan-nassim-taleb/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2017/black-swan-nassim-taleb/</guid>
+      <guid>/post/2017/black-swan-nassim-taleb/</guid>
       <description>&lt;div id=&#34;book-review&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Book Review&lt;/h1&gt;
 &lt;p&gt;I find myself increasingly drawn to the field of Behavioral Economics (so much so that I was considering a second PhD to channelize my love!), and how beautifully evasive these concepts are in real life.
@@ -555,19 +565,19 @@ PS3. Epistemology studies the nature of knowledge, justification, and the ration
     
     <item>
       <title>Evolution and Conservation of the Psp Envelope Stress-Response System</title>
-      <link>https://jananiravi.github.io/talk/evolution-and-conservation-of-the-psp-envelope-stress-response-system/</link>
+      <link>/talk/evolution-and-conservation-of-the-psp-envelope-stress-response-system/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/evolution-and-conservation-of-the-psp-envelope-stress-response-system/</guid>
+      <guid>/talk/evolution-and-conservation-of-the-psp-envelope-stress-response-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J1 visa waiver | How to obtain your NORI?</title>
-      <link>https://jananiravi.github.io/post/2017/j1-visa-waiver-nori/</link>
+      <link>/post/2017/j1-visa-waiver-nori/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2017/j1-visa-waiver-nori/</guid>
+      <guid>/post/2017/j1-visa-waiver-nori/</guid>
       <description>&lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#about-me&#34;&gt;About Me&lt;/a&gt;&lt;/li&gt;
@@ -885,29 +895,11 @@ St. Louis, MO 63101-1200&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Using computational appraches to understand host-pathogen biology</title>
-      <link>https://jananiravi.github.io/talk/using-computational-appraches-to-understand-host-pathogen-biology/</link>
+      <link>/talk/using-computational-appraches-to-understand-host-pathogen-biology/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/using-computational-appraches-to-understand-host-pathogen-biology/</guid>
+      <guid>/talk/using-computational-appraches-to-understand-host-pathogen-biology/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2016: Year in Books | Goodreads</title>
-      <link>https://jananiravi.github.io/post/2017/goodreads-2016/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jananiravi.github.io/post/2017/goodreads-2016/</guid>
-      <description>&lt;p&gt;Check out &lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2016/1671098&#34;&gt;2016 #MyYearInBooks&lt;/a&gt; on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;! &lt;a href=&#34;//twitter.com/goodreads&#34;&gt;@goodreads&lt;/a&gt;&lt;/p&gt;
-&lt;div id=&#34;summary-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2016: Summary Stats&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://jananiravi.github.io/post/2017-01-01-goodreads-2016_files/20170101-goodreads-part1.png&#34; width=&#34;450&#34; height=&#34;450&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;books-read&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2016: Books Read&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://jananiravi.github.io/post/2016-12-31-goodreads-2016_files/2016-goodreads-part2.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
 </description>
     </item>
     
