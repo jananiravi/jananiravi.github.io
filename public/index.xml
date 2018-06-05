@@ -11,16 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>The evolution, conservation, and covariation of the bacterial Psp envelope-stress-response system</title>
-      <link>/unused/psp-evolution/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/unused/psp-evolution/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Modeler&#39;s Hippocratic Oath</title>
       <link>/post/2018/modelers-hippocratic-oath/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
@@ -900,6 +890,24 @@ St. Louis, MO 63101-1200&lt;/code&gt;&lt;/pre&gt;
       
       <guid>/talk/using-computational-appraches-to-understand-host-pathogen-biology/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016: Year in Books | Goodreads</title>
+      <link>/post/2017/goodreads-2016/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017/goodreads-2016/</guid>
+      <description>&lt;p&gt;Check out &lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2016/1671098&#34;&gt;2016 #MyYearInBooks&lt;/a&gt; on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;! &lt;a href=&#34;//twitter.com/goodreads&#34;&gt;@goodreads&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;summary-stats&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;2016: Summary Stats&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2017-01-01-goodreads-2016_files/20170101-goodreads-part1.png&#34; width=&#34;450&#34; height=&#34;450&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;books-read&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;2016: Books Read&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2016-12-31-goodreads-2016_files/2016-goodreads-part2.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     

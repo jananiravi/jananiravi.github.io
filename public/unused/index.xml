@@ -7,18 +7,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
-    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 07 May 2018 00:00:00 -0400</lastBuildDate>
     <atom:link href="/unused/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>The evolution, conservation, and covariation of the bacterial Psp envelope-stress-response system</title>
-      <link>/unused/psp-evolution/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/unused/psp-evolution/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
