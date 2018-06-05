@@ -1,0 +1,49 @@
+---
+title: Matt Might's Blog
+author: Janani Ravi
+date: '2016-05-26'
+slug: matt-might-blog
+categories:
+  - Books-Blogs
+tags:
+  - blogs
+  - review
+  - productivity
+  - academic
+  - health
+summary: "Compilation of some useful posts *by* Matt Might."
+---
+
+
+# [Background](http://matt.might.net/)
+[Matt Might](http://matt.might.net/#personal) has an *awesome* easy-to-read [blog](http://matt.might.net/articles/) that has inspired us in *many* ways! Matt is a tenured CS professor at Utah and a visiting professor at HMS (Harvard Medical School). He's the dad of 3 kids, one of whom has a very [rare genetic disorder](http://matt.might.net/articles/my-sons-killer/).
+He & his wife have spent a good part of their lives [educating themselves and others](http://www.overcomingmovementdisorder.com/p/about-us.html) about the [disease](http://www.ngly1.org/).
+
+***
+# Some of his useful blog posts
+## Health | Strength-training | JustDoIt
+
+* [HOWTO: Gain strength and muscle](http://matt.might.net/articles/hacking-strength/)
+* [Least resistance weight loss](http://matt.might.net/articles/least-resistance-weight-loss/)
+* [Path of least resistance](http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/#philosophy)
+* [Handling repetitive strain injury (e.g. carpal tunnel syndrome)](http://matt.might.net/articles/preventing-and-managing-rsi/)
+
+***
+## Efficiency | Productivity | work-life-balance
+
+* [Productivity tips for academics](http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/)
+* [How to send and reply to email](http://matt.might.net/articles/how-to-email/)
+* [Tips for work-life balance](http://matt.might.net/articles/work-life-balance/)
+* [Travel hacks](http://matt.might.net/articles/travel-hacks/)
+* [12 resolutions for programmers](http://matt.might.net/articles/programmers-resolutions/)
+
+***
+
+## Academic | Professorship
+
+* [Academic job hunt advice](http://matt.might.net/articles/advice-for-academic-job-hunt/)
+* [HOWTO: Get tenure](http://matt.might.net/articles/tenure/)
+
+***
+
+`… = lots more where this came from!`
