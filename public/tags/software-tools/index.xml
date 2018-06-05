@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software-tools on Janani Ravi</title>
+    <link>https://jananiravi.github.io/tags/software-tools/</link>
+    <description>Recent content in Software-tools on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Mon, 07 May 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jananiravi.github.io/tags/software-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R-Ladies (East Lansing)</title>
+      <link>https://jananiravi.github.io/interests/r-ladies-east-lansing/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/interests/r-ladies-east-lansing/</guid>
+      <description>Launching R-Ladies East Lansing</description>
+    </item>
+    
+    <item>
+      <title>Useful Git/GitHub links</title>
+      <link>https://jananiravi.github.io/post/2018/git-github-links/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jananiravi.github.io/post/2018/git-github-links/</guid>
+      <description>See also:  My tweet dated: 2017-03-11 Resources for more links related to Blogdown, Rmarkdown &amp;amp; GitHub   Git  Version control with Git on Software Carpentry Git workflow for beginners Mozilla Git Getting started with Git Git, the simple guide Git exercises GitHowTo Introduction to Git and command line Friendly introduction to Git, Jane Git for humans, slides by Bartlett Learn Git branching Git cheat sheet and best practices Getting yourself out of a Git mess Try Git   Git and GitHub  GitHub tutorial, Broman New GitHub repo Git &amp;amp; Github | Seankross GitHub on Mac   R and Git  R with Git and GitHub   GitHub Pages, Gists | Jekyll  Github pages #1 #2 Creating gists on Github Jekyll GCC Ruby Ruby Gems   </description>
+    </item>
+    
+    <item>
+      <title>Launching R-Ladies East Lansing!</title>
+      <link>https://jananiravi.github.io/post/2018/rladies-elansing/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jananiravi.github.io/post/2018/rladies-elansing/</guid>
+      <description>Welcome to our new chapter!  What we’re about R-Ladies East Lansing welcomes members of all R proficiency levels, whether you are a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp;amp; expert upskilling. Our non-profit, civil society community is designed to develop our members’ R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!</description>
+    </item>
+    
+  </channel>
+</rss>

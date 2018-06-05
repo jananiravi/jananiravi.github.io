@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unuseds on Janani Ravi</title>
+    <link>https://jananiravi.github.io/unused/</link>
+    <description>Recent content in Unuseds on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Mon, 07 May 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jananiravi.github.io/unused/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic: the website designer for Hugo</title>
+      <link>https://jananiravi.github.io/unused/getting-started/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/unused/getting-started/</guid>
+      <description>Academic is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. Check out the latest demo of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the Quick Start guide or take a look at the Release Notes.
+
+Key features:
+ Easily manage various content including homepage, blog posts, publications, talks, and projects Extensible via color themes and widgets/plugins Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Multilingual and easy to customize  Color Themes Academic is available in different color themes and font themes.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jananiravi.github.io/unused/50-read-dec-medium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jananiravi.github.io/unused/50-read-dec-medium/</guid>
+      <description>.gr_grid_container { /* customize grid container div here. eg: width: 500px; */ } .gr_grid_book_container { /* customize book cover container div here */ float: left; width: 98px; height: 160px; padding: 0px 0px; overflow: hidden; }   Janani&#39;s 2017-reads book montage            Janani Ravi&#39;s favorite books » Share book reviews and ratings with Janani, and even join a book club on Goodreads.</description>
+    </item>
+    
+  </channel>
+</rss>
