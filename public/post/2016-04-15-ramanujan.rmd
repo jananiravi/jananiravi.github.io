@@ -1,0 +1,69 @@
+---
+title: A dedication to Ramanujan
+author: "Janani Ravi & Arjun Krishnan"
+date: '2016-04-15'
+slug: ramanujan
+categories:
+  - Books-Blogs
+tags:
+  - math
+  - review
+  - movie
+  - books
+summary: "... one of the greatest mathematicians of all time!"
+math: true
+---
+*Authors: Janani Ravi, Arjun Krishnan*
+
+[Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) has been noted as one of the classic 'genius-mathematicians' of all time! Hailing from the same state/country as him, [Arjun Krishnan](//arjun-krishnan.net) and I have always looked up to him & his elegant math as a source of inspiration right through our formative years!
+
+## The Movie
+Recent movie that has drastically increased Ramanujan's international visibility
+[The Man Who Knew Infinity](https://g.co/kgs/gfuP3p) by [Matthew Brown](https://www.imdb.com/name/nm0114226/).
+
+## The Play
+We watched this beautiful play in the University of Virginia campus during our grad school. Such unmistakable passion for math, that's almost art-like *or was it art!*
+
+* [A Disappearing Number](https://en.wikipedia.org/wiki/A_Disappearing_Number) by [Simon McBurney](https://en.wikipedia.org/wiki/Simon_McBurney)
+
+## The Book
+Here is a great companion book to better understand *the Man* and little bit of *the Math*!
+
+* [The Man Who Knew Infinity: A Life of the Genius Ramanujan](https://en.wikipedia.org/wiki/The_Man_Who_Knew_Infinity:_A_Life_of_the_Genius_Ramanujan) by [Robert Kanigel](https://en.wikipedia.org/wiki/Robert_Kanigel)
+
+## The People
+Without the help of the following people (and many more we haven't mentioned here), Ramanujan would have remained an unknown & obsolete genius!
+
+#### [GH Hardy](https://en.wikipedia.org/wiki/G._H._Hardy): Collaborator, Mentor
+Hardy was an English mathematician who brought Ramanujan to Cambridge, encouraged his professional growth and helped publish his many theorems and elegant solutions.
+
+#### [Matthew Brown](https://www.imdb.com/name/nm0114226/): The Director
+The director of the new Ramanujan movie, *The Man Who Knew Infinity*
+
+#### [Manjul Bhargava](https://en.wikipedia.org/wiki/Manjul_Bhargava): Math advisor & associate producer
+Princeton number theorist, winner of the Field's medal, and Associate Producer of the movie.
+
+[Video made for Manjul Bhargava Princeton](https://vimeo.com/128893911)
+
+#### [Ken Ono](//en.wikipedia.org/wiki/Ken_Ono): Math advisor & associate producer
+Ken Ono is this very accomplished mathematician who's central research questions revolve around the work of Ramanujan.
+He is also a fantastic and sincere communicator, teacher and author so much so that you can read/listen to almost anything that he has to say.
+
+[Here's a great video of a conversation he had with another mathematician where he talks about Ramanujan and his connection with him.](https://www.youtube.com/watch?v=EyvYr-2WLWg&list=WL&index=9)
+
+#### [Steven Strogatz](www.stevenstrogatz.com/): Applied mathematician
+Famous applied mathematician and author of superb books & articles on mathematics.
+
+#### Steven Strogatz, Manjul Bhargava & Matt Brown
+[Video](https://www.youtube.com/watch?v=yvHrn-41XMU)
+
+***
+## Some more interesting articles
+#### [Ramanujan surprises again| plus.maths.org](http://www.math.uiuc.edu/~berndt/articles/aachen.pdf)
+
+#### [Remembering Ramanujan: India Celebrates Its Famous Mathematical Son](http://www.scientificamerican.com/article.cfm?id=remembering-ramanujan-india)
+
+*December 22, 2012*, marks the 125th anniversary of the birth of legendary Indian mathematician Srinivasa Ramanujan. An intuitive mathematical genius, Ramanujan's discoveries have influenced several areas of mathematics, but he is probably most famous for his contributions to number theory and infinite series, among them fascinating formulas that can be used to calculate digits of pi in unusual ways.
+
+[More](http://www.scientificamerican.com/article.cfm?id=remembering-ramanujan-india)
+
