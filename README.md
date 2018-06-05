@@ -1,5 +1,11 @@
-This repo is currently private but would be live soon on [jananiravi.github.io](https://jananiravi.github.io/)!
+## Howdy!
 
-I've used Hugo blogdown with the academic theme to create my website+blog.
+My new website can be viewed live on [jananiravi.github.io](https://jananiravi.github.io).
 
-In the meantime, you can find me at [bit.ly/jananiravi](https://bit.ly/jananiravi)
+It was created using Hugo+blogdown+academic and hosted with GitHub pages.
+
+If you have trouble loading it _or_ if your keen eye notices an typo, please [let me know](scr.in/janani)!
+
+
+Cheers,
+Janani
