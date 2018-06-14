@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psp on Janani Ravi</title>
+    <link>https://jananiravi.github.io/tags/psp/</link>
+    <description>Recent content in Psp on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Mon, 07 May 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jananiravi.github.io/tags/psp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stress response</title>
+      <link>https://jananiravi.github.io/project/stress-response/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/project/stress-response/</guid>
+      <description>Research During my postdoctoral research at Rutgers University, I focused on using computational approaches to study various facets of host and pathogen biology including:
+ delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp); unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships; reconstructing and analyzing the mycobacterial sigma factor regulatory network.</description>
+    </item>
+    
+  </channel>
+</rss>
