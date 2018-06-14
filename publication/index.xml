@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Janani Ravi</title>
-    <link>/publication/</link>
+    <link>https://jananiravi.github.io/publication/</link>
     <description>Recent content in Publications on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,38 +12,38 @@
     
     <item>
       <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
-      <link>/publication/2018/anto/</link>
+      <link>https://jananiravi.github.io/publication/2018/anto/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
       
-      <guid>/publication/2018/anto/</guid>
+      <guid>https://jananiravi.github.io/publication/2018/anto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
-      <link>/publication/2016/natcomm/</link>
+      <link>https://jananiravi.github.io/publication/2016/natcomm/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
       
-      <guid>/publication/2016/natcomm/</guid>
+      <guid>https://jananiravi.github.io/publication/2016/natcomm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
-      <link>/publication/2015/molmicro/</link>
+      <link>https://jananiravi.github.io/publication/2015/molmicro/</link>
       <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
       
-      <guid>/publication/2015/molmicro/</guid>
+      <guid>https://jananiravi.github.io/publication/2015/molmicro/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
-      <link>/publication/2014/jimm/</link>
+      <link>https://jananiravi.github.io/publication/2014/jimm/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
       
-      <guid>/publication/2014/jimm/</guid>
+      <guid>https://jananiravi.github.io/publication/2014/jimm/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

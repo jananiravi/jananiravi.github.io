@@ -2,30 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unuseds on Janani Ravi</title>
-    <link>/unused/</link>
+    <link>https://jananiravi.github.io/unused/</link>
     <description>Recent content in Unuseds on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
-    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 07 May 2018 00:00:00 -0400</lastBuildDate>
     <atom:link href="/unused/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>The evolution, conservation, and covariation of the bacterial Psp envelope-stress-response system</title>
-      <link>/unused/psp-evolution/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/unused/psp-evolution/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>/unused/getting-started/</link>
+      <link>https://jananiravi.github.io/unused/getting-started/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/unused/getting-started/</guid>
+      <guid>https://jananiravi.github.io/unused/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -210,10 +200,10 @@ git submodule update --init --recursive
     
     <item>
       <title></title>
-      <link>/unused/50-read-dec-medium/</link>
+      <link>https://jananiravi.github.io/unused/50-read-dec-medium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/unused/50-read-dec-medium/</guid>
+      <guid>https://jananiravi.github.io/unused/50-read-dec-medium/</guid>
       <description>&lt;style type=&#34;text/css&#34; media=&#34;screen&#34;&gt;
         .gr_grid_container {
           /* customize grid container div here. eg: width: 500px; */
@@ -245,7 +235,7 @@ git submodule update --init --recursive
     &lt;div class=&#34;gr_grid_book_container&#34;&gt;&lt;a title=&#34;Are We Smart Enough to Know How Smart Animals Are?&#34; rel=&#34;nofollow&#34; href=&#34;https://www.goodreads.com/book/show/30231743-are-we-smart-enough-to-know-how-smart-animals-are&#34;&gt;&lt;img alt=&#34;Are We Smart Enough to Know How Smart Animals Are?&#34; border=&#34;0&#34; src=&#34;https://images.gr-assets.com/books/1490975607m/30231743.jpg&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
     &lt;div class=&#34;gr_grid_book_container&#34;&gt;&lt;a title=&#34;Goodbye, Things: The New Japanese Minimalism&#34; rel=&#34;nofollow&#34; href=&#34;https://www.goodreads.com/book/show/30231806-goodbye-things&#34;&gt;&lt;img alt=&#34;Goodbye, Things: The New Japanese Minimalism&#34; border=&#34;0&#34; src=&#34;https://images.gr-assets.com/books/1478879474m/30231806.jpg&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
     &lt;br style=&#34;clear: both&#34;/&gt;&lt;br/&gt;&lt;a class=&#34;gr_grid_branding&#34; style=&#34;font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both&#34; rel=&#34;nofollow&#34; href=&#34;https://www.goodreads.com/user/show/1671098-janani-ravi&#34;&gt;Janani Ravi&#39;s favorite books »&lt;/a&gt;
-  &lt;noscript&gt;&lt;br/&gt;Share &lt;a rel=&#34;nofollow&#34; href=&#34;/&#34;&gt;book reviews&lt;/a&gt; and ratings with Janani, and even join a &lt;a rel=&#34;nofollow&#34; href=&#34;/group&#34;&gt;book club&lt;/a&gt; on Goodreads.&lt;/noscript&gt;
+  &lt;noscript&gt;&lt;br/&gt;Share &lt;a rel=&#34;nofollow&#34; href=&#34;https://jananiravi.github.io/&#34;&gt;book reviews&lt;/a&gt; and ratings with Janani, and even join a &lt;a rel=&#34;nofollow&#34; href=&#34;https://jananiravi.github.io/group&#34;&gt;book club&lt;/a&gt; on Goodreads.&lt;/noscript&gt;
   &lt;/div&gt;
 
       &lt;/div&gt;
@@ -294,7 +284,7 @@ git submodule update --init --recursive
     &lt;div class=&#34;gr_grid_book_container&#34;&gt;&lt;a title=&#34;Why Not Me?&#34; rel=&#34;nofollow&#34; href=&#34;https://www.goodreads.com/book/show/30268522-why-not-me&#34;&gt;&lt;img alt=&#34;Why Not Me?&#34; border=&#34;0&#34; src=&#34;https://images.gr-assets.com/books/1473956249m/30268522.jpg&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
     &lt;div class=&#34;gr_grid_book_container&#34;&gt;&lt;a title=&#34;Modern Romance&#34; rel=&#34;nofollow&#34; href=&#34;https://www.goodreads.com/book/show/23453112-modern-romance&#34;&gt;&lt;img alt=&#34;Modern Romance&#34; border=&#34;0&#34; src=&#34;https://images.gr-assets.com/books/1432335014m/23453112.jpg&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
     &lt;br style=&#34;clear: both&#34;/&gt;&lt;br/&gt;&lt;a class=&#34;gr_grid_branding&#34; style=&#34;font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both&#34; rel=&#34;nofollow&#34; href=&#34;https://www.goodreads.com/user/show/1671098-janani-ravi&#34;&gt;Janani Ravi&#39;s favorite books »&lt;/a&gt;
-  &lt;noscript&gt;&lt;br/&gt;Share &lt;a rel=&#34;nofollow&#34; href=&#34;/&#34;&gt;book reviews&lt;/a&gt; and ratings with Janani, and even join a &lt;a rel=&#34;nofollow&#34; href=&#34;/group&#34;&gt;book club&lt;/a&gt; on Goodreads.&lt;/noscript&gt;
+  &lt;noscript&gt;&lt;br/&gt;Share &lt;a rel=&#34;nofollow&#34; href=&#34;https://jananiravi.github.io/&#34;&gt;book reviews&lt;/a&gt; and ratings with Janani, and even join a &lt;a rel=&#34;nofollow&#34; href=&#34;https://jananiravi.github.io/group&#34;&gt;book club&lt;/a&gt; on Goodreads.&lt;/noscript&gt;
   &lt;/div&gt;
 
       &lt;/div&gt;

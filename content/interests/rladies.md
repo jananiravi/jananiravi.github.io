@@ -22,10 +22,12 @@ external_link = ""
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "rladies.jpeg"
+# [header]
+image = ""
 caption = "R-Ladies"
 
 +++
 
 [Launching R-Ladies East Lansing](/post/2018/rladies-elansing)
+
+<img src="/interests/rladies_files/rladies.jpeg" alt="" width="200px" height="200px"/>
