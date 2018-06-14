@@ -2,113 +2,671 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Janani Ravi</title>
-    <link>https://jananiravi.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
     <lastBuildDate>Wed, 01 Jan 2014 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://jananiravi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Modeler&#39;s Hippocratic Oath</title>
-      <link>https://jananiravi.github.io/post/2018/modelers-hippocratic-oath/</link>
+      <link>/post/2018/modelers-hippocratic-oath/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2018/modelers-hippocratic-oath/</guid>
-      <description>I recently came across the Modeler&amp;rsquo;s Hippocratic Oath while reading Cathy O&amp;rsquo;Neil&amp;rsquo;s &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.
-This was originally written by Emanuel Derman and Paul Wilmott in the wake of the 2008 financial crisis.
-The Oath  I will remember that I didn’t make the world, and it doesn’t satisfy my equations. Though I will use models boldly to estimate value, I will not be overly impressed by mathematics. I will never sacrifice reality for elegance without explaining why I have done so.</description>
+      <guid>/post/2018/modelers-hippocratic-oath/</guid>
+      <description>
+
+&lt;p&gt;I recently came across the &lt;strong&gt;Modeler&amp;rsquo;s Hippocratic Oath&lt;/strong&gt; while reading &lt;a href=&#34;//twitter.com/mathbabedotorg&#34; target=&#34;_blank&#34;&gt;Cathy O&amp;rsquo;Neil&amp;rsquo;s&lt;/a&gt; &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;This was originally written by &lt;a href=&#34;//twitter.com/EmanuelDerman&#34; target=&#34;_blank&#34;&gt;Emanuel Derman&lt;/a&gt; and &lt;a href=&#34;//twitter.com/wilmott&#34; target=&#34;_blank&#34;&gt;Paul Wilmott&lt;/a&gt; in the wake of the 2008 financial crisis.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-oath&#34;&gt;The Oath&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I will remember that I didn’t make the world, and it doesn’t satisfy my equations.&lt;/li&gt;
+&lt;li&gt;Though I will use models boldly to estimate value, I will not be overly impressed by mathematics.&lt;/li&gt;
+&lt;li&gt;I will never sacrifice reality for elegance without explaining why I have done so.&lt;/li&gt;
+&lt;li&gt;Nor will I give the people who use my model false comfort about its accuracy. Instead, I will make explicit its assumptions and oversights.&lt;/li&gt;
+&lt;li&gt;I understand that my work may have enormous effects on society and the economy, many of them beyond my comprehension.
+&lt;img src=&#34;/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Useful Git/GitHub links</title>
-      <link>https://jananiravi.github.io/post/2018/git-github-links/</link>
+      <link>/post/2018/git-github-links/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2018/git-github-links/</guid>
-      <description>See also:  My tweet dated: 2017-03-11 Resources for more links related to Blogdown, Rmarkdown &amp;amp; GitHub   Git  Version control with Git on Software Carpentry Git workflow for beginners Mozilla Git Getting started with Git Git, the simple guide Git exercises GitHowTo Introduction to Git and command line Friendly introduction to Git, Jane Git for humans, slides by Bartlett Learn Git branching Git cheat sheet and best practices Getting yourself out of a Git mess Try Git   Git and GitHub  GitHub tutorial, Broman New GitHub repo Git &amp;amp; Github | Seankross GitHub on Mac   R and Git  R with Git and GitHub   GitHub Pages, Gists | Jekyll  Github pages #1 #2 Creating gists on Github Jekyll GCC Ruby Ruby Gems   </description>
+      <guid>/post/2018/git-github-links/</guid>
+      <description>&lt;div id=&#34;see-also&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;See also:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/janani137/status/926516970920562688&#34;&gt;My tweet dated: 2017-03-11&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/interests/resources/&#34;&gt;Resources&lt;/a&gt; for more links related to Blogdown, Rmarkdown &amp;amp; GitHub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;git&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Git&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Version control with &lt;a href=&#34;http://swcarpentry.github.io/git-novice/&#34;&gt;Git on Software Carpentry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sklise.com/2012/10/07/git-workflow-beginner/&#34;&gt;Git workflow for beginners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/&#34;&gt;Mozilla Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://guides.beanstalkapp.com/version-control/getting-started-with-git.html&#34;&gt;Getting started with Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rogerdudler.github.io/git-guide/&#34;&gt;Git, the simple guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cbattista/learn-github/wiki/Learn-Github-Exercises&#34;&gt;Git exercises&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://githowto.com/&#34;&gt;GitHowTo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sklise.com/2012/09/22/introduction-to-git/&#34;&gt;Introduction to Git and command line&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kirstiejane.github.io/friendly-github-intro/&#34;&gt;Friendly introduction to Git, Jane&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/alicebartlett/git-for-humans&#34;&gt;Git for humans, slides by Bartlett&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://learngitbranching.js.org&#34;&gt;Learn Git branching&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52&#34;&gt;Git cheat sheet and best practices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ohshitgit.com&#34;&gt;Getting yourself out of a Git mess&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://try.github.io&#34;&gt;Try Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;git-and-github&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Git and GitHub&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kbroman/github_tutorial&#34;&gt;GitHub tutorial, Broman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/new&#34;&gt;New GitHub repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://seankross.com/the-unix-workbench/git-and-github.html&#34;&gt;Git &amp;amp; Github | Seankross&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mac.github.com/help.html&#34;&gt;GitHub on Mac&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r-and-git&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R and Git&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://happygitwithr.com/big-picture.html&#34;&gt;R with Git and GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;github-pages-gists-jekyll&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;GitHub Pages, Gists | Jekyll&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Github pages &lt;a href=&#34;https://guides.github.com/features/pages/&#34;&gt;#1&lt;/a&gt; &lt;a href=&#34;https://pages.github.com/&#34;&gt;#2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/categories/gists/&#34;&gt;Creating gists on Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jekyllrb.com/docs/installation/&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gcc.gnu.org/install/&#34;&gt;GCC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ruby-lang.org/en/downloads/&#34;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rubygems.org/pages/download&#34;&gt;Ruby Gems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>Launching R-Ladies East Lansing!</title>
-      <link>https://jananiravi.github.io/post/2018/rladies-elansing/</link>
+      <link>/post/2018/rladies-elansing/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2018/rladies-elansing/</guid>
-      <description>Welcome to our new chapter!  What we’re about R-Ladies East Lansing welcomes members of all R proficiency levels, whether you are a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp;amp; expert upskilling. Our non-profit, civil society community is designed to develop our members’ R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!</description>
+      <guid>/post/2018/rladies-elansing/</guid>
+      <description>&lt;div id=&#34;welcome-to-our-new-chapter&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;em&gt;Welcome to our new chapter!&lt;/em&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div id=&#34;what-were-about&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What we’re about&lt;/h2&gt;
+&lt;p&gt;R-Ladies East Lansing welcomes members of all R proficiency levels, whether you are a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp;amp; expert upskilling. Our non-profit, civil society community is designed to develop our members’ R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!&lt;/p&gt;
+&lt;p&gt;A local chapter of R-Ladies Global, &lt;strong&gt;R-Ladies East Lansing&lt;/strong&gt; exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. As a founding principle, there is no cost or charge to participate in any of our R-Ladies communities around the world.&lt;/p&gt;
+&lt;p&gt;We are part of Global R-Ladies group. Here are some links! You can access our presentations, R scripts and more (soon) on our Github account and follow us on twitter to stay up to date about R-Ladies news!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;where-to-find-us&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Where to find us?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rladies.org&#34;&gt;R-Ladies Global&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Github: &lt;a href=&#34;https://github.com/rladies&#34;&gt;@rladies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter: &lt;a href=&#34;http://twitter.com/RLadiesGlobal&#34;&gt;@RLadiesGlobal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email: info [at] rladies [dot] org&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;R-Ladies East Lansing
+&lt;ul&gt;
+&lt;li&gt;Twitter: &lt;a href=&#34;http://twitter.com/RLadiesELansing&#34;&gt;@RLadiesELansing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://meetup.com/rladies-east-lansing/&#34;&gt;Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rladies-eastlansing.slack.com&#34;&gt;Slack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;E-mail:
+&lt;ul&gt;
+&lt;li&gt;eastlansing [at] rladies [dot] org&lt;/li&gt;
+&lt;li&gt;janani [at] rladies [dot] org&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ps-community-policies-code-of-conduct&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;em&gt;PS&lt;/em&gt; Community Policies &amp;amp; Code of Conduct:&lt;/h2&gt;
+&lt;p&gt;The leadership, mentoring &amp;amp; teaching roles within this Community are held exclusively by minority genders (majority gender speakers may be allowed/invited as one-off guests in exceptional circumstances at the leadership team’s discretion). Due to unexpected demand, we have opened learning participation to all genders, dependent on initial and on-going vetting by the leadership team. However, the stated priority of the R-Ladies communities is the development &amp;amp; support specifically of those identifying as a minority gender, and we, therefore, reserve the right to guard this interest through whatever measures the leadership team deems appropriate. Anyone involved with R-Ladies East Lansing is expected to fully respect each other, the mandate of this community, and the goodwill on which R-Ladies is founded, or face expulsion/a penalty of any form, at the discretion of the leadership team. Full community guidelines are found here: &lt;a href=&#34;https://github.com/rladies/starter-kit/wiki&#34; class=&#34;uri&#34;&gt;https://github.com/rladies/starter-kit/wiki&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;pps-photos-films-and-all-other-mediarecordings&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;em&gt;PPS&lt;/em&gt; Photos, Films and all other media/recordings:&lt;/h2&gt;
+&lt;p&gt;Photos, Films, and all other media/recordings: photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies East Lansing event you grant the community organizers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fundraising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organizer.&lt;/p&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>2017: Year in Books | Goodreads</title>
-      <link>https://jananiravi.github.io/post/2017/goodreads-2017/</link>
+      <link>/post/2017/goodreads-2017/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2017/goodreads-2017/</guid>
-      <description>Check out 2017 #MyYearInBooks on Goodreads! @goodreads
-2017: Summary Stats  2017: Books Read  </description>
+      <guid>/post/2017/goodreads-2017/</guid>
+      <description>&lt;p&gt;Check out &lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2017/1671098&#34;&gt;2017 #MyYearInBooks&lt;/a&gt; on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;! &lt;a href=&#34;//twitter.com/goodreads&#34;&gt;@goodreads&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;summary-stats&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;2017: Summary Stats&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2018-01-01-goodreads-2017_files/20180101-goodreads-part1.png&#34; width=&#34;450&#34; height=&#34;450&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;books-read&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;2017: Books Read&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2018-01-01-goodreads-2017_files/2017-goodreads-part2.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>Black Swan by Nassim Taleb</title>
-      <link>https://jananiravi.github.io/post/2017/black-swan-nassim-taleb/</link>
+      <link>/post/2017/black-swan-nassim-taleb/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2017/black-swan-nassim-taleb/</guid>
-      <description>Book Review I find myself increasingly drawn to the field of Behavioral Economics (so much so that I was considering a second PhD to channelize my love!), and how beautifully evasive these concepts are in real life. Starting with Daniel Kahneman’s Thinking Fast and Slow, followed by the writings and blogs of Steven Levitt, Dan Ariely, Nate Silver and Barry Schwartz (and still others like Malcolm Gladwell), has set me thinking a lot about how insane and illogical we are.</description>
+      <guid>/post/2017/black-swan-nassim-taleb/</guid>
+      <description>&lt;div id=&#34;book-review&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Book Review&lt;/h1&gt;
+&lt;p&gt;I find myself increasingly drawn to the field of Behavioral Economics (so much so that I was considering a second PhD to channelize my love!), and how beautifully evasive these concepts are in real life.
+Starting with Daniel Kahneman’s Thinking Fast and Slow, followed by the writings and blogs of Steven Levitt, Dan Ariely, Nate Silver and Barry Schwartz (and still others like Malcolm Gladwell), has set me thinking a lot about how insane and illogical we are. We do see ourselves as logical and reasonably intelligent people who do not fall for the usual traps (OK, maybe you didn’t see me that way, but we’ll let that slide for now…), but how fool-proof are we? What about the narrative fallacy - ‘aah, that makes sense now’ or ‘I thought so’ or confirmation biases?&lt;/p&gt;
+&lt;p&gt;‘The Black Swan’ by Nassim Nicholas Taleb (&lt;a href=&#34;http://fooledbyrandomness.com/&#34; class=&#34;uri&#34;&gt;http://fooledbyrandomness.com/&lt;/a&gt;) has been on my list ever since I first got infatuated with this topic. I finally finished it last month. Man, is it it well-written! The guy is brilliant, and his wit and humor are unmatchable! Among other things, he leads (and concludes) with our love for everything normal, statistically speaking and otherwise, and how we can’t but help make the obvious blunders of predicting, quite erroneously, based on the past, even though we know fully well that life doesn’t present itself as a series of bell curves stringed together just so that we can get away with some easy math! You’ll hear a lot about epistemology (defined in PS3; truth be told, I hadn’t heard of this word until last month), mediocristan (the Gaussian life) vs extremistan (scale-free distributions encountered more often than not in real-life)&lt;/p&gt;
+&lt;p&gt;Here’s a snippet: &lt;a href=&#34;https://drive.google.com/file/d/0B7_wAV4HsNrkQmdFMndHSHhldFE/view&#34; class=&#34;uri&#34;&gt;https://drive.google.com/file/d/0B7_wAV4HsNrkQmdFMndHSHhldFE/view&lt;/a&gt; Never mind if you don’t get it. I enjoyed every last bit of the book, and hope that you do too!
+Give it a try - whether you love it or hate it, it would be time well-spent! :)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Happy reading!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;PS1. I’ve heard that people either love it or hate it. Clearly, I fall in the bin #1. Do I agree with everything? Well, yeah, almost everything.
+PS2. Luckily, none of you are directly tied to economics or financial sectors. :D Well, scientists and statisticians have been insulted too, but the elegance of it makes it OK! Lots to think about.:)
+PS3. Epistemology studies the nature of knowledge, justification, and the rationality of belief. Much of the debate in epistemology centers on four areas: (1) the philosophical analysis of the nature of knowledge and how it relates to such concepts as truth, belief, and justification, (2) various problems of skepticism, (3) the sources and scope of knowledge and justified belief, and (4) the criteria for knowledge and justification.&lt;/p&gt;
+&lt;div id=&#34;tags&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Tags&lt;/h2&gt;
+&lt;p&gt;#behavioraleconomics #books #suggestions #mustread #randomness #economics #business #philosophy&lt;/p&gt;
+&lt;p&gt;blurb, review, snapshot below&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;blurb&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Blurb&lt;/h1&gt;
+&lt;p&gt;A black swan is a highly improbable event with three principal characteristics: It is unpredictable; it carries a massive impact; and, after the fact, we concoct an explanation that makes it appear less random, and more predictable, than it was.&lt;/p&gt;
+&lt;p&gt;The astonishing success of Google was a black swan; so was 9/11. For Nassim Nicholas Taleb, black swans underlie almost everything about our world, from the rise of religions to events in our own personal lives.&lt;/p&gt;
+&lt;p&gt;Why do we not acknowledge the phenomenon of black swans until after they occur? Part of the answer, according to Taleb, is that humans are hardwired to learn specifics when they should be focused on generalities.&lt;/p&gt;
+&lt;p&gt;We concentrate on things we already know and time and time again fail to take into consideration what we don’t know. We are, therefore, unable to truly estimate opportunities, too vulnerable to the impulse to simplify, narrate, and categorize, and not open enough to rewarding those who can imagine the “impossible.”&lt;/p&gt;
+&lt;p&gt;For years, Taleb has studied how we fool ourselves into thinking we know more than we actually do. We restrict our thinking to the irrelevant and inconsequential, while large events continue to surprise us and shape our world. Now, in this revelatory book, Taleb explains everything we know about what we don’t know. He offers surprisingly simple tricks for dealing with black swans and benefiting from them.&lt;/p&gt;
+&lt;p&gt;Elegant, startling, and universal in its applications ‘The Black Swan’ will change the way you look at the world. Taleb is a vastly entertaining writer, with wit, irreverence, and unusual stories to tell. He has a polymathic command of subjects ranging from cognitive science to business to probability theory.&lt;/p&gt;
+&lt;p&gt;‘The Black Swan’ is a landmark book – itself a black swan.&lt;/p&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>J1 visa waiver | How to obtain your NORI?</title>
-      <link>https://jananiravi.github.io/post/2017/j1-visa-waiver-nori/</link>
+      <link>/post/2017/j1-visa-waiver-nori/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2017/j1-visa-waiver-nori/</guid>
-      <description>About Me Why I’m writing this The initial process, where you read and imbibe! Helpful links:  Approximate order of key events &amp;amp; things-to-do Initial set of documents needed for the Indian Consulate attestation Documents to be sent to Indian Home Department Documents to be sent to the other two departments: List of documents  Addresses for mailing your packages TN State Department Regional Passport Office (RPO)  Additional documents required for police verification Main letters/documents Supporting documents  Final set of documents to be sent to the USCIS, Department of State Address for the package to be sent Tracking progress    About Me I’m Janani Ravi, currently at Michigan State University.</description>
+      <guid>/post/2017/j1-visa-waiver-nori/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#about-me&#34;&gt;About Me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#why-im-writing-this&#34;&gt;Why I’m writing this&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#the-initial-process-where-you-read-and-imbibe&#34;&gt;The initial process, where you read and imbibe!&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#helpful-links&#34;&gt;Helpful links:&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#approximate-order-of-key-events-things-to-do&#34;&gt;Approximate order of key events &amp;amp; things-to-do&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#initial-set-of-documents-needed-for-the-indian-consulate-attestation&#34;&gt;Initial set of documents needed for the Indian Consulate attestation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#documents-to-be-sent-to-indian-home-department&#34;&gt;Documents to be sent to Indian Home Department&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#documents-to-be-sent-to-the-other-two-departments&#34;&gt;Documents to be sent to the other two departments:&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#list-of-documents&#34;&gt;List of documents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#addresses-for-mailing-your-packages&#34;&gt;Addresses for mailing your packages&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#tn-state-department&#34;&gt;TN State Department&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#regional-passport-office-rpo&#34;&gt;Regional Passport Office (RPO)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#additional-documents-required-for-police-verification&#34;&gt;Additional documents required for police verification&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#main-lettersdocuments&#34;&gt;Main letters/documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#supporting-documents&#34;&gt;Supporting documents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#final-set-of-documents-to-be-sent-to-the-uscis-department-of-state&#34;&gt;Final set of documents to be sent to the USCIS, Department of State&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#address-for-the-package-to-be-sent&#34;&gt;Address for the package to be sent&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#tracking-progress&#34;&gt;Tracking progress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;about-me&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;About Me&lt;/h1&gt;
+&lt;p&gt;I’m Janani Ravi, currently at Michigan State University.
+### Contact:
+Email: &lt;a href=&#34;http://scr.im/janani&#34; class=&#34;uri&#34;&gt;http://scr.im/janani&lt;/a&gt; | Twitter: &lt;span class=&#34;citation&#34;&gt;[@janani137]&lt;/span&gt;(twitter.com/janani137)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;why-im-writing-this&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Why I’m writing this&lt;/h1&gt;
+&lt;p&gt;I went through this rather painful &amp;amp; ghastly process from Rutgers University, Newark, NJ. My closest consulate was the one in New York (CGNY).
+I am originally from Chennai, Tamil Nadu (India). So, most of the state department and RPO/police verification guidelines I’ve enlisted below worked for my specific case. Folks from other countries can skip ahead from their consulate to the last step reading some country-specific blogs in-between.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-initial-process-where-you-read-and-imbibe&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;The initial process, where you read and imbibe!&lt;/h1&gt;
+&lt;div id=&#34;helpful-links&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Helpful links:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;US govt. websites&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver.html&#34; class=&#34;uri&#34;&gt;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver.html&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver/ds-3035-instructions.html&#34; class=&#34;uri&#34;&gt;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver/ds-3035-instructions.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov&#34; class=&#34;uri&#34;&gt;https://j1visawaiverrecommendation.state.gov&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/accessController.asp?page=26&#34; class=&#34;uri&#34;&gt;https://j1visawaiverrecommendation.state.gov/accessController.asp?page=26&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/cancelHandler.asp&#34; class=&#34;uri&#34;&gt;https://j1visawaiverrecommendation.state.gov/cancelHandler.asp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blogs&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sameetmehta.com/2015/01/the-j1-waiver-process-for-indian.html&#34; class=&#34;uri&#34;&gt;http://www.sameetmehta.com/2015/01/the-j1-waiver-process-for-indian.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sciash.wordpress.com/2016/03/20/j1-waiver-step-by-step-guide/&#34; class=&#34;uri&#34;&gt;https://sciash.wordpress.com/2016/03/20/j1-waiver-step-by-step-guide/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.immihelp.com/forum/showthread.php/113424-J1-visa-home-residency-requirement-waiver-from-India&#34; class=&#34;uri&#34;&gt;http://www.immihelp.com/forum/showthread.php/113424-J1-visa-home-residency-requirement-waiver-from-India&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://j1.aruppukottai.net/&#34; class=&#34;uri&#34;&gt;http://j1.aruppukottai.net/&lt;/a&gt; (old 2009)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://prashanth-jaikumar.blogspot.com/2010/05/how-i-learned-to-stop-worrying-and-love.html&#34; class=&#34;uri&#34;&gt;http://prashanth-jaikumar.blogspot.com/2010/05/how-i-learned-to-stop-worrying-and-love.html&lt;/a&gt; (2010 May)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tip&lt;/em&gt;: Find specific blogs for your state since the rules and guidelines might be somewhat different. Mine was Tamil Nadu.&lt;/li&gt;
+&lt;li&gt;Other useful PDFs that may include some of the above: The_process&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;approximate-order-of-key-events-things-to-do&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Approximate order of key events &amp;amp; things-to-do&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Read &amp;amp; decipher the resources. It’s a one-time thing. So, do it!&lt;/li&gt;
+&lt;li&gt;Start at least 1–1.5yrs before your current employment ends/your extended J1 expires. The process takes time &amp;amp; patience. Give time for ‘worst case scenarios’!&lt;/li&gt;
+&lt;li&gt;Tip: Talk to your department admin and your university’s international/J1 office.&lt;/li&gt;
+&lt;li&gt;Note: First extend your J1 &amp;amp; then apply for the waiver. You can’t extend once you apply for your waiver.&lt;/li&gt;
+&lt;li&gt;Notarization of your biodata and affidavit (your local bank or other notary publics)&lt;/li&gt;
+&lt;li&gt;Attestation of your biodata and affidavit: Local Indian consulate with the necessary documents
+&lt;ul&gt;
+&lt;li&gt;Some require passport-sized photo taken within the last 6 mo (CGNY did ‘require’ but they didn’t ’need’ it!!)&lt;/li&gt;
+&lt;li&gt;Call to get their full list and check their website before going&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Send your packages to the 3 departments back home (web portal/postal mail w/ tracking)&lt;/li&gt;
+&lt;li&gt;Back to the local Indian consulate
+&lt;ul&gt;
+&lt;li&gt;Take your 3 NORIs and forms to get a NORI that they will forward to the Department of State, US)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Send your package to USCIS (w/ tracking)
+&lt;ul&gt;
+&lt;li&gt;Include all the necessary background documents&lt;/li&gt;
+&lt;li&gt;NORIs from all of the above&lt;/li&gt;
+&lt;li&gt;DS-3035 form&lt;/li&gt;
+&lt;li&gt;Preferably, don’t include what’s not in the govt. list&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Note: You can migrate your J1 to a different university during your J1’s duration of validity.
+&lt;ul&gt;
+&lt;li&gt;Talk to both the universities’ J1 departments.&lt;/li&gt;
+&lt;li&gt;This would take 24-48h but can only happen before you terminate your current appointment. Once you are out, you need to process a new J1 and, possibly, go this whole process once again!&lt;/li&gt;
+&lt;li&gt;This could happen even while your J1 is being petitioned.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;initial-set-of-documents-needed-for-the-indian-consulate-attestation&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Initial set of documents needed for the Indian Consulate attestation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Original Passport + Visa (+ copy)&lt;/li&gt;
+&lt;li&gt;All DS-2019s (+ copy)&lt;/li&gt;
+&lt;li&gt;Latest I-94 (+ copy)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://i94.cbp.dhs.gov/I94&#34; class=&#34;uri&#34;&gt;https://i94.cbp.dhs.gov/I94&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Proof of residence in the US (preferably 2)&lt;/li&gt;
+&lt;li&gt;Cash, money order or cashier’s cheque&lt;/li&gt;
+&lt;li&gt;Biodata &amp;amp; Affidavit
+&lt;ul&gt;
+&lt;li&gt;unfilled sample: J1-waiver-biodata-affidavit-NY_unfilled.pdf&lt;/li&gt;
+&lt;li&gt;The first page is for New York Consulate General but others could use it as a guide too.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;documents-to-be-sent-to-indian-home-department&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Documents to be sent to Indian Home Department&lt;/h1&gt;
+&lt;p&gt;Govt. of India Ministry of Human Resource Development (HRD)
+No Obligation to Return to India
+&lt;a href=&#34;http://www.nori.ac.in/&#34; class=&#34;uri&#34;&gt;http://www.nori.ac.in/&lt;/a&gt; (quite straightforward; trackable (!); they are really fast &amp;amp; responsive)
+* Biodata and Affidavit (Notarized &amp;amp; Attested by the Consulate General of India, New York, USA)
+* e-Copy of Passport (New and Old) and J1-Visa
+* e-Copy of all DS-2019s
+* e-Copies of PhD &amp;amp; BTech (other, as applicable) Degree Certificate
+* I don’t remember if I included:
+* Employment letter from the department chair (I needed this somewhere)
+* Proof of current residence in the US&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;documents-to-be-sent-to-the-other-two-departments&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Documents to be sent to the other two departments:&lt;/h1&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;your state government&lt;/li&gt;
+&lt;li&gt;your Regional Passport Office (likely, where you got your first passport)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div id=&#34;list-of-documents&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;List of documents&lt;/h2&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Biodata and Affidavit (Notarized &amp;amp; Attested by the Consulate General of India, New York, USA)&lt;/li&gt;
+&lt;li&gt;Copy of Passport (New and Old) and J1-Visa&lt;/li&gt;
+&lt;li&gt;Copy of all DS-2019s&lt;/li&gt;
+&lt;li&gt;Proof of current residence in the US&lt;/li&gt;
+&lt;li&gt;Copies of Ph.D. &amp;amp; B.Tech (other, as applicable) Degree Certificate&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Cover letter with your request to grant NORI
+&lt;ul&gt;
+&lt;li&gt;Your correct address &amp;amp; theirs (of course!) including your email ID (you never know!)&lt;/li&gt;
+&lt;li&gt;Where you are studying/working&lt;/li&gt;
+&lt;li&gt;Passport number (new and old)&lt;/li&gt;
+&lt;li&gt;Why you need the waiver (change of job, extending the same one, …)&lt;/li&gt;
+&lt;li&gt;List of attested/enclosed copies of documents&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Letter of consent from your parent saying that you have no legal obligation to return. Include these details, if possible/applicable
+&lt;ul&gt;
+&lt;li&gt;Who they are, where they are working/retired from&lt;/li&gt;
+&lt;li&gt;Brief family history&lt;/li&gt;
+&lt;li&gt;Your residential address (India)&lt;/li&gt;
+&lt;li&gt;Your brief educational history&lt;/li&gt;
+&lt;li&gt;When and why you came to the US&lt;/li&gt;
+&lt;li&gt;Your marital &amp;amp; dependent info (briefly) when applicable&lt;/li&gt;
+&lt;li&gt;Your current residential address in the US&lt;/li&gt;
+&lt;li&gt;Why you are requesting the waiver (in their words)&lt;/li&gt;
+&lt;li&gt;And something along these lines (sample below)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;With regard to the NORI certification, I confirm that all the details
+stated above are true to the best of my knowledge and all supporting documents
+have been attached for your perusal (the shipping document list is on the next page).
+There is no civil or criminal case against my daughter, XYZ.
+Also, she did not take any educational loan from the Indian or US governments.
+Therefore, she does not have any commitments here in India for legal,
+financial or personal reasons.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I, therefore, request you to kindly provide the necessary NORI certificate
+that will help her continue working towards her professional and personal
+goals in the US. The experience and expertise that she gains during her stay
+there will help her serve India better in the long run.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;addresses-for-mailing-your-packages&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Addresses for mailing your packages&lt;/h1&gt;
+&lt;div id=&#34;tn-state-department&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;TN State Department&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;The Secretary
+Home (Citz II) Department
+Government of Tamil Nadu
+Secretariat, Fort St. George
+Chennai 600 009
+Tamil Nadu, India&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;regional-passport-office-rpo&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Regional Passport Office (RPO)&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;The Passport Officer
+Regional Passport Office
+Royala Towers No. 2 and 3, IV Floor,
+Old No. 785, New No. 158, Anna Salai,
+Chennai 600002
+Tamil Nadu, India&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;additional-documents-required-for-police-verification&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Additional documents required for police verification&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;[At least, I needed it (Chennai, Tamil Nadu)]&lt;/em&gt;&lt;/p&gt;
+&lt;div id=&#34;main-lettersdocuments&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Main letters/documents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Consent letter and Pro Forma from the applicant’s parent&lt;/li&gt;
+&lt;li&gt;Letter from the applicant’s spouse&lt;/li&gt;
+&lt;li&gt;Biodata of the applicant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;supporting-documents&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Supporting documents&lt;/h2&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Applicant’s: Mark sheets and certificates
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;10th 12th mark sheets&lt;/li&gt;
+&lt;li&gt;B. Tech. degree certificate&lt;/li&gt;
+&lt;li&gt;Ph.D. degree certificate&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Applicant’s: Passport and Visa
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Passport (front/back)&lt;/li&gt;
+&lt;li&gt;J-1 Visa &amp;amp; Certificate of eligibility for exchange visitor (J-1) status (DS-2019)&lt;/li&gt;
+&lt;li&gt;Old passport and old J1 and F1 visas&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Applicant’s: Graduate assistantship letter for PhD&lt;/li&gt;
+&lt;li&gt;Applicant’s: Employment letter (current place of work)&lt;/li&gt;
+&lt;li&gt;Spouse’s: Mark sheets and certificates
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;10th, 12th mark sheets&lt;/li&gt;
+&lt;li&gt;B. Tech. degree certificate&lt;/li&gt;
+&lt;li&gt;Ph.D. degree certificate&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Applicant’s Spouse’s: Passport and Visa
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Passport (front/back)&lt;/li&gt;
+&lt;li&gt;H1B visa approval notice (I-797)&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Applicant’s Spouse’s: Employment letter (MSU)&lt;/li&gt;
+&lt;li&gt;Both: Marriage certificate&lt;/li&gt;
+&lt;li&gt;Both: Present address proof (Wells Fargo bank statement)&lt;/li&gt;
+&lt;li&gt;Applicant’s Parents’: Chennai address proof (Ration card, gas bill)&lt;/li&gt;
+&lt;li&gt;Applicant’s Parents’: Aadhar card&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;final-set-of-documents-to-be-sent-to-the-uscis-department-of-state&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Final set of documents to be sent to the USCIS, Department of State&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Read the &lt;a href=&#34;https://travel.state.gov/content/travel/en/us-visas/study/exchange/waiver-of-the-exchange-visitor/how-to-apply-waiver.html&#34;&gt;How to apply for a waiver&lt;/a&gt; page on the travel.state.gov website again.&lt;/li&gt;
+&lt;li&gt;DS-3035 &amp;amp; SOR J1 waiver application packet for USCIS and Department of State
+&lt;ul&gt;
+&lt;li&gt;Application fee
+&lt;ul&gt;
+&lt;li&gt;Non-refundable — do it at the end&lt;/li&gt;
+&lt;li&gt;cashier’s cheque written out to ’The US Department of State’&lt;/li&gt;
+&lt;li&gt;Include your name and case number (from the DS-3035 barcode)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Waiver review division barcode&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.j1waivertips.com/sample-statement-of-reason-for-j1-visa-waiver-application-at-us-dept-of-state/&#34;&gt;Statement of reason&lt;/a&gt; (below)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Sample statement:&lt;/em&gt;
+I am XYZ working at ABC as a PQR. I am currently on J1 visa sponsored by QWERTY. My J1 visa started on 7/19/2013 and ends on 7/19/2018 with a two-year home residency requirement. The main purpose of my J1 visa is to allow me to do research. My research work is progressing well, and it needs more time (longer than 7/19/2018) to complete my research projects. Since I am the lead person in the research projects, my employer and I feel that the opportunity for me to stay here in the US and complete the projects by obtaining the J1 visa waiver will be great.
+I am requesting a waiver of the two-year home residence requirement to complete my work here on the basis of No Objection certificate. My home country “ABC” has no objection in allowing me to continue working here in the US, and has issued a No Objection certificate to that effect. The ABCian Embassy in the USA will be issuing the No Objection statement to you. I kindly request you to grant me the J1 visa waiver at the earliest.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;The actual completed DS-3035
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/&#34; class=&#34;uri&#34;&gt;https://j1visawaiverrecommendation.state.gov/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If you make a mistake, fill it out from the beginning&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Passport data page&lt;/li&gt;
+&lt;li&gt;All DS2019s, IAP-66&lt;/li&gt;
+&lt;li&gt;Degree Certificates (Bachelors, Masters, PhD, …)&lt;/li&gt;
+&lt;li&gt;Statement of Reason&lt;/li&gt;
+&lt;li&gt;Two self-addressed stamped envelopes (legal-size)&lt;/li&gt;
+&lt;li&gt;Your NORI letters from
+&lt;ul&gt;
+&lt;li&gt;India: i) home department, ii) state department and iii) regional passport office (for police verification) and&lt;/li&gt;
+&lt;li&gt;US (local Indian Consulate, although they would be sending a copy)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&#34;address-for-the-package-to-be-sent&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Address for the package to be sent&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;Postal Service
+Department of State J-1 Waiver
+P.O. Box 979037
+St. Louis, MO 63197-9000
+
+
+Courier Service
+Department of State J-1 Waiver
+P.O. Box 979037
+1005 Convention Plaza
+St. Louis, MO 63101-1200&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tracking-progress&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Tracking progress&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/&#34; class=&#34;uri&#34;&gt;https://j1visawaiverrecommendation.state.gov/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>2016: Year in Books | Goodreads</title>
-      <link>https://jananiravi.github.io/post/2017/goodreads-2016/</link>
+      <link>/post/2017/goodreads-2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2017/goodreads-2016/</guid>
-      <description>Check out 2016 #MyYearInBooks on Goodreads! @goodreads
-2016: Summary Stats  2016: Books Read  </description>
+      <guid>/post/2017/goodreads-2016/</guid>
+      <description>&lt;p&gt;Check out &lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2016/1671098&#34;&gt;2016 #MyYearInBooks&lt;/a&gt; on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;! &lt;a href=&#34;//twitter.com/goodreads&#34;&gt;@goodreads&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;summary-stats&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;2016: Summary Stats&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2017-01-01-goodreads-2016_files/20170101-goodreads-part1.png&#34; width=&#34;450&#34; height=&#34;450&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;books-read&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;2016: Books Read&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2016-12-31-goodreads-2016_files/2016-goodreads-part2.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>Becoming Steve Jobs by Brent Schlender</title>
-      <link>https://jananiravi.github.io/post/2016/becoming-steve-jobs/</link>
+      <link>/post/2016/becoming-steve-jobs/</link>
       <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2016/becoming-steve-jobs/</guid>
-      <description>Becoming Steve Jobs by Brent Schlender is a well-written biography of Steve Jobs &amp;amp; is definitely much better than Walter Isaacson’s ‘official’ one! And yeah, it is much more than a boring compendium of wiki and news articles. :)
-So, happy reading!</description>
+      <guid>/post/2016/becoming-steve-jobs/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://becomingstevejobs.com/&#34;&gt;Becoming Steve Jobs &lt;em&gt;by&lt;/em&gt; Brent Schlender&lt;/a&gt; is a well-written biography of Steve Jobs &amp;amp; is definitely much better than Walter Isaacson’s ‘official’ one! And yeah, it is much more than a boring compendium of wiki and news articles. :)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;So, happy reading!&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Matt Might&#39;s Blog</title>
-      <link>https://jananiravi.github.io/post/2016/matt-might-blog/</link>
+      <link>/post/2016/matt-might-blog/</link>
       <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2016/matt-might-blog/</guid>
-      <description>Background Matt Might has an awesome easy-to-read blog that has inspired us in many ways! Matt is a tenured CS professor at Utah and a visiting professor at HMS (Harvard Medical School). He’s the dad of 3 kids, one of whom has a very rare genetic disorder. He &amp;amp; his wife have spent a good part of their lives educating themselves and others about the disease.
- Some of his useful blog posts Health | Strength-training | JustDoIt  HOWTO: Gain strength and muscle Least resistance weight loss Path of least resistance Handling repetitive strain injury (e.</description>
+      <guid>/post/2016/matt-might-blog/</guid>
+      <description>&lt;div id=&#34;background&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;a href=&#34;http://matt.might.net/&#34;&gt;Background&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://matt.might.net/#personal&#34;&gt;Matt Might&lt;/a&gt; has an &lt;em&gt;awesome&lt;/em&gt; easy-to-read &lt;a href=&#34;http://matt.might.net/articles/&#34;&gt;blog&lt;/a&gt; that has inspired us in &lt;em&gt;many&lt;/em&gt; ways! Matt is a tenured CS professor at Utah and a visiting professor at HMS (Harvard Medical School). He’s the dad of 3 kids, one of whom has a very &lt;a href=&#34;http://matt.might.net/articles/my-sons-killer/&#34;&gt;rare genetic disorder&lt;/a&gt;.
+He &amp;amp; his wife have spent a good part of their lives &lt;a href=&#34;http://www.overcomingmovementdisorder.com/p/about-us.html&#34;&gt;educating themselves and others&lt;/a&gt; about the &lt;a href=&#34;http://www.ngly1.org/&#34;&gt;disease&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;some-of-his-useful-blog-posts&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Some of his useful blog posts&lt;/h1&gt;
+&lt;div id=&#34;health-strength-training-justdoit&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Health | Strength-training | JustDoIt&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/hacking-strength/&#34;&gt;HOWTO: Gain strength and muscle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/least-resistance-weight-loss/&#34;&gt;Least resistance weight loss&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/#philosophy&#34;&gt;Path of least resistance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/preventing-and-managing-rsi/&#34;&gt;Handling repetitive strain injury (e.g. carpal tunnel syndrome)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;efficiency-productivity-work-life-balance&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Efficiency | Productivity | work-life-balance&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/&#34;&gt;Productivity tips for academics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/how-to-email/&#34;&gt;How to send and reply to email&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/work-life-balance/&#34;&gt;Tips for work-life balance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/travel-hacks/&#34;&gt;Travel hacks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/programmers-resolutions/&#34;&gt;12 resolutions for programmers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;academic-professorship&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Academic | Professorship&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/advice-for-academic-job-hunt/&#34;&gt;Academic job hunt advice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/tenure/&#34;&gt;HOWTO: Get tenure&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;code&gt;… = lots more where this came from!&lt;/code&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>A dedication to Ramanujan</title>
-      <link>https://jananiravi.github.io/post/2016/ramanujan/</link>
+      <link>/post/2016/ramanujan/</link>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2016/ramanujan/</guid>
-      <description>Authors: Janani Ravi, Arjun Krishnan
-Srinivasa Ramanujan has been noted as one of the classic ‘genius-mathematicians’ of all time! Hailing from the same state/country as him, Arjun Krishnan and I have always looked up to him &amp;amp; his elegant math as a source of inspiration right through our formative years!
-The Movie Recent movie that has drastically increased Ramanujan’s international visibility The Man Who Knew Infinity by Matthew Brown.
- The Play We watched this beautiful play in the University of Virginia campus during our grad school.</description>
+      <guid>/post/2016/ramanujan/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Authors: Janani Ravi, Arjun Krishnan&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Srinivasa_Ramanujan&#34;&gt;Srinivasa Ramanujan&lt;/a&gt; has been noted as one of the classic ‘genius-mathematicians’ of all time! Hailing from the same state/country as him, &lt;a href=&#34;//arjun-krishnan.net&#34;&gt;Arjun Krishnan&lt;/a&gt; and I have always looked up to him &amp;amp; his elegant math as a source of inspiration right through our formative years!&lt;/p&gt;
+&lt;div id=&#34;the-movie&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Movie&lt;/h2&gt;
+&lt;p&gt;Recent movie that has drastically increased Ramanujan’s international visibility
+&lt;a href=&#34;https://g.co/kgs/gfuP3p&#34;&gt;The Man Who Knew Infinity&lt;/a&gt; by &lt;a href=&#34;https://www.imdb.com/name/nm0114226/&#34;&gt;Matthew Brown&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-play&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Play&lt;/h2&gt;
+&lt;p&gt;We watched this beautiful play in the University of Virginia campus during our grad school. Such unmistakable passion for math, that’s almost art-like &lt;em&gt;or was it art!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/A_Disappearing_Number&#34;&gt;A Disappearing Number&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Simon_McBurney&#34;&gt;Simon McBurney&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-book&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Book&lt;/h2&gt;
+&lt;p&gt;Here is a great companion book to better understand &lt;em&gt;the Man&lt;/em&gt; and little bit of &lt;em&gt;the Math&lt;/em&gt;!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Man_Who_Knew_Infinity:_A_Life_of_the_Genius_Ramanujan&#34;&gt;The Man Who Knew Infinity: A Life of the Genius Ramanujan&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Robert_Kanigel&#34;&gt;Robert Kanigel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-people&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The People&lt;/h2&gt;
+&lt;p&gt;Without the help of the following people (and many more we haven’t mentioned here), Ramanujan would have remained an unknown &amp;amp; obsolete genius!&lt;/p&gt;
+&lt;div id=&#34;gh-hardy-collaborator-mentor&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/G._H._Hardy&#34;&gt;GH Hardy&lt;/a&gt;: Collaborator, Mentor&lt;/h4&gt;
+&lt;p&gt;Hardy was an English mathematician who brought Ramanujan to Cambridge, encouraged his professional growth and helped publish his many theorems and elegant solutions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;matthew-brown-the-director&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.imdb.com/name/nm0114226/&#34;&gt;Matthew Brown&lt;/a&gt;: The Director&lt;/h4&gt;
+&lt;p&gt;The director of the new Ramanujan movie, &lt;em&gt;The Man Who Knew Infinity&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;manjul-bhargava-math-advisor-associate-producer&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Manjul_Bhargava&#34;&gt;Manjul Bhargava&lt;/a&gt;: Math advisor &amp;amp; associate producer&lt;/h4&gt;
+&lt;p&gt;Princeton number theorist, winner of the Field’s medal, and Associate Producer of the movie.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/128893911&#34;&gt;Video made for Manjul Bhargava Princeton&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ken-ono-math-advisor-associate-producer&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;//en.wikipedia.org/wiki/Ken_Ono&#34;&gt;Ken Ono&lt;/a&gt;: Math advisor &amp;amp; associate producer&lt;/h4&gt;
+&lt;p&gt;Ken Ono is this very accomplished mathematician who’s central research questions revolve around the work of Ramanujan.
+He is also a fantastic and sincere communicator, teacher and author so much so that you can read/listen to almost anything that he has to say.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EyvYr-2WLWg&amp;amp;list=WL&amp;amp;index=9&#34;&gt;Here’s a great video of a conversation he had with another mathematician where he talks about Ramanujan and his connection with him.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;steven-strogatz-applied-mathematician&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;www.stevenstrogatz.com/&#34;&gt;Steven Strogatz&lt;/a&gt;: Applied mathematician&lt;/h4&gt;
+&lt;p&gt;Famous applied mathematician and author of superb books &amp;amp; articles on mathematics.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;steven-strogatz-manjul-bhargava-matt-brown&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Steven Strogatz, Manjul Bhargava &amp;amp; Matt Brown&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yvHrn-41XMU&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;some-more-interesting-articles&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Some more interesting articles&lt;/h2&gt;
+&lt;div id=&#34;ramanujan-surprises-again-plus.maths.org&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;http://www.math.uiuc.edu/~berndt/articles/aachen.pdf&#34;&gt;Ramanujan surprises again| plus.maths.org&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&#34;remembering-ramanujan-india-celebrates-its-famous-mathematical-son&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;http://www.scientificamerican.com/article.cfm?id=remembering-ramanujan-india&#34;&gt;Remembering Ramanujan: India Celebrates Its Famous Mathematical Son&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;December 22, 2012&lt;/em&gt;, marks the 125th anniversary of the birth of legendary Indian mathematician Srinivasa Ramanujan. An intuitive mathematical genius, Ramanujan’s discoveries have influenced several areas of mathematics, but he is probably most famous for his contributions to number theory and infinite series, among them fascinating formulas that can be used to calculate digits of pi in unusual ways.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.scientificamerican.com/article.cfm?id=remembering-ramanujan-india&#34;&gt;More&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>
