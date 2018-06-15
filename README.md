@@ -12,6 +12,6 @@ If you have trouble loading it _or_ if your keen eye notices an typo, please [le
 *20160605*: jananiravi.github.io is now a public repo.
 
 ### Author & License
-Me (@jananiravi). Adapted from works of @yihui @bep and @gcushen.
+Me ([@jananiravi](github.com/jananiravi)). Adapted from works of @yihui @bep and @gcushen.
 
 [MIT License](/LICENSE.md)
