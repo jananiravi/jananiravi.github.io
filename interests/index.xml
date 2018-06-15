@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interests on Janani Ravi</title>
+    <link>/interests/</link>
+    <description>Recent content in Interests on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Mon, 07 May 2018 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/interests/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>R-Ladies (East Lansing)</title>
+      <link>/interests/r-ladies-east-lansing/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/interests/r-ladies-east-lansing/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/post/2018/rladies-elansing&#34;&gt;Launching R-Ladies East Lansing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/interests/rladies_files/rladies.jpeg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reading</title>
+      <link>/interests/reading/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/interests/reading/</guid>
+      <description>&lt;p&gt;Check out my &lt;a href=&#34;//goodreads.com/jananiravi&#34; target=&#34;_blank&#34;&gt;Goodreads&lt;/a&gt; profile for my latest reads and recommendations! :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/interests/resources/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/interests/resources/</guid>
+      <description>
+
+&lt;p&gt;My posts with some &lt;a href=&#34;/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;great-posts-academic&#34;&gt;Great posts | academic&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&#34; target=&#34;_blank&#34;&gt;The Awesomest 7-year Postdoc &lt;em&gt;by&lt;/em&gt; Radhika Nagpal | Scientific American&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bioinformatics&#34;&gt;Bioinformatics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://c2-d2.github.io/hanage-lab/Microbial-Bioinformatics-starter-kit/&#34; target=&#34;_blank&#34;&gt;Microbial Bioinformatics Starter Kit &lt;em&gt;by&lt;/em&gt; Lauren Cowley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Microbial genome annotation &lt;em&gt;by&lt;/em&gt; Michael Eisen
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/phylogenomics/status/999406494859718662&#34; target=&#34;_blank&#34;&gt;Twitter thread&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://twitter.com/i/moments/999641962025074696&#34; target=&#34;_blank&#34;&gt;moment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://holtlab.net/2015/02/25/tools-for-bacterial-comparative-genomics/&#34; target=&#34;_blank&#34;&gt;Tools for bacterial comparative genomes &lt;em&gt;by&lt;/em&gt; Holt lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/&#34; target=&#34;_blank&#34;&gt;R resources&lt;/a&gt; &lt;em&gt;by&lt;/em&gt; &lt;a href=&#34;paulvanderlaken.com&#34; target=&#34;_blank&#34;&gt;Paul Vanderlaken&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Related post: &lt;a href=&#34;https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/&#34; target=&#34;_blank&#34;&gt;R Tips and Tricks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;blogdown-hugo-academic-r-markdown&#34;&gt;Blogdown, Hugo, Academic &amp;amp; R Markdown&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;Blogdown: Creating websites with R Markdown &lt;em&gt;by&lt;/em&gt; Yihui Xie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gohugoio&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://discourse.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34; target=&#34;_blank&#34;&gt;Hugo Academic &lt;em&gt;by&lt;/em&gt; George Cushen&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rmarkdown.rstudio.com/index.html&#34; target=&#34;_blank&#34;&gt;R Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mcdussault.rbind.io/post/building-your-blog-using-blogdown/&#34; target=&#34;_blank&#34;&gt;Building your blog using blogdown &lt;em&gt;by&lt;/em&gt; Marie Dussault&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://holtlab.net/2015/10/03/plotting-trees-data/&#34; target=&#34;_blank&#34;&gt;Plotting trees + data &lt;em&gt;by&lt;/em&gt; Holt Lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;blogging-tips&#34;&gt;Blogging tips&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hackerspace.lifehacker.com/top-tips-for-writing-a-blog-post-in-30-minutes-1688838523&#34; target=&#34;_blank&#34;&gt;Lifehacker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/how-to-blog-as-an-academic/&#34; target=&#34;_blank&#34;&gt;6 tips for low-cost academic blogging &lt;em&gt;by&lt;/em&gt; Matt Might&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.masalmon.eu/rladiesct/slides#1&#34; target=&#34;_blank&#34;&gt;Ready to start your data science blog? &lt;em&gt;by&lt;/em&gt; Maëlle Salmon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
