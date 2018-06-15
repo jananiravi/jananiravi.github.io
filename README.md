@@ -3,7 +3,7 @@ My new website can be viewed live on [jananiravi.github.io](https://jananiravi.g
 
 ### Credits
 It was created using [RStudio Blogdown](https://github.com/rstudio/blogdown)+[Hugo](https://github.com/gohugoio/hugo)+[academic-theme](https://github.com/gcushen/hugo-academic) and hosted with GitHub pages.
-* Special thanks to @gcushen @yihui for their prompt responses & helping fix a variety of issues.
+* Special thanks to [@gcushen](//github.com/gcushen) [@yihui](//github.com/yihui) for their prompt responses & helping fix a variety of issues.
 
 ### News & Updates
 *20180614*: It actually loads! :)
