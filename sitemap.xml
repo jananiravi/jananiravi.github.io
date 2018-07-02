@@ -14,6 +14,15 @@
     
     <url>
     
+      <loc>/post/2018/rladies-elansing/</loc>
+      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/2018/modelers-hippocratic-oath/</loc>
       <lastmod>2018-05-24T00:00:00+00:00</lastmod>
     </url>
@@ -70,15 +79,6 @@
     
       <loc>/post/2018/git-github-links/</loc>
       <lastmod>2018-05-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/2018/rladies-elansing/</loc>
-      <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -639,7 +639,7 @@
     <url>
     
       <loc>/categories/r-ladies/</loc>
-      <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -689,7 +689,7 @@
     <url>
     
       <loc>/tags/rladies/</loc>
-      <lastmod>2018-05-07T00:00:00-04:00</lastmod>
+      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -699,7 +699,7 @@
     <url>
     
       <loc>/tags/software-tools/</loc>
-      <lastmod>2018-05-07T00:00:00-04:00</lastmod>
+      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

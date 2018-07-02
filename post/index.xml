@@ -11,6 +11,56 @@
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Launching R-Ladies East Lansing!</title>
+      <link>/post/2018/rladies-elansing/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/rladies-elansing/</guid>
+      <description>&lt;div id=&#34;welcome-to-our-new-chapter&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;em&gt;Welcome to our new chapter!&lt;/em&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div id=&#34;what-were-about&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What we’re about&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;R-Ladies East Lansing&lt;/em&gt; is a local chapter of R-Ladies Global. We meet to discuss, learn, teach, present, work on all things R! Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. The group exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;who-should-join&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Who should join?&lt;/h2&gt;
+&lt;p&gt;R-Ladies East Lansing welcomes members of &lt;strong&gt;all R proficiency levels&lt;/strong&gt;, whether you are a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp;amp; expert upskilling. Our non-profit, civil society community is designed to develop our members’ R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. &lt;em&gt;Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Anyone and everyone interested in R/Data Science&lt;/em&gt; should join our group and participate/contribute in any way you can, be they learners, teachers, developers or innovators! We encourage women and minority genders to present/lead most sessions, conversations but we have &lt;em&gt;no restrictions&lt;/em&gt; whatsoever when it comes to membership, participation, and discussions. So, please join us and bring your R-family &amp;amp; R-friends!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;how-to-be-in-touch&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;How to be in touch?&lt;/h2&gt;
+&lt;p&gt;Access our presentations, R scripts and more on &lt;a href=&#34;//github.com/rladies-eastlansing&#34;&gt;Github&lt;/a&gt; and follow us on twitter to stay up to date about R-Ladies news! &lt;em&gt;Join the &lt;a href=&#34;https://meetup.com/rladies-east-lansing/&#34;&gt;Meetup group&lt;/a&gt; to be notified of the first meeting in July!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rladies.org&#34;&gt;R-Ladies Global&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Meetup: &lt;a href=&#34;https://meetup.com/rladies-east-lansing/&#34; class=&#34;uri&#34;&gt;https://meetup.com/rladies-east-lansing/&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Twitter: &lt;a href=&#34;http://twitter.com/RLadiesELansing&#34;&gt;@RLadiesELansing&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://twitter.com/RLadiesGlobal&#34;&gt;@RLadiesGlobal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Slack: &lt;a href=&#34;https://rladies-eastlansing.slack.com&#34; class=&#34;uri&#34;&gt;https://rladies-eastlansing.slack.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github: &lt;a href=&#34;https://github.com/rladies-eastlansing&#34;&gt;@rladies-eastlansing&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/rladies&#34;&gt;@rladies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;E-mail:
+&lt;ul&gt;
+&lt;li&gt;eastlansing [at] rladies [dot] org&lt;/li&gt;
+&lt;li&gt;janani [at] rladies [dot] org&lt;/li&gt;
+&lt;li&gt;info [at] rladies [dot] org&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;organizers&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Organizers&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;janani@msu.edu&#34;&gt;Janani Ravi&lt;/a&gt; &amp;amp; &lt;a href=&#34;archerc5@msu.edu&#34;&gt;Camille Archer&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ps-community-policies-code-of-conduct&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;em&gt;PS&lt;/em&gt; Community Policies &amp;amp; Code of Conduct:&lt;/h2&gt;
+&lt;p&gt;Full community guidelines are found here: &lt;a href=&#34;https://github.com/rladies/starter-kit/wiki&#34; class=&#34;uri&#34;&gt;https://github.com/rladies/starter-kit/wiki&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Modeler&#39;s Hippocratic Oath</title>
       <link>/post/2018/modelers-hippocratic-oath/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
@@ -92,54 +142,6 @@
 &lt;li&gt;&lt;a href=&#34;https://www.ruby-lang.org/en/downloads/&#34;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://rubygems.org/pages/download&#34;&gt;Ruby Gems&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Launching R-Ladies East Lansing!</title>
-      <link>/post/2018/rladies-elansing/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018/rladies-elansing/</guid>
-      <description>&lt;div id=&#34;welcome-to-our-new-chapter&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;&lt;em&gt;Welcome to our new chapter!&lt;/em&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div id=&#34;what-were-about&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;What we’re about&lt;/h2&gt;
-&lt;p&gt;R-Ladies East Lansing welcomes members of all R proficiency levels, whether you are a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp;amp; expert upskilling. Our non-profit, civil society community is designed to develop our members’ R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!&lt;/p&gt;
-&lt;p&gt;A local chapter of R-Ladies Global, &lt;strong&gt;R-Ladies East Lansing&lt;/strong&gt; exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. As a founding principle, there is no cost or charge to participate in any of our R-Ladies communities around the world.&lt;/p&gt;
-&lt;p&gt;We are part of Global R-Ladies group. Here are some links! You can access our presentations, R scripts and more (soon) on our Github account and follow us on twitter to stay up to date about R-Ladies news!&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;where-to-find-us&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Where to find us?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.rladies.org&#34;&gt;R-Ladies Global&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;Github: &lt;a href=&#34;https://github.com/rladies&#34;&gt;@rladies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Twitter: &lt;a href=&#34;http://twitter.com/RLadiesGlobal&#34;&gt;@RLadiesGlobal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Email: info [at] rladies [dot] org&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;R-Ladies East Lansing
-&lt;ul&gt;
-&lt;li&gt;Twitter: &lt;a href=&#34;http://twitter.com/RLadiesELansing&#34;&gt;@RLadiesELansing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://meetup.com/rladies-east-lansing/&#34;&gt;Meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rladies-eastlansing.slack.com&#34;&gt;Slack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;E-mail:
-&lt;ul&gt;
-&lt;li&gt;eastlansing [at] rladies [dot] org&lt;/li&gt;
-&lt;li&gt;janani [at] rladies [dot] org&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;ps-community-policies-code-of-conduct&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;&lt;em&gt;PS&lt;/em&gt; Community Policies &amp;amp; Code of Conduct:&lt;/h2&gt;
-&lt;p&gt;The leadership, mentoring &amp;amp; teaching roles within this Community are held exclusively by minority genders (majority gender speakers may be allowed/invited as one-off guests in exceptional circumstances at the leadership team’s discretion). Due to unexpected demand, we have opened learning participation to all genders, dependent on initial and on-going vetting by the leadership team. However, the stated priority of the R-Ladies communities is the development &amp;amp; support specifically of those identifying as a minority gender, and we, therefore, reserve the right to guard this interest through whatever measures the leadership team deems appropriate. Anyone involved with R-Ladies East Lansing is expected to fully respect each other, the mandate of this community, and the goodwill on which R-Ladies is founded, or face expulsion/a penalty of any form, at the discretion of the leadership team. Full community guidelines are found here: &lt;a href=&#34;https://github.com/rladies/starter-kit/wiki&#34; class=&#34;uri&#34;&gt;https://github.com/rladies/starter-kit/wiki&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;pps-photos-films-and-all-other-mediarecordings&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;&lt;em&gt;PPS&lt;/em&gt; Photos, Films and all other media/recordings:&lt;/h2&gt;
-&lt;p&gt;Photos, Films, and all other media/recordings: photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies East Lansing event you grant the community organizers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fundraising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organizer.&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
