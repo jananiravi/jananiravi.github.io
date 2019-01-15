@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>math-modeling on Janani Ravi</title>
+    <link>https://jananiravi.github.io/tags/math-modeling/</link>
+    <description>Recent content in math-modeling on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Thu, 24 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jananiravi.github.io/tags/math-modeling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modeler&#39;s Hippocratic Oath</title>
+      <link>https://jananiravi.github.io/post/2018/modelers-hippocratic-oath/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jananiravi.github.io/post/2018/modelers-hippocratic-oath/</guid>
+      <description>I recently came across the Modeler&amp;rsquo;s Hippocratic Oath while reading Cathy O&amp;rsquo;Neil&amp;rsquo;s &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.
+This was originally written by Emanuel Derman and Paul Wilmott in the wake of the 2008 financial crisis.
+The Oath  I will remember that I didn’t make the world, and it doesn’t satisfy my equations. Though I will use models boldly to estimate value, I will not be overly impressed by mathematics. I will never sacrifice reality for elegance without explaining why I have done so.</description>
+    </item>
+    
+    <item>
+      <title>Dynamical Systems</title>
+      <link>https://jananiravi.github.io/project/dynamical-systems/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/project/dynamical-systems/</guid>
+      <description>Research During my graduate research with Dr John Tyson, I built mathematical models to understand dynamical aspects:
+ Modeling the START transition in the budding yeast cell cycle:
+ Built a detailed mathematical model (~100 ODEs, ~150 parameters) for the START transition in yeast and integrated it with our published model of the whole cell cycle. Model addresses outstanding issues related to the precise mechanism and timing of transcriptional, post- translational and localization events, as well as size control under varying growth conditions.</description>
+    </item>
+    
+  </channel>
+</rss>

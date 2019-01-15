@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psp on Janani Ravi</title>
+    <link>https://jananiravi.github.io/tags/psp/</link>
+    <description>Recent content in Psp on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Wed, 07 Nov 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jananiravi.github.io/tags/psp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stress response</title>
+      <link>https://jananiravi.github.io/project/stress-response/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/project/stress-response/</guid>
+      <description>Research During my postdoctoral research at Rutgers University, I focused on using computational approaches to study various facets of host and pathogen biology including:
+ delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp); unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships; reconstructing and analyzing the mycobacterial sigma factor regulatory network.</description>
+    </item>
+    
+    <item>
+      <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
+      <link>https://jananiravi.github.io/publication/2018/anto/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/publication/2018/anto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution and Conservation of the Psp Envelope Stress-Response System</title>
+      <link>https://jananiravi.github.io/talk/evolution-and-conservation-of-the-psp-envelope-stress-response-system/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/evolution-and-conservation-of-the-psp-envelope-stress-response-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using computational appraches to understand host-pathogen biology</title>
+      <link>https://jananiravi.github.io/talk/using-computational-appraches-to-understand-host-pathogen-biology/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/using-computational-appraches-to-understand-host-pathogen-biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbial Mechanosensing: Phage Shock Protein Response System in Gram-positive Bacteria</title>
+      <link>https://jananiravi.github.io/talk/microbial-mechanosensing-phage-shock-protein-response-system-in-gram-positive-bacteria/</link>
+      <pubDate>Sat, 18 Jun 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/microbial-mechanosensing-phage-shock-protein-response-system-in-gram-positive-bacteria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
+      <link>https://jananiravi.github.io/publication/2015/molmicro/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/publication/2015/molmicro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

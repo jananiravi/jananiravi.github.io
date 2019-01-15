@@ -1,0 +1,15 @@
+---
+title: "2018: Year in Books | Goodreads"
+author: Janani Ravi
+date: '2019-01-01'
+slug: goodreads-2018
+categories:
+  - Books-Blogs
+tags:
+  - books
+  - review
+summary: "My Year in Books: 2018!"
+image:
+  caption: ''
+  focal_point: ''
+---

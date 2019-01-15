@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rladies on Janani Ravi</title>
+    <link>https://jananiravi.github.io/tags/rladies/</link>
+    <description>Recent content in rladies on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jananiravi.github.io/tags/rladies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R-Ladies East Lansing: 2018, Year in Review</title>
+      <link>https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/</guid>
+      <description>Thanks to everyone who attended, participated or sponsored R-Ladies East Lansing in 2018! We had a fantastic start &amp;amp; a very successful first 6mo on campus! We hosted 7 meetups since July 2018 including two very well-attended workshops (70+ attendees) and a DataViz challenge! Help us continue spreading the R &amp;amp; Data Science spirit across MSU in 2019! Contact us eastlansing@rladies.org about co-hosting or sponsoring a meetup/workshop in Spring 2019.</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
+      <link>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</guid>
+      <description>Workshop material: GitHub • Google Drive</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title>
+      <link>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</guid>
+      <description>Workshop material: GitHub • Google Drive</description>
+    </item>
+    
+    <item>
+      <title>Launching R-Ladies East Lansing!</title>
+      <link>https://jananiravi.github.io/post/2018/rladies-elansing/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jananiravi.github.io/post/2018/rladies-elansing/</guid>
+      <description>Welcome to our new chapter!  What we’re about R-Ladies East Lansing is a local chapter of R-Ladies Global. We meet to discuss, learn, teach, present, work on all things R! Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. The group exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities.</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies (East Lansing)</title>
+      <link>https://jananiravi.github.io/project/rladies/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/project/rladies/</guid>
+      <description>Launching R-Ladies East Lansing</description>
+    </item>
+    
+  </channel>
+</rss>

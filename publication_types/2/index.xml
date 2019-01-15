@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Janani Ravi</title>
+    <link>https://jananiravi.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jananiravi.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
+      <link>https://jananiravi.github.io/publication/2018/anto/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/publication/2018/anto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
+      <link>https://jananiravi.github.io/publication/2016/natcomm/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/publication/2016/natcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
+      <link>https://jananiravi.github.io/publication/2015/molmicro/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/publication/2015/molmicro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
+      <link>https://jananiravi.github.io/publication/2014/jimm/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/publication/2014/jimm/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

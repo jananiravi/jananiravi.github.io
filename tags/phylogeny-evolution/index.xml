@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phylogeny-evolution on Janani Ravi</title>
+    <link>https://jananiravi.github.io/tags/phylogeny-evolution/</link>
+    <description>Recent content in phylogeny-evolution on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Wed, 07 Nov 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jananiravi.github.io/tags/phylogeny-evolution/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stress response</title>
+      <link>https://jananiravi.github.io/project/stress-response/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/project/stress-response/</guid>
+      <description>Research During my postdoctoral research at Rutgers University, I focused on using computational approaches to study various facets of host and pathogen biology including:
+ delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp); unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships; reconstructing and analyzing the mycobacterial sigma factor regulatory network.</description>
+    </item>
+    
+  </channel>
+</rss>

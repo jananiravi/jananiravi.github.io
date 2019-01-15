@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>refs on Janani Ravi</title>
+    <link>https://jananiravi.github.io/tags/refs/</link>
+    <description>Recent content in refs on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jananiravi.github.io/tags/refs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Useful Resources</title>
+      <link>https://jananiravi.github.io/post/2018/useful-resources/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jananiravi.github.io/post/2018/useful-resources/</guid>
+      <description>My posts with some #useful-resources.
+Great posts | academic  The Awesomest 7-year Postdoc by Radhika Nagpal | Scientific American Matt Might’s Blog Modeler’s Hippocratic oath   Bioinformatics  Microbial Bioinformatics Starter Kit by Lauren Cowley Microbial genome annotation by Michael Eisen  Twitter thread &amp;amp; moment  Tools for bacterial comparative genomes by Holt lab   R  Git, GitHub and R R resources by Paul Vanderlaken Related post: R Tips and Tricks   Data Visualization  Plotting trees + data by Holt Lab   Blogdown, Hugo, Academic &amp;amp; R Markdown  Blogdown: Creating websites with R Markdown by Yihui Xie Hugo  Hugo discussion forum  Hugo Academic by George Cushen  Academic  R Markdown Building your blog using blogdown by Marie Dussault   Blogging tips  Lifehacker 6 tips for low-cost academic blogging by Matt Might Ready to start your data science blog?</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://jananiravi.github.io/project/resources/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/project/resources/</guid>
+      <description>My posts with some useful resources
+ Git, GitHub and R Modeler&amp;rsquo;s Hippocratic oath  Great posts | academic  The Awesomest 7-year Postdoc by Radhika Nagpal | Scientific American  Bioinformatics  Microbial Bioinformatics Starter Kit by Lauren Cowley Microbial genome annotation by Michael Eisen  Twitter thread &amp;amp; moment  Tools for bacterial comparative genomes by Holt lab  R  R resources by Paul Vanderlaken  Related post: R Tips and Tricks   Blogdown, Hugo, Academic &amp;amp; R Markdown  Blogdown: Creating websites with R Markdown by Yihui Xie Hugo  Hugo discussion forum  Hugo Academic by George Cushen  Academic  R Markdown Building your blog using blogdown by Marie Dussault  Data Visualization  Plotting trees + data by Holt Lab  Blogging tips  Lifehacker 6 tips for low-cost academic blogging by Matt Might Ready to start your data science blog?</description>
+    </item>
+    
+    <item>
+      <title>Useful Git/GitHub links</title>
+      <link>https://jananiravi.github.io/post/2018/git-github-links/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jananiravi.github.io/post/2018/git-github-links/</guid>
+      <description> See also:  My tweet dated: 2017-03-11 Resources for more links related to Blogdown, Rmarkdown &amp;amp; GitHub   Git  Version control with Git on Software Carpentry Git workflow for beginners Mozilla Git Getting started with Git Git, the simple guide Git exercises GitHowTo Introduction to Git and command line Friendly introduction to Git, Jane Git for humans, slides by Bartlett Learn Git branching Git cheat sheet and best practices Getting yourself out of a Git mess Try Git   Git and GitHub  GitHub tutorial, Broman New GitHub repo Git &amp;amp; Github | Seankross GitHub on Mac   R and Git  R with Git and GitHub   GitHub Pages, Gists | Jekyll  Github pages #1 #2 Creating gists on Github Jekyll GCC Ruby Ruby Gems   </description>
+    </item>
+    
+    <item>
+      <title>J1 visa waiver | How to obtain your NORI?</title>
+      <link>https://jananiravi.github.io/post/2017/j1-visa-waiver-nori/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jananiravi.github.io/post/2017/j1-visa-waiver-nori/</guid>
+      <description>About Me Why I’m writing this The initial process, where you read and imbibe! Helpful links:  Approximate order of key events &amp;amp; things-to-do Initial set of documents needed for the Indian Consulate attestation Documents to be sent to Indian Home Department Documents to be sent to the other two departments: List of documents  Addresses for mailing your packages TN State Department Regional Passport Office (RPO)  Additional documents required for police verification Main letters/documents Supporting documents  Final set of documents to be sent to the USCIS, Department of State Address for the package to be sent Tracking progress    About Me I’m Janani Ravi, currently at Michigan State University.</description>
+    </item>
+    
+  </channel>
+</rss>
