@@ -14,10 +14,10 @@
     
     <item>
       <title>Join us!</title>
-      <link>https://jananiravi.github.io/post/2019/joinus-2019/</link>
+      <link>https://jananiravi.github.io/joinus/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2019/joinus-2019/</guid>
+      <guid>https://jananiravi.github.io/joinus/</guid>
       <description>Research program Keywords Join us Undergraduate Student Research Graduate Student Research Visiting Scientist Collaboration    Research program Our research involves developing computational approaches that can leverage large-scale genomic data to gain actionable insights into infectious disease biology. Specifically, we focus on three key areas:
 Identifying genomic signatures, functions, and mechanisms relevant to host-pathogen interactions, to enable understanding and guide diagnosis, Unraveling molecular mechanisms common between genetic and infectious diseases, to guide targeted drug repurposing, and Developing tools and resources for seamlessly relating sequence, structure, and function of genes/proteins in poorly characterized pathogens to enable and guide better prevention, diagnostic and treatment regimen.</description>
     </item>
@@ -34,10 +34,10 @@ Great posts | academic  The Awesomest 7-year Postdoc by Radhika Nagpal | Scienti
     
     <item>
       <title>Resources</title>
-      <link>https://jananiravi.github.io/project/resources/</link>
+      <link>https://jananiravi.github.io/resources/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/project/resources/</guid>
+      <guid>https://jananiravi.github.io/resources/</guid>
       <description>My posts with some useful resources
  Git, GitHub and R Modeler&amp;rsquo;s Hippocratic oath  Great posts | academic  The Awesomest 7-year Postdoc by Radhika Nagpal | Scientific American  Bioinformatics  Microbial Bioinformatics Starter Kit by Lauren Cowley Microbial genome annotation by Michael Eisen  Twitter thread &amp;amp; moment  Tools for bacterial comparative genomes by Holt lab  R  R resources by Paul Vanderlaken  Related post: R Tips and Tricks   Blogdown, Hugo, Academic &amp;amp; R Markdown  Blogdown: Creating websites with R Markdown by Yihui Xie Hugo  Hugo discussion forum  Hugo Academic by George Cushen  Academic  R Markdown Building your blog using blogdown by Marie Dussault  Data Visualization  Plotting trees + data by Holt Lab  Blogging tips  Lifehacker 6 tips for low-cost academic blogging by Matt Might Ready to start your data science blog?</description>
     </item>

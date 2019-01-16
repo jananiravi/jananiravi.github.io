@@ -7,37 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
-    <lastBuildDate>Wed, 07 Nov 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://jananiravi.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Stress response</title>
-      <link>https://jananiravi.github.io/project/stress-response/</link>
+      <title>Simple rules to make an effective scientific presentation</title>
+      <link>https://jananiravi.github.io/talk/simple-rules-to-make-an-effective-scientific-presentation/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/simple-rules-to-make-an-effective-scientific-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidyverse workshop</title>
+      <link>https://jananiravi.github.io/talk/tidyverse-workshop/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/tidyverse-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bacterial Stress Response</title>
+      <link>https://jananiravi.github.io/projects/stress-response/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/project/stress-response/</guid>
+      <guid>https://jananiravi.github.io/projects/stress-response/</guid>
       <description>Research During my postdoctoral research at Rutgers University, I focused on using computational approaches to study various facets of host and pathogen biology including:
  delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp); unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships; reconstructing and analyzing the mycobacterial sigma factor regulatory network.</description>
     </item>
     
     <item>
-      <title>Lipid metabolism &amp; TB</title>
-      <link>https://jananiravi.github.io/project/lipid-metabolism/</link>
+      <title>TB &amp; Lipid metabolism</title>
+      <link>https://jananiravi.github.io/projects/lipid-metabolism/</link>
       <pubDate>Thu, 31 Dec 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/project/lipid-metabolism/</guid>
+      <guid>https://jananiravi.github.io/projects/lipid-metabolism/</guid>
       <description>Research In addition to stress-response systems on the pathogenic side, I studied some host responses to M. tuberculosis infection using computational approaches as well:
  characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis; understanding the dysregulation of lipid metabolism in M. tuberculosis-infected macrophages using dynamic Bayesian model and statistical analyses of heterogeneous single-cell populations.  Related publications  Lipid Metabolism and TB, in preparation.</description>
     </item>
     
     <item>
-      <title>Dynamical Systems</title>
-      <link>https://jananiravi.github.io/project/dynamical-systems/</link>
+      <title>Dynamical Systems &amp; Math Biology</title>
+      <link>https://jananiravi.github.io/dynamical-systems/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/project/dynamical-systems/</guid>
+      <guid>https://jananiravi.github.io/dynamical-systems/</guid>
       <description>Research During my graduate research with Dr John Tyson, I built mathematical models to understand dynamical aspects:
  Modeling the START transition in the budding yeast cell cycle:
  Built a detailed mathematical model (~100 ODEs, ~150 parameters) for the START transition in yeast and integrated it with our published model of the whole cell cycle. Model addresses outstanding issues related to the precise mechanism and timing of transcriptional, post- translational and localization events, as well as size control under varying growth conditions.</description>

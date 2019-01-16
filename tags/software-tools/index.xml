@@ -7,17 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://jananiravi.github.io/tags/software-tools/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>R-Ladies East Lansing: 2018, Year in Review</title>
-      <link>https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/</link>
+      <title>Simple rules to make an effective scientific presentation</title>
+      <link>https://jananiravi.github.io/talk/simple-rules-to-make-an-effective-scientific-presentation/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/simple-rules-to-make-an-effective-scientific-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidyverse workshop</title>
+      <link>https://jananiravi.github.io/talk/tidyverse-workshop/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/tidyverse-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018: Year in Review | RLEL</title>
+      <link>https://jananiravi.github.io/post/2019/rlel-2018/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/</guid>
+      <guid>https://jananiravi.github.io/post/2019/rlel-2018/</guid>
       <description>Thanks to everyone who attended, participated or sponsored R-Ladies East Lansing in 2018! We had a fantastic start &amp;amp; a very successful first 6mo on campus! We hosted 7 meetups since July 2018 including two very well-attended workshops (70+ attendees) and a DataViz challenge! Help us continue spreading the R &amp;amp; Data Science spirit across MSU in 2019! Contact us eastlansing@rladies.org about co-hosting or sponsoring a meetup/workshop in Spring 2019.</description>
     </item>
     
@@ -59,11 +77,11 @@ Great posts | academic  The Awesomest 7-year Postdoc by Radhika Nagpal | Scienti
     </item>
     
     <item>
-      <title>R-Ladies (East Lansing)</title>
-      <link>https://jananiravi.github.io/project/rladies/</link>
+      <title>R-Ladies East Lansing</title>
+      <link>https://jananiravi.github.io/projects/rladies-eastlansing/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/project/rladies/</guid>
+      <guid>https://jananiravi.github.io/projects/rladies-eastlansing/</guid>
       <description>Launching R-Ladies East Lansing</description>
     </item>
     

@@ -11,11 +11,29 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Simple rules to make an effective scientific presentation</title>
+      <link>https://jananiravi.github.io/talk/simple-rules-to-make-an-effective-scientific-presentation/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/simple-rules-to-make-an-effective-scientific-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidyverse workshop</title>
+      <link>https://jananiravi.github.io/talk/tidyverse-workshop/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/tidyverse-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Join us!</title>
-      <link>https://jananiravi.github.io/post/2019/joinus-2019/</link>
+      <link>https://jananiravi.github.io/joinus/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2019/joinus-2019/</guid>
+      <guid>https://jananiravi.github.io/joinus/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -75,11 +93,11 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     </item>
     
     <item>
-      <title>R-Ladies East Lansing: 2018, Year in Review</title>
-      <link>https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/</link>
+      <title>2018: Year in Review | RLEL</title>
+      <link>https://jananiravi.github.io/post/2019/rlel-2018/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/</guid>
+      <guid>https://jananiravi.github.io/post/2019/rlel-2018/</guid>
       <description>
 
 &lt;p&gt;Thanks to everyone who attended, participated or sponsored &lt;a href=&#34;https://rladies-eastlansing.github.io&#34; target=&#34;_blank&#34;&gt;R-Ladies East Lansing&lt;/a&gt; in 2018! We had a fantastic start &amp;amp; a very successful first 6mo &lt;a href=&#34;http://bit.ly/rlel-venue&#34; target=&#34;_blank&#34;&gt;on campus&lt;/a&gt;! We hosted 7 meetups since July 2018 including two very well-attended workshops (70+ attendees) and a DataViz challenge! Help us continue spreading the R &amp;amp; Data Science spirit across MSU in 2019! Contact us &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_blank&#34;&gt;eastlansing@rladies.org&lt;/a&gt; about co-hosting or sponsoring a meetup/workshop in Spring 2019. As always, R-Ladies events are open to all R-users across all levels of expertise including students, faculty and staff, and non-MSU folks.&lt;/p&gt;
@@ -227,8 +245,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/2018-rlel-sponsors.png&#34; data-caption=&#34;2018: Meetup Sponsors&#34;&gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/2018-rlel-sponsors.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/2018-rlel-sponsors.png&#34; data-caption=&#34;2018: Meetup Sponsors&#34;&gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/2018-rlel-sponsors.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -241,8 +259,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20180706-rlel-chicago.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20180706-rlel-chicago.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180706-rlel-chicago.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180706-rlel-chicago.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -255,8 +273,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20180725-kickoff-activities.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20180725-kickoff-activities.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180725-kickoff-activities.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180725-kickoff-activities.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -269,8 +287,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20180725-kickoff-group.jpg&#34; data-caption=&#34;July 2018: Kickoff meeting&#34;&gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20180725-kickoff-group.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180725-kickoff-group.jpg&#34; data-caption=&#34;July 2018: Kickoff meeting&#34;&gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180725-kickoff-group.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -283,8 +301,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20180813-collage.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20180813-collage.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180813-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180813-collage.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -297,8 +315,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20180826-rladies-collage.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20180826-rladies-collage.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180826-rladies-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180826-rladies-collage.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -311,8 +329,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20180910-collage.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20180910-collage.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180910-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180910-collage.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -325,8 +343,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20180924-collage.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20180924-collage.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180924-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180924-collage.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -339,8 +357,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20181008-collage.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20181008-collage.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20181008-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20181008-collage.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -353,8 +371,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20181105-collage.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20181105-collage.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20181105-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20181105-collage.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -367,8 +385,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20181203-collage.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/r-ladies-east-lansing-2018-year-in-review/gallery/20181203-collage.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20181203-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20181203-collage.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -510,11 +528,11 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     </item>
     
     <item>
-      <title>Stress response</title>
-      <link>https://jananiravi.github.io/project/stress-response/</link>
+      <title>Bacterial Stress Response</title>
+      <link>https://jananiravi.github.io/projects/stress-response/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/project/stress-response/</guid>
+      <guid>https://jananiravi.github.io/projects/stress-response/</guid>
       <description>
 
 &lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
@@ -673,11 +691,11 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     </item>
     
     <item>
-      <title>R-Ladies (East Lansing)</title>
-      <link>https://jananiravi.github.io/project/rladies/</link>
+      <title>R-Ladies East Lansing</title>
+      <link>https://jananiravi.github.io/projects/rladies-eastlansing/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/project/rladies/</guid>
+      <guid>https://jananiravi.github.io/projects/rladies-eastlansing/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/rladies-elansing&#34;&gt;Launching R-Ladies East Lansing&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://jananiravi.github.io/interests/rladies_files/rladies.jpeg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34;/&gt;&lt;/p&gt;
@@ -686,20 +704,20 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
     <item>
       <title>Reading</title>
-      <link>https://jananiravi.github.io/project/reading/</link>
+      <link>https://jananiravi.github.io/reading/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/project/reading/</guid>
+      <guid>https://jananiravi.github.io/reading/</guid>
       <description>&lt;p&gt;Check out my &lt;a href=&#34;//goodreads.com/jananiravi&#34; target=&#34;_blank&#34;&gt;Goodreads&lt;/a&gt; profile for my latest reads and recommendations! :)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>https://jananiravi.github.io/project/resources/</link>
+      <link>https://jananiravi.github.io/resources/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/project/resources/</guid>
+      <guid>https://jananiravi.github.io/resources/</guid>
       <description>
 
 &lt;p&gt;My posts with some &lt;a href=&#34;https://jananiravi.github.io/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
@@ -831,36 +849,6 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ruby-lang.org/en/downloads/&#34;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://rubygems.org/pages/download&#34;&gt;Ruby Gems&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
-      <link>https://jananiravi.github.io/publication/2018/anto/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://jananiravi.github.io/publication/2018/anto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2017: Year in Books | Goodreads</title>
-      <link>https://jananiravi.github.io/post/2017/goodreads-2017/</link>
-      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jananiravi.github.io/post/2017/goodreads-2017/</guid>
-      <description>
-
-
-&lt;p&gt;Check out &lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2017/1671098&#34;&gt;2017 #MyYearInBooks&lt;/a&gt; on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;! &lt;a href=&#34;//twitter.com/goodreads&#34;&gt;@goodreads&lt;/a&gt;&lt;/p&gt;
-&lt;div id=&#34;summary-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2017: Summary Stats&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://jananiravi.github.io/post/2018-01-01-goodreads-2017_files/20180101-goodreads-part1.png&#34; width=&#34;450&#34; height=&#34;450&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;books-read&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2017: Books Read&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://jananiravi.github.io/post/2018-01-01-goodreads-2017_files/2017-goodreads-part2.png&#34; style=&#34;width:100.0%;height:100.0%&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
