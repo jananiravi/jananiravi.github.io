@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Janani Ravi</title>
-    <link>https://jananiravi.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://jananiravi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018: Year in Review | RLEL</title>
-      <link>https://jananiravi.github.io/post/2019/rlel-2018/</link>
+      <link>/post/2019/rlel-2018/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2019/rlel-2018/</guid>
+      <guid>/post/2019/rlel-2018/</guid>
       <description>Thanks to everyone who attended, participated or sponsored R-Ladies East Lansing in 2018! We had a fantastic start &amp;amp; a very successful first 6mo on campus! We hosted 7 meetups since July 2018 including two very well-attended workshops (70+ attendees) and a DataViz challenge! Help us continue spreading the R &amp;amp; Data Science spirit across MSU in 2019! Contact us eastlansing@rladies.org about co-hosting or sponsoring a meetup/workshop in Spring 2019.</description>
     </item>
     
     <item>
       <title>2019: RLEL Upcoming Events</title>
-      <link>https://jananiravi.github.io/post/2019/rlel-upcoming-2019/</link>
+      <link>/post/2019/rlel-upcoming-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2019/rlel-upcoming-2019/</guid>
+      <guid>/post/2019/rlel-upcoming-2019/</guid>
       <description>A little background R-Ladies East Lansing welcomes R-enthusiasts of all proficiency levels, including aspiring and experienced R programmers, who are interested in mentoring, networking &amp;amp; expertise upskilling. This non-profit, civil society community is designed to develop members’ R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!
 Anyone and everyone interested in R/Data Science should join the group.</description>
     </item>
     
     <item>
       <title>2018: Year in Books | Goodreads</title>
-      <link>https://jananiravi.github.io/post/2019/goodreads-2018/</link>
+      <link>/post/2019/goodreads-2018/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2019/goodreads-2018/</guid>
+      <guid>/post/2019/goodreads-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Useful Resources</title>
-      <link>https://jananiravi.github.io/post/2018/useful-resources/</link>
+      <link>/post/2018/useful-resources/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2018/useful-resources/</guid>
+      <guid>/post/2018/useful-resources/</guid>
       <description>My posts with some #useful-resources.
 Great posts | academic  The Awesomest 7-year Postdoc by Radhika Nagpal | Scientific American Matt Might’s Blog Modeler’s Hippocratic oath   Bioinformatics  Microbial Bioinformatics Starter Kit by Lauren Cowley Microbial genome annotation by Michael Eisen  Twitter thread &amp;amp; moment  Tools for bacterial comparative genomes by Holt lab   R  Git, GitHub and R R resources by Paul Vanderlaken Related post: R Tips and Tricks   Data Visualization  Plotting trees + data by Holt Lab   Blogdown, Hugo, Academic &amp;amp; R Markdown  Blogdown: Creating websites with R Markdown by Yihui Xie Hugo  Hugo discussion forum  Hugo Academic by George Cushen  Academic  R Markdown Building your blog using blogdown by Marie Dussault   Blogging tips  Lifehacker 6 tips for low-cost academic blogging by Matt Might Ready to start your data science blog?</description>
     </item>
     
     <item>
       <title>Launching R-Ladies East Lansing!</title>
-      <link>https://jananiravi.github.io/post/2018/rladies-elansing/</link>
+      <link>/post/2018/rladies-elansing/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2018/rladies-elansing/</guid>
+      <guid>/post/2018/rladies-elansing/</guid>
       <description>Welcome to our new chapter!  What we’re about R-Ladies East Lansing is a local chapter of R-Ladies Global. We meet to discuss, learn, teach, present, work on all things R! Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. The group exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities.</description>
     </item>
     
     <item>
       <title>Modeler&#39;s Hippocratic Oath</title>
-      <link>https://jananiravi.github.io/post/2018/modelers-hippocratic-oath/</link>
+      <link>/post/2018/modelers-hippocratic-oath/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2018/modelers-hippocratic-oath/</guid>
+      <guid>/post/2018/modelers-hippocratic-oath/</guid>
       <description>I recently came across the Modeler&amp;rsquo;s Hippocratic Oath while reading Cathy O&amp;rsquo;Neil&amp;rsquo;s &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.
 This was originally written by Emanuel Derman and Paul Wilmott in the wake of the 2008 financial crisis.
 The Oath  I will remember that I didn’t make the world, and it doesn’t satisfy my equations. Though I will use models boldly to estimate value, I will not be overly impressed by mathematics. I will never sacrifice reality for elegance without explaining why I have done so.</description>
@@ -72,77 +72,77 @@ The Oath  I will remember that I didn’t make the world, and it doesn’t satis
     
     <item>
       <title>Useful Git/GitHub links</title>
-      <link>https://jananiravi.github.io/post/2018/git-github-links/</link>
+      <link>/post/2018/git-github-links/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2018/git-github-links/</guid>
+      <guid>/post/2018/git-github-links/</guid>
       <description> See also:  My tweet dated: 2017-03-11 Resources for more links related to Blogdown, Rmarkdown &amp;amp; GitHub   Git  Version control with Git on Software Carpentry Git workflow for beginners Mozilla Git Getting started with Git Git, the simple guide Git exercises GitHowTo Introduction to Git and command line Friendly introduction to Git, Jane Git for humans, slides by Bartlett Learn Git branching Git cheat sheet and best practices Getting yourself out of a Git mess Try Git   Git and GitHub  GitHub tutorial, Broman New GitHub repo Git &amp;amp; Github | Seankross GitHub on Mac   R and Git  R with Git and GitHub   GitHub Pages, Gists | Jekyll  Github pages #1 #2 Creating gists on Github Jekyll GCC Ruby Ruby Gems   </description>
     </item>
     
     <item>
       <title>2017: Year in Books | Goodreads</title>
-      <link>https://jananiravi.github.io/post/2017/goodreads-2017/</link>
+      <link>/post/2017/goodreads-2017/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2017/goodreads-2017/</guid>
+      <guid>/post/2017/goodreads-2017/</guid>
       <description> Check out 2017 #MyYearInBooks on Goodreads! @goodreads
 2017: Summary Stats  2017: Books Read  </description>
     </item>
     
     <item>
       <title>Black Swan by Nassim Taleb</title>
-      <link>https://jananiravi.github.io/post/2017/black-swan-nassim-taleb/</link>
+      <link>/post/2017/black-swan-nassim-taleb/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2017/black-swan-nassim-taleb/</guid>
+      <guid>/post/2017/black-swan-nassim-taleb/</guid>
       <description>Book Review I find myself increasingly drawn to the field of Behavioral Economics (so much so that I was considering a second PhD to channelize my love!), and how beautifully evasive these concepts are in real life. Starting with Daniel Kahneman’s Thinking Fast and Slow, followed by the writings and blogs of Steven Levitt, Dan Ariely, Nate Silver and Barry Schwartz (and still others like Malcolm Gladwell), has set me thinking a lot about how insane and illogical we are.</description>
     </item>
     
     <item>
       <title>J1 visa waiver | How to obtain your NORI?</title>
-      <link>https://jananiravi.github.io/post/2017/j1-visa-waiver-nori/</link>
+      <link>/post/2017/j1-visa-waiver-nori/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2017/j1-visa-waiver-nori/</guid>
+      <guid>/post/2017/j1-visa-waiver-nori/</guid>
       <description>About Me Why I’m writing this The initial process, where you read and imbibe! Helpful links:  Approximate order of key events &amp;amp; things-to-do Initial set of documents needed for the Indian Consulate attestation Documents to be sent to Indian Home Department Documents to be sent to the other two departments: List of documents  Addresses for mailing your packages TN State Department Regional Passport Office (RPO)  Additional documents required for police verification Main letters/documents Supporting documents  Final set of documents to be sent to the USCIS, Department of State Address for the package to be sent Tracking progress    About Me I’m Janani Ravi, currently at Michigan State University.</description>
     </item>
     
     <item>
       <title>2016: Year in Books | Goodreads</title>
-      <link>https://jananiravi.github.io/post/2017/goodreads-2016/</link>
+      <link>/post/2017/goodreads-2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2017/goodreads-2016/</guid>
+      <guid>/post/2017/goodreads-2016/</guid>
       <description> Check out 2016 #MyYearInBooks on Goodreads! @goodreads
 2016: Summary Stats  2016: Books Read  </description>
     </item>
     
     <item>
       <title>Becoming Steve Jobs by Brent Schlender</title>
-      <link>https://jananiravi.github.io/post/2016/becoming-steve-jobs/</link>
+      <link>/post/2016/becoming-steve-jobs/</link>
       <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2016/becoming-steve-jobs/</guid>
+      <guid>/post/2016/becoming-steve-jobs/</guid>
       <description>Becoming Steve Jobs by Brent Schlender is a well-written biography of Steve Jobs &amp;amp; is definitely much better than Walter Isaacson’s ‘official’ one! And yeah, it is much more than a boring compendium of wiki and news articles. :)
 So, happy reading!</description>
     </item>
     
     <item>
       <title>Matt Might&#39;s Blog</title>
-      <link>https://jananiravi.github.io/post/2016/matt-might-blog/</link>
+      <link>/post/2016/matt-might-blog/</link>
       <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2016/matt-might-blog/</guid>
+      <guid>/post/2016/matt-might-blog/</guid>
       <description>Background Matt Might has an awesome easy-to-read blog that has inspired us in many ways! Matt is a tenured CS professor at Utah and a visiting professor at HMS (Harvard Medical School). He’s the dad of 3 kids, one of whom has a very rare genetic disorder. He &amp;amp; his wife have spent a good part of their lives educating themselves and others about the disease.
  Some of his useful blog posts Health | Strength-training | JustDoIt  HOWTO: Gain strength and muscle Least resistance weight loss Path of least resistance Handling repetitive strain injury (e.</description>
     </item>
     
     <item>
       <title>A dedication to Ramanujan</title>
-      <link>https://jananiravi.github.io/post/2016/ramanujan/</link>
+      <link>/post/2016/ramanujan/</link>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2016/ramanujan/</guid>
+      <guid>/post/2016/ramanujan/</guid>
       <description>Authors: Janani Ravi, Arjun Krishnan
 Srinivasa Ramanujan has been noted as one of the classic ‘genius-mathematicians’ of all time! Hailing from the same state/country as him, Arjun Krishnan and I have always looked up to him &amp;amp; his elegant math as a source of inspiration right through our formative years!
 The Movie Recent movie that has drastically increased Ramanujan’s international visibility The Man Who Knew Infinity by Matthew Brown.</description>

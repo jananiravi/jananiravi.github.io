@@ -2,130 +2,130 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Janani Ravi</title>
-    <link>https://jananiravi.github.io/talk/</link>
+    <link>/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://jananiravi.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Simple rules to make an effective scientific presentation</title>
-      <link>https://jananiravi.github.io/talk/simple-rules-to-make-an-effective-scientific-presentation/</link>
+      <link>/talk/simple-rules-to-make-an-effective-scientific-presentation/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/simple-rules-to-make-an-effective-scientific-presentation/</guid>
+      <guid>/talk/simple-rules-to-make-an-effective-scientific-presentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tidyverse workshop</title>
-      <link>https://jananiravi.github.io/talk/tidyverse-workshop/</link>
+      <link>/talk/tidyverse-workshop/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/tidyverse-workshop/</guid>
+      <guid>/talk/tidyverse-workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
-      <link>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</link>
+      <link>/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</guid>
+      <guid>/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</guid>
       <description>Workshop material: GitHub • Google Drive</description>
     </item>
     
     <item>
       <title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title>
-      <link>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</link>
+      <link>/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</guid>
+      <guid>/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</guid>
       <description>Workshop material: GitHub • Google Drive</description>
     </item>
     
     <item>
       <title>Evolution and Conservation of the Psp Envelope Stress-Response System</title>
-      <link>https://jananiravi.github.io/talk/evolution-and-conservation-of-the-psp-envelope-stress-response-system/</link>
+      <link>/talk/evolution-and-conservation-of-the-psp-envelope-stress-response-system/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/evolution-and-conservation-of-the-psp-envelope-stress-response-system/</guid>
+      <guid>/talk/evolution-and-conservation-of-the-psp-envelope-stress-response-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using computational appraches to understand host-pathogen biology</title>
-      <link>https://jananiravi.github.io/talk/using-computational-appraches-to-understand-host-pathogen-biology/</link>
+      <link>/talk/using-computational-appraches-to-understand-host-pathogen-biology/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/using-computational-appraches-to-understand-host-pathogen-biology/</guid>
+      <guid>/talk/using-computational-appraches-to-understand-host-pathogen-biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microbial Mechanosensing: Phage Shock Protein Response System in Gram-positive Bacteria</title>
-      <link>https://jananiravi.github.io/talk/microbial-mechanosensing-phage-shock-protein-response-system-in-gram-positive-bacteria/</link>
+      <link>/talk/microbial-mechanosensing-phage-shock-protein-response-system-in-gram-positive-bacteria/</link>
       <pubDate>Sat, 18 Jun 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/microbial-mechanosensing-phage-shock-protein-response-system-in-gram-positive-bacteria/</guid>
+      <guid>/talk/microbial-mechanosensing-phage-shock-protein-response-system-in-gram-positive-bacteria/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic nature of adipogenic and inflammatory responses in tuberculous macrophages</title>
-      <link>https://jananiravi.github.io/talk/stochastic-nature-of-adipogenic-and-inflammatory-responses-in-tuberculous-macrophages/</link>
+      <link>/talk/stochastic-nature-of-adipogenic-and-inflammatory-responses-in-tuberculous-macrophages/</link>
       <pubDate>Thu, 05 Nov 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/stochastic-nature-of-adipogenic-and-inflammatory-responses-in-tuberculous-macrophages/</guid>
+      <guid>/talk/stochastic-nature-of-adipogenic-and-inflammatory-responses-in-tuberculous-macrophages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathematical modeling of pathways involved in cell cycle regulation and Differentiation</title>
-      <link>https://jananiravi.github.io/talk/mathematical-modeling-of-pathways-involved-in-cell-cycle-regulation-and-differentiation/</link>
+      <link>/talk/mathematical-modeling-of-pathways-involved-in-cell-cycle-regulation-and-differentiation/</link>
       <pubDate>Fri, 31 Oct 2014 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/mathematical-modeling-of-pathways-involved-in-cell-cycle-regulation-and-differentiation/</guid>
+      <guid>/talk/mathematical-modeling-of-pathways-involved-in-cell-cycle-regulation-and-differentiation/</guid>
       <description> Invited talk </description>
     </item>
     
     <item>
       <title>Modeling the START transition in the budding yeast cell cycle</title>
-      <link>https://jananiravi.github.io/talk/modeling-the-start-transition-in-the-budding-yeast-cell-cycle/</link>
+      <link>/talk/modeling-the-start-transition-in-the-budding-yeast-cell-cycle/</link>
       <pubDate>Tue, 29 Mar 2011 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/modeling-the-start-transition-in-the-budding-yeast-cell-cycle/</guid>
+      <guid>/talk/modeling-the-start-transition-in-the-budding-yeast-cell-cycle/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Modeling the START transition in the budding yeast cell cycle</title>
-      <link>https://jananiravi.github.io/talk/modeling-the-start-transition-in-the-budding-yeast-cell-cycle/</link>
+      <link>/talk/modeling-the-start-transition-in-the-budding-yeast-cell-cycle/</link>
       <pubDate>Tue, 05 May 2009 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/modeling-the-start-transition-in-the-budding-yeast-cell-cycle/</guid>
+      <guid>/talk/modeling-the-start-transition-in-the-budding-yeast-cell-cycle/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Modeling the START transition and size control in budding yeast</title>
-      <link>https://jananiravi.github.io/talk/modeling-the-start-transition-and-size-control-in-budding-yeast/</link>
+      <link>/talk/modeling-the-start-transition-and-size-control-in-budding-yeast/</link>
       <pubDate>Sun, 01 Mar 2009 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/modeling-the-start-transition-and-size-control-in-budding-yeast/</guid>
+      <guid>/talk/modeling-the-start-transition-and-size-control-in-budding-yeast/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Modeling the START transition and size control in budding yeast</title>
-      <link>https://jananiravi.github.io/talk/modeling-the-start-transition-and-size-control-in-budding-yeast/</link>
+      <link>/talk/modeling-the-start-transition-and-size-control-in-budding-yeast/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/modeling-the-start-transition-and-size-control-in-budding-yeast/</guid>
+      <guid>/talk/modeling-the-start-transition-and-size-control-in-budding-yeast/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
