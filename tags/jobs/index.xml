@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jobs on Janani Ravi</title>
-    <link>/tags/jobs/</link>
+    <link>https://jananiravi.github.io/tags/jobs/</link>
     <description>Recent content in jobs on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
     <lastBuildDate>Tue, 15 Jan 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jananiravi.github.io/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Join us!</title>
-      <link>/joinus/</link>
+      <link>https://jananiravi.github.io/joinus/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/joinus/</guid>
+      <guid>https://jananiravi.github.io/joinus/</guid>
       <description>Research program Our research involves developing computational approaches that can leverage large-scale genomic data to gain actionable insights into infectious disease biology. Specifically, we focus on three key areas:
 i) Identifying genomic signatures, functions, and mechanisms relevant to host-pathogen interactions, to enable understanding and guide diagnosis, ii) Unraveling molecular mechanisms common between genetic and infectious diseases, to guide targeted drug repurposing, and iii) Developing tools and resources for seamlessly relating sequence, structure, and function of genes/proteins in poorly characterized pathogens to enable and guide better prevention, diagnostic and treatment regimen.</description>
     </item>
