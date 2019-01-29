@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>evolution on Janani Ravi</title>
-    <link>https://jananiravi.github.io/tags/evolution/</link>
+    <link>/tags/evolution/</link>
     <description>Recent content in evolution on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
     <lastBuildDate>Tue, 15 Jan 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://jananiravi.github.io/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Join us!</title>
-      <link>https://jananiravi.github.io/joinus/</link>
+      <link>/joinus/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/joinus/</guid>
+      <guid>/joinus/</guid>
       <description>Research program Our research involves developing computational approaches that can leverage large-scale genomic data to gain actionable insights into infectious disease biology. Specifically, we focus on three key areas:
 i) Identifying genomic signatures, functions, and mechanisms relevant to host-pathogen interactions, to enable understanding and guide diagnosis, ii) Unraveling molecular mechanisms common between genetic and infectious diseases, to guide targeted drug repurposing, and iii) Developing tools and resources for seamlessly relating sequence, structure, and function of genes/proteins in poorly characterized pathogens to enable and guide better prevention, diagnostic and treatment regimen.</description>
     </item>
     
     <item>
       <title>Evolution and Conservation of the Psp Envelope Stress-Response System</title>
-      <link>https://jananiravi.github.io/talk/evolution-and-conservation-of-the-psp-envelope-stress-response-system/</link>
+      <link>/talk/evolution-and-conservation-of-the-psp-envelope-stress-response-system/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/evolution-and-conservation-of-the-psp-envelope-stress-response-system/</guid>
+      <guid>/talk/evolution-and-conservation-of-the-psp-envelope-stress-response-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using computational appraches to understand host-pathogen biology</title>
-      <link>https://jananiravi.github.io/talk/using-computational-appraches-to-understand-host-pathogen-biology/</link>
+      <link>/talk/using-computational-appraches-to-understand-host-pathogen-biology/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/using-computational-appraches-to-understand-host-pathogen-biology/</guid>
+      <guid>/talk/using-computational-appraches-to-understand-host-pathogen-biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microbial Mechanosensing: Phage Shock Protein Response System in Gram-positive Bacteria</title>
-      <link>https://jananiravi.github.io/talk/microbial-mechanosensing-phage-shock-protein-response-system-in-gram-positive-bacteria/</link>
+      <link>/talk/microbial-mechanosensing-phage-shock-protein-response-system-in-gram-positive-bacteria/</link>
       <pubDate>Sat, 18 Jun 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/microbial-mechanosensing-phage-shock-protein-response-system-in-gram-positive-bacteria/</guid>
+      <guid>/talk/microbial-mechanosensing-phage-shock-protein-response-system-in-gram-positive-bacteria/</guid>
       <description></description>
     </item>
     
