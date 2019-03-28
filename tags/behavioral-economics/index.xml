@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>behavioral-economics on Janani Ravi</title>
-    <link>/tags/behavioral-economics/</link>
+    <link>https://jananiravi.github.io/tags/behavioral-economics/</link>
     <description>Recent content in behavioral-economics on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
     <lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/behavioral-economics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jananiravi.github.io/tags/behavioral-economics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Black Swan by Nassim Taleb</title>
-      <link>/post/2017/black-swan-nassim-taleb/</link>
+      <link>https://jananiravi.github.io/post/2017/black-swan-nassim-taleb/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017/black-swan-nassim-taleb/</guid>
+      <guid>https://jananiravi.github.io/post/2017/black-swan-nassim-taleb/</guid>
       <description>Book Review I find myself increasingly drawn to the field of Behavioral Economics (so much so that I was considering a second PhD to channelize my love!), and how beautifully evasive these concepts are in real life. Starting with Daniel Kahneman’s Thinking Fast and Slow, followed by the writings and blogs of Steven Levitt, Dan Ariely, Nate Silver and Barry Schwartz (and still others like Malcolm Gladwell), has set me thinking a lot about how insane and illogical we are.</description>
     </item>
     
