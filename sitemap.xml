@@ -4,8 +4,44 @@
     
     <url>
     
-      <loc>https://jananiravi.github.io/group/</loc>
+      <loc>https://jananiravi.github.io/group/about/</loc>
       <lastmod>2019-03-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+  
+    
+    <url>
+    
+      <loc>https://jananiravi.github.io/group/group/</loc>
+      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+  
+    
+    <url>
+    
+      <loc>https://jananiravi.github.io/publication/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jananiravi.github.io/bio/</loc>
+      <lastmod>2019-04-05T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jananiravi.github.io/group/</loc>
+      <lastmod>2019-04-05T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -52,7 +88,7 @@
     
     <url>
     
-      <loc>https://jananiravi.github.io/post/2019/rlel-upcoming-2019/</loc>
+      <loc>https://jananiravi.github.io/post/2019/rlel-2019-upcoming/</loc>
       <lastmod>2019-01-15T00:00:00-05:00</lastmod>
     </url>
     
@@ -100,7 +136,7 @@
     
     <url>
     
-      <loc>https://jananiravi.github.io/post/2018/rladies-elansing/</loc>
+      <loc>https://jananiravi.github.io/post/2018/rlel-launch/</loc>
       <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -196,14 +232,6 @@
     
     <url>
     
-      <loc>https://jananiravi.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://jananiravi.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -214,6 +242,14 @@
     
       <loc>https://jananiravi.github.io/talk/using-computational-appraches-to-understand-host-pathogen-biology/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jananiravi.github.io/post/2017/goodreads-2015/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -375,8 +411,8 @@
     
     <url>
     
-      <loc>https://jananiravi.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <loc>https://jananiravi.github.io/tags/india/</loc>
+      <lastmod>2017-03-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -384,8 +420,8 @@
     
     <url>
     
-      <loc>https://jananiravi.github.io/tags/mtb/</loc>
-      <lastmod>2018-11-07T00:00:00-05:00</lastmod>
+      <loc>https://jananiravi.github.io/</loc>
+      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -403,7 +439,7 @@
     <url>
     
       <loc>https://jananiravi.github.io/tags/psp/</loc>
-      <lastmod>2018-11-07T00:00:00-05:00</lastmod>
+      <lastmod>2017-04-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -413,6 +449,15 @@
     
       <loc>https://jananiravi.github.io/publication_types/</loc>
       <lastmod>2018-02-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jananiravi.github.io/categories/r/</loc>
+      <lastmod>2019-01-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -430,7 +475,16 @@
     <url>
     
       <loc>https://jananiravi.github.io/categories/r-ladies/</loc>
-      <lastmod>2018-11-05T00:00:00-05:00</lastmod>
+      <lastmod>2019-03-25T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jananiravi.github.io/categories/research/</loc>
+      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -463,7 +517,7 @@
     <url>
     
       <loc>https://jananiravi.github.io/tags/</loc>
-      <lastmod>2018-11-07T00:00:00-05:00</lastmod>
+      <lastmod>2017-03-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -473,51 +527,6 @@
     
       <loc>https://jananiravi.github.io/tags/academic/</loc>
       <lastmod>2019-02-15T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jananiravi.github.io/tags/actinobacteria/</loc>
-      <lastmod>2018-11-07T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jananiravi.github.io/tags/authors/</loc>
-      <lastmod>2017-04-26T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jananiravi.github.io/tags/behavioral-economics/</loc>
-      <lastmod>2017-04-26T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jananiravi.github.io/tags/biography/</loc>
-      <lastmod>2016-10-04T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jananiravi.github.io/tags/bioinformatics/</loc>
-      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -543,7 +552,16 @@
     
     <url>
     
-      <loc>https://jananiravi.github.io/tags/cpathogeno/</loc>
+      <loc>https://jananiravi.github.io/tags/compbio-bioinfo/</loc>
+      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jananiravi.github.io/tags/data-science/</loc>
       <lastmod>2019-03-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -553,7 +571,7 @@
     <url>
     
       <loc>https://jananiravi.github.io/tags/datascience/</loc>
-      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-11-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -571,25 +589,7 @@
     <url>
     
       <loc>https://jananiravi.github.io/tags/evolution/</loc>
-      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jananiravi.github.io/tags/fun/</loc>
-      <lastmod>2018-05-07T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jananiravi.github.io/tags/genomic-context/</loc>
-      <lastmod>2018-11-07T00:00:00-05:00</lastmod>
+      <lastmod>2017-04-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -606,17 +606,8 @@
     
     <url>
     
-      <loc>https://jananiravi.github.io/tags/group/</loc>
+      <loc>https://jananiravi.github.io/tags/host-pathogen/</loc>
       <lastmod>2019-03-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jananiravi.github.io/tags/health/</loc>
-      <lastmod>2016-05-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -642,15 +633,6 @@
     
     <url>
     
-      <loc>https://jananiravi.github.io/tags/math/</loc>
-      <lastmod>2016-04-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://jananiravi.github.io/tags/math-modeling/</loc>
       <lastmod>2018-05-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -660,17 +642,8 @@
     
     <url>
     
-      <loc>https://jananiravi.github.io/tags/movie/</loc>
-      <lastmod>2016-04-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://jananiravi.github.io/tags/phylogeny-evolution/</loc>
-      <lastmod>2018-11-07T00:00:00-05:00</lastmod>
+      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -680,15 +653,6 @@
     
       <loc>https://jananiravi.github.io/tags/plot/</loc>
       <lastmod>2019-02-15T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jananiravi.github.io/tags/productivity/</loc>
-      <lastmod>2016-05-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -707,15 +671,6 @@
     
       <loc>https://jananiravi.github.io/tags/research/</loc>
       <lastmod>2019-02-15T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jananiravi.github.io/tags/review/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -742,33 +697,6 @@
     <url>
     
       <loc>https://jananiravi.github.io/tags/stress-response/</loc>
-      <lastmod>2018-11-07T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jananiravi.github.io/tags/tech/</loc>
-      <lastmod>2016-10-04T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jananiravi.github.io/tags/travel/</loc>
-      <lastmod>2017-03-14T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jananiravi.github.io/tags/tree-of-life/</loc>
       <lastmod>2018-11-07T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>

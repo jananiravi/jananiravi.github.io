@@ -6,9 +6,10 @@ slug: ramanujan
 categories:
   - Books-Blogs
 tags:
-  - math
-  - review
-  - movie
+  - math-modeling
+  - India
+  # - review
+  # - movie
   - books
 summary: "... one of the greatest mathematicians of all time!"
 math: true

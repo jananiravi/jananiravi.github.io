@@ -5,8 +5,9 @@ author: Janani Ravi
 categories:
   - Resources
 tags:
-  - travel
+  # - travel
   - refs
+  - India
 slug: j1-visa-waiver-nori
 output:
   blogdown::html_page:

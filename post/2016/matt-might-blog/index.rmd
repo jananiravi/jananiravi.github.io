@@ -7,10 +7,10 @@ categories:
   - Books-Blogs
 tags:
   - blogs
-  - review
-  - productivity
+  # - review
+  # - productivity-tips
   - academic
-  - health
+  # - health
 summary: "Compilation of some useful posts *by* Matt Might."
 ---
 

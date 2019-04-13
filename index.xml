@@ -7,136 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 15 Feb 2019 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Computational Pathogenomics Group</title>
-      <link>https://jananiravi.github.io/group/</link>
+      <title>What we do!</title>
+      <link>https://jananiravi.github.io/group/about/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/group/</guid>
+      <guid>https://jananiravi.github.io/group/about/</guid>
       <description>
-
-&lt;h1 id=&#34;people&#34;&gt;People&lt;/h1&gt;
-
-&lt;h2 id=&#34;pi&#34;&gt;PI&lt;/h2&gt;
-
-&lt;p&gt;Janani Ravi &lt;br&gt;
-&lt;a href=&#34;//cvm.msu.edu/pdi&#34; target=&#34;_blank&#34;&gt;Pathobiology and Diagnostic Investigation&lt;/a&gt;, &lt;br&gt;
-&lt;a href=&#34;//cvm.msu.edu&#34; target=&#34;_blank&#34;&gt;College of Veterinary Medicine&lt;/a&gt;, Michigan State University. &lt;br&gt;
-&lt;a href=&#34;https://github.com/jananiravi&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/janani137&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;//jananiravi.github.io&#34; target=&#34;_blank&#34;&gt;Webpage&lt;/a&gt;, &lt;a href=&#34;https://www.cvm.msu.edu/directory/ravi&#34; target=&#34;_blank&#34;&gt;MSU Webpage&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Name&lt;/th&gt;
-&lt;th&gt;Major/Minor&lt;/th&gt;
-&lt;th&gt;**&lt;/th&gt;
-&lt;th&gt;GitHub &amp;amp; Social Media&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Lauren Sosinski&lt;/td&gt;
-&lt;td&gt;Majors: Biochemistry &amp;amp; Biotechnology; Genomics and Molecular Genetics &lt;br&gt; Minor: CMSE&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/sosinsk7&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://twitter.com/sosinsk7&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Philip Calhoun&lt;/td&gt;
-&lt;td&gt;Human Biology &lt;br&gt; (pre-med)&lt;/td&gt;
-&lt;td&gt;Drew Scholar &lt;br&gt; Honors College &lt;br&gt; Dean&amp;rsquo;s List &lt;br&gt; SROP fellowship&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/calhou67&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Samuel Chen&lt;/td&gt;
-&lt;td&gt;Computer Science Engineering&lt;/td&gt;
-&lt;td&gt;Honors College &lt;br&gt; Dean&amp;rsquo;s List &lt;br&gt; State Scholarship&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/samuel19chen&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Phoebe Tuyishime&lt;/td&gt;
-&lt;td&gt;Major: Nutritional Sciences &lt;br&gt; Minor: Global Public health and Epidemiology&lt;/td&gt;
-&lt;td&gt;Mastercard Foundation Scholar &lt;br&gt; Justin S. Morrill Leadership Fellow: CANR &lt;br&gt; Food and Nutrition Database Research Center, UG Teaching Assistant: FSHN.&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/tuyishi1&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://twitter.com/tuyishimephoebe&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://www.canr.msu.edu/people/phoebe-tuyishime&#34; target=&#34;_blank&#34;&gt;Webpage&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/group/gallery/laurensosinski.jpg&#34; data-caption=&#34;Lauren M Sosinski&#34;&gt;
-  &lt;img src=&#34;https://jananiravi.github.io/group/gallery/laurensosinski.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/group/gallery/phoebetuyishime.jpg&#34; data-caption=&#34;Phoebe Tuyishime&#34;&gt;
-  &lt;img src=&#34;https://jananiravi.github.io/group/gallery/phoebetuyishime.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/group/gallery/samuelchen.png&#34; data-caption=&#34;Samuel Z Chen&#34;&gt;
-  &lt;img src=&#34;https://jananiravi.github.io/group/gallery/samuelchen.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-
-&lt;h1 id=&#34;research-program&#34;&gt;Research program&lt;/h1&gt;
 
 &lt;p&gt;Our research involves developing computational approaches that can leverage large-scale genomic data to gain actionable insights into infectious disease biology.
 Specifically, we focus on three key areas:&lt;/p&gt;
@@ -148,9 +28,72 @@ iii) Developing tools and resources for seamlessly relating sequence, structure,
 &lt;h2 id=&#34;keywords&#34;&gt;Keywords&lt;/h2&gt;
 
 &lt;p&gt;Computational Biology | Bioinformatics | Phylogenetics &amp;amp; Molecular Evolution | Comparative pathogenomics | Molecular drug/vaccine discovery | Data Analysis &amp;amp; Visualization&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://jananiravi.github.io/#contact&#34; target=&#34;_blank&#34;&gt;Contact details&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Interests</title>
+      <link>https://jananiravi.github.io/bio/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/bio/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Group</title>
+      <link>https://jananiravi.github.io/group/group/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/group/group/</guid>
+      <description>
+
+&lt;h2 id=&#34;pi&#34;&gt;PI&lt;/h2&gt;
+
+&lt;p&gt;&lt;img align=&#34;right&#34; src=&#34;https://jananiravi.github.io/img/jananiravi-webpage-pic.png&#34; width=&#34;250&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;Janani Ravi &lt;br&gt;
+&lt;a href=&#34;//cvm.msu.edu/pdi&#34; target=&#34;_blank&#34;&gt;Pathobiology and Diagnostic Investigation&lt;/a&gt;, &lt;br&gt;
+&lt;a href=&#34;//cvm.msu.edu&#34; target=&#34;_blank&#34;&gt;College of Veterinary Medicine&lt;/a&gt;, Michigan State University. &lt;br&gt;
+&lt;a href=&#34;https://github.com/jananiravi&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/janani137&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;//jananiravi.github.io&#34; target=&#34;_blank&#34;&gt;Webpage&lt;/a&gt;, &lt;a href=&#34;https://www.cvm.msu.edu/directory/ravi&#34; target=&#34;_blank&#34;&gt;MSU Webpage&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
+
+&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;https://jananiravi.github.io/img/laurensosinski.jpg&#34; width=&#34;100&#34;/&gt;
+ Lauren Sosinski &lt;br&gt;
+ Majors: Biochemistry &amp;amp; Biotechnology; Genomics and Molecular Genetics; Minor: CMSE &lt;br&gt;
+ &lt;a href=&#34;https://github.com/sosinsk7&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/sosinsk7&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;https://jananiravi.github.io/img/philipcalhoun.png&#34; width=&#34;100&#34;/&gt;
+Philip Calhoun &lt;br&gt;
+Human Biology (pre-med) &lt;br&gt;
+Drew Scholar | Honors College | Dean&amp;rsquo;s List | SROP fellowship &lt;br&gt;
+&lt;a href=&#34;https://github.com/calhou67&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/PhilipCalhoun5&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;https://jananiravi.github.io/img/samuelchen.png&#34; width=&#34;100&#34;/&gt;
+ Samuel Chen &lt;br&gt;
+ Computer Science Engineering &lt;br&gt;
+ Honors College | Dean&amp;rsquo;s List | State Scholarship &lt;br&gt;
+ &lt;a href=&#34;https://github.com/samuel19chen&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;https://jananiravi.github.io/img/phoebetuyishime.jpg&#34; width=&#34;100&#34;/&gt;
+Phoebe Tuyishime &lt;br&gt;
+Major: Nutritional Sciences; Minor: Global Public Health &amp;amp; Epidemiology &lt;br&gt;
+Mastercard Foundation Scholar | Justin S. Morrill Leadership Fellow: CANR |
+Food and Nutrition Database Research Center, UG Teaching Assistant: FSHN. &lt;br&gt;
+&lt;a href=&#34;https://github.com/tuyishi1&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/tuyishimephoebe&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;https://www.canr.msu.edu/people/phoebe-tuyishime&#34; target=&#34;_blank&#34;&gt;Webpage&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;join-us-joinus&#34;&gt;&lt;a href=&#34;https://jananiravi.github.io/joinus&#34;&gt;Join Us&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://jananiravi.github.io/bio/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jananiravi.github.io/bio/experience/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -169,19 +112,6 @@ iii) Developing tools and resources for seamlessly relating sequence, structure,
       
       <guid>https://jananiravi.github.io/joinus/</guid>
       <description>
-
-&lt;h1 id=&#34;research-program&#34;&gt;Research program&lt;/h1&gt;
-
-&lt;p&gt;Our research involves developing computational approaches that can leverage large-scale genomic data to gain actionable insights into infectious disease biology.
-Specifically, we focus on three key areas:&lt;/p&gt;
-
-&lt;p&gt;i) Identifying genomic signatures, functions, and mechanisms relevant to host-pathogen interactions, to enable understanding and guide diagnosis,
-ii) Unraveling molecular mechanisms common between genetic and infectious diseases, to guide targeted drug repurposing, and
-iii) Developing tools and resources for seamlessly relating sequence, structure, and function of genes/proteins in poorly characterized pathogens to enable and guide better prevention, diagnostic and treatment regimen.&lt;/p&gt;
-
-&lt;h1 id=&#34;keywords&#34;&gt;Keywords&lt;/h1&gt;
-
-&lt;p&gt;Computational Biology | Bioinformatics | Phylogenetics &amp;amp; Molecular Evolution | Comparative pathogenomics | Molecular drug/vaccine discovery | Data Analysis &amp;amp; Visualization&lt;/p&gt;
 
 &lt;h1 id=&#34;open-positions&#34;&gt;Open positions&lt;/h1&gt;
 
@@ -528,10 +458,10 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
     <item>
       <title>2019: RLEL Upcoming Events</title>
-      <link>https://jananiravi.github.io/post/2019/rlel-upcoming-2019/</link>
+      <link>https://jananiravi.github.io/post/2019/rlel-2019-upcoming/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2019/rlel-upcoming-2019/</guid>
+      <guid>https://jananiravi.github.io/post/2019/rlel-2019-upcoming/</guid>
       <description>
 
 &lt;h2 id=&#34;a-little-background&#34;&gt;A little background&lt;/h2&gt;
@@ -664,7 +594,13 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
       <description>
 
 
-
+&lt;p&gt;Find my latest reads &amp;amp; recommendations on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;!&lt;/p&gt;
+&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2018/1671098&#34;&gt;2018: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div id=&#34;book-read&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2018-reads&#34;&gt;Book Read&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -746,7 +682,7 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
       <guid>https://jananiravi.github.io/projects/stress-response/</guid>
       <description>
 
-&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;During my postdoctoral research at Rutgers University, I focused on using computational approaches to study various facets of host and pathogen biology including:&lt;/p&gt;
 
@@ -820,96 +756,6 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201810-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Workshop material: &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181008-workshop-dataviz&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; • &lt;a href=&#34;https://drive.google.com/drive/folders/1tSrhZ_TymJfxeZbe8hAdtPjcmhoeAJls?usp=sharing&#34; target=&#34;_blank&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Launching R-Ladies East Lansing!</title>
-      <link>https://jananiravi.github.io/post/2018/rladies-elansing/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jananiravi.github.io/post/2018/rladies-elansing/</guid>
-      <description>
-
-
-&lt;div id=&#34;welcome-to-our-new-chapter&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;&lt;em&gt;Welcome to our new chapter!&lt;/em&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div id=&#34;what-were-about&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;What we’re about&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;R-Ladies East Lansing&lt;/em&gt; is a local chapter of R-Ladies Global. We meet to discuss, learn, teach, present, work on all things R! Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. The group exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;who-should-join&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Who should join?&lt;/h2&gt;
-&lt;p&gt;R-Ladies East Lansing welcomes members of &lt;strong&gt;all R proficiency levels&lt;/strong&gt;, whether you are a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp;amp; expert upskilling. Our non-profit, civil society community is designed to develop our members’ R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. &lt;em&gt;Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Anyone and everyone interested in R/Data Science&lt;/em&gt; should join our group and participate/contribute in any way you can, be they learners, teachers, developers or innovators! We encourage women and minority genders to present/lead most sessions, conversations but we have &lt;em&gt;no restrictions&lt;/em&gt; whatsoever when it comes to membership, participation, and discussions. So, please join us and bring your R-family &amp;amp; R-friends!&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;how-to-be-in-touch&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;How to be in touch?&lt;/h2&gt;
-&lt;p&gt;Access our presentations, R scripts and more on &lt;a href=&#34;//github.com/rladies-eastlansing&#34;&gt;Github&lt;/a&gt; and follow us on twitter to stay up to date about R-Ladies news! &lt;em&gt;Join the &lt;a href=&#34;https://meetup.com/rladies-east-lansing/&#34;&gt;Meetup group&lt;/a&gt; to be notified of the first meeting in July!&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.rladies.org&#34;&gt;R-Ladies Global&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;Meetup: &lt;a href=&#34;https://meetup.com/rladies-east-lansing/&#34; class=&#34;uri&#34;&gt;https://meetup.com/rladies-east-lansing/&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;Twitter: &lt;a href=&#34;http://twitter.com/RLadiesELansing&#34;&gt;@RLadiesELansing&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://twitter.com/RLadiesGlobal&#34;&gt;@RLadiesGlobal&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Slack: &lt;a href=&#34;https://rladies-eastlansing.slack.com&#34; class=&#34;uri&#34;&gt;https://rladies-eastlansing.slack.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Github: &lt;a href=&#34;https://github.com/rladies-eastlansing&#34;&gt;@rladies-eastlansing&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/rladies&#34;&gt;@rladies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;E-mail:
-&lt;ul&gt;
-&lt;li&gt;eastlansing [at] rladies [dot] org&lt;/li&gt;
-&lt;li&gt;janani [at] rladies [dot] org&lt;/li&gt;
-&lt;li&gt;info [at] rladies [dot] org&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;organizers&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Organizers&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;janani@msu.edu&#34;&gt;Janani Ravi&lt;/a&gt; &amp;amp; &lt;a href=&#34;archerc5@msu.edu&#34;&gt;Camille Archer&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;ps-community-policies-code-of-conduct&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;&lt;em&gt;PS&lt;/em&gt; Community Policies &amp;amp; Code of Conduct:&lt;/h2&gt;
-&lt;p&gt;Full community guidelines are found here: &lt;a href=&#34;https://github.com/rladies/starter-kit/wiki&#34; class=&#34;uri&#34;&gt;https://github.com/rladies/starter-kit/wiki&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Modeler&#39;s Hippocratic Oath</title>
-      <link>https://jananiravi.github.io/post/2018/modelers-hippocratic-oath/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jananiravi.github.io/post/2018/modelers-hippocratic-oath/</guid>
-      <description>
-
-&lt;p&gt;I recently came across the &lt;strong&gt;Modeler&amp;rsquo;s Hippocratic Oath&lt;/strong&gt; while reading &lt;a href=&#34;//twitter.com/mathbabedotorg&#34; target=&#34;_blank&#34;&gt;Cathy O&amp;rsquo;Neil&amp;rsquo;s&lt;/a&gt; &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.&lt;/p&gt;
-
-&lt;p&gt;This was originally written by &lt;a href=&#34;//twitter.com/EmanuelDerman&#34; target=&#34;_blank&#34;&gt;Emanuel Derman&lt;/a&gt; and &lt;a href=&#34;//twitter.com/wilmott&#34; target=&#34;_blank&#34;&gt;Paul Wilmott&lt;/a&gt; in the wake of the 2008 financial crisis.&lt;/p&gt;
-
-&lt;h2 id=&#34;the-oath&#34;&gt;The Oath&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;I will remember that I didn’t make the world, and it doesn’t satisfy my equations.&lt;/li&gt;
-&lt;li&gt;Though I will use models boldly to estimate value, I will not be overly impressed by mathematics.&lt;/li&gt;
-&lt;li&gt;I will never sacrifice reality for elegance without explaining why I have done so.&lt;/li&gt;
-&lt;li&gt;Nor will I give the people who use my model false comfort about its accuracy. Instead, I will make explicit its assumptions and oversights.&lt;/li&gt;
-&lt;li&gt;I understand that my work may have enormous effects on society and the economy, many of them beyond my comprehension.
-&lt;img src=&#34;https://jananiravi.github.io/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies East Lansing</title>
-      <link>https://jananiravi.github.io/projects/rladies-eastlansing/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jananiravi.github.io/projects/rladies-eastlansing/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/rladies-elansing&#34;&gt;Launching R-Ladies East Lansing&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://jananiravi.github.io/interests/rladies_files/rladies.jpeg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34;/&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -6,10 +6,11 @@ slug: black-swan-nassim-taleb
 categories:
   - Books-Blogs
 tags:
-  - books
-  - review
-  - authors
-  - behavioral-economics
+    # - reading
+    - books
+  # - review
+  # - authors
+  # - behavioral-economics
 summary: "Brief book review/book recommendation."
 ---
 

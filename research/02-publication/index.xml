@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Janani Ravi</title>
+    <link>/research/02-publication/</link>
+    <description>Recent content in Publications on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/research/02-publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
+      <link>/project/anto/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/anto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
+      <link>/project/natcomm/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/project/natcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
+      <link>/project/molmicro/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/project/molmicro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
+      <link>/project/jimm/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
+      
+      <guid>/project/jimm/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

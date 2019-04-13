@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>host/pathogen on Janani Ravi</title>
+    <link>https://jananiravi.github.io/tags/host-pathogen/</link>
+    <description>Recent content in host/pathogen on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Fri, 15 Feb 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jananiravi.github.io/tags/host-pathogen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Group</title>
+      <link>https://jananiravi.github.io/group/group/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/group/group/</guid>
+      <description>PI Janani Ravi Pathobiology and Diagnostic Investigation, College of Veterinary Medicine, Michigan State University. GitHub | Twitter | Webpage, MSU Webpage
+Students Lauren Sosinski Majors: Biochemistry &amp;amp; Biotechnology; Genomics and Molecular Genetics; Minor: CMSE GitHub | Twitter
+Philip Calhoun Human Biology (pre-med) Drew Scholar | Honors College | Dean&amp;rsquo;s List | SROP fellowship GitHub | Twitter
+Samuel Chen Computer Science Engineering Honors College | Dean&amp;rsquo;s List | State Scholarship GitHub</description>
+    </item>
+    
+    <item>
+      <title>What we do!</title>
+      <link>https://jananiravi.github.io/group/about/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/group/about/</guid>
+      <description>Our research involves developing computational approaches that can leverage large-scale genomic data to gain actionable insights into infectious disease biology. Specifically, we focus on three key areas:
+i) Identifying genomic signatures, functions, and mechanisms relevant to host-pathogen interactions, to enable understanding and guide diagnosis, ii) Unraveling molecular mechanisms common between genetic and infectious diseases, to guide targeted drug repurposing, and iii) Developing tools and resources for seamlessly relating sequence, structure, and function of genes/proteins in poorly characterized pathogens to enable and guide better prevention, diagnostic and treatment regimen.</description>
+    </item>
+    
+    <item>
+      <title>Bacterial Stress Response</title>
+      <link>https://jananiravi.github.io/projects/stress-response/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/projects/stress-response/</guid>
+      <description>Summary During my postdoctoral research at Rutgers University, I focused on using computational approaches to study various facets of host and pathogen biology including:
+ delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp); unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships; reconstructing and analyzing the mycobacterial sigma factor regulatory network.</description>
+    </item>
+    
+    <item>
+      <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
+      <link>https://jananiravi.github.io/publication/2018/anto/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/publication/2018/anto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
+      <link>https://jananiravi.github.io/publication/2016/natcomm/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/publication/2016/natcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TB &amp; Lipid metabolism</title>
+      <link>https://jananiravi.github.io/projects/lipid-metabolism/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/projects/lipid-metabolism/</guid>
+      <description>Summary In addition to stress-response systems on the pathogenic side, I studied some host responses to M. tuberculosis infection using computational approaches as well:
+ characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis; understanding the dysregulation of lipid metabolism in M. tuberculosis-infected macrophages using dynamic Bayesian model and statistical analyses of heterogeneous single-cell populations.  Related publications  Lipid Metabolism and TB, in preparation.</description>
+    </item>
+    
+    <item>
+      <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
+      <link>https://jananiravi.github.io/publication/2015/molmicro/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/publication/2015/molmicro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
+      <link>https://jananiravi.github.io/publication/2014/jimm/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/publication/2014/jimm/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

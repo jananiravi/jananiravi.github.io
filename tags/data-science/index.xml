@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data-science on Janani Ravi</title>
+    <link>https://jananiravi.github.io/tags/data-science/</link>
+    <description>Recent content in data-science on Janani Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <lastBuildDate>Fri, 15 Feb 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jananiravi.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Group</title>
+      <link>https://jananiravi.github.io/group/group/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/group/group/</guid>
+      <description>PI Janani Ravi Pathobiology and Diagnostic Investigation, College of Veterinary Medicine, Michigan State University. GitHub | Twitter | Webpage, MSU Webpage
+Students Lauren Sosinski Majors: Biochemistry &amp;amp; Biotechnology; Genomics and Molecular Genetics; Minor: CMSE GitHub | Twitter
+Philip Calhoun Human Biology (pre-med) Drew Scholar | Honors College | Dean&amp;rsquo;s List | SROP fellowship GitHub | Twitter
+Samuel Chen Computer Science Engineering Honors College | Dean&amp;rsquo;s List | State Scholarship GitHub</description>
+    </item>
+    
+    <item>
+      <title>What we do!</title>
+      <link>https://jananiravi.github.io/group/about/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/group/about/</guid>
+      <description>Our research involves developing computational approaches that can leverage large-scale genomic data to gain actionable insights into infectious disease biology. Specifically, we focus on three key areas:
+i) Identifying genomic signatures, functions, and mechanisms relevant to host-pathogen interactions, to enable understanding and guide diagnosis, ii) Unraveling molecular mechanisms common between genetic and infectious diseases, to guide targeted drug repurposing, and iii) Developing tools and resources for seamlessly relating sequence, structure, and function of genes/proteins in poorly characterized pathogens to enable and guide better prevention, diagnostic and treatment regimen.</description>
+    </item>
+    
+    <item>
+      <title>Join us!</title>
+      <link>https://jananiravi.github.io/joinus/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/joinus/</guid>
+      <description>Open positions Undergraduate Student Research We are looking for highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases. Currently, we prefer students coming in with fellowships/scholarships (e.g., SROP, ENSURE, other department/college-level awards).
+We are happy to train them in many aspects of data-intensive biology. A keen interest in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields, and prior programming experience in R, Python, Perl, and/or C/C++ would be a huge plus.</description>
+    </item>
+    
+    <item>
+      <title>Modeler&#39;s Hippocratic Oath</title>
+      <link>https://jananiravi.github.io/post/2018/modelers-hippocratic-oath/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jananiravi.github.io/post/2018/modelers-hippocratic-oath/</guid>
+      <description>I recently came across the Modeler&amp;rsquo;s Hippocratic Oath while reading Cathy O&amp;rsquo;Neil&amp;rsquo;s &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.
+This was originally written by Emanuel Derman and Paul Wilmott in the wake of the 2008 financial crisis.
+The Oath  I will remember that I didn’t make the world, and it doesn’t satisfy my equations. Though I will use models boldly to estimate value, I will not be overly impressed by mathematics. I will never sacrifice reality for elegance without explaining why I have done so.</description>
+    </item>
+    
+  </channel>
+</rss>

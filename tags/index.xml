@@ -7,24 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
-    <lastBuildDate>Wed, 07 Nov 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 14 Mar 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jananiravi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mtb</title>
-      <link>https://jananiravi.github.io/tags/mtb/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
+      <title>India</title>
+      <link>https://jananiravi.github.io/tags/india/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/mtb/</guid>
+      <guid>https://jananiravi.github.io/tags/india/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Psp</title>
       <link>https://jananiravi.github.io/tags/psp/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
       
       <guid>https://jananiravi.github.io/tags/psp/</guid>
       <description></description>
@@ -49,51 +49,6 @@
     </item>
     
     <item>
-      <title>actinobacteria</title>
-      <link>https://jananiravi.github.io/tags/actinobacteria/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://jananiravi.github.io/tags/actinobacteria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>authors</title>
-      <link>https://jananiravi.github.io/tags/authors/</link>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jananiravi.github.io/tags/authors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>behavioral-economics</title>
-      <link>https://jananiravi.github.io/tags/behavioral-economics/</link>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jananiravi.github.io/tags/behavioral-economics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>biography</title>
-      <link>https://jananiravi.github.io/tags/biography/</link>
-      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jananiravi.github.io/tags/biography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bioinformatics</title>
-      <link>https://jananiravi.github.io/tags/bioinformatics/</link>
-      <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://jananiravi.github.io/tags/bioinformatics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>blogs</title>
       <link>https://jananiravi.github.io/tags/blogs/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
@@ -112,18 +67,27 @@
     </item>
     
     <item>
-      <title>cpathogeno</title>
-      <link>https://jananiravi.github.io/tags/cpathogeno/</link>
+      <title>compbio-bioinfo</title>
+      <link>https://jananiravi.github.io/tags/compbio-bioinfo/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/cpathogeno/</guid>
+      <guid>https://jananiravi.github.io/tags/compbio-bioinfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-science</title>
+      <link>https://jananiravi.github.io/tags/data-science/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/tags/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>datascience</title>
       <link>https://jananiravi.github.io/tags/datascience/</link>
-      <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>https://jananiravi.github.io/tags/datascience/</guid>
       <description></description>
@@ -141,27 +105,9 @@
     <item>
       <title>evolution</title>
       <link>https://jananiravi.github.io/tags/evolution/</link>
-      <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
       
       <guid>https://jananiravi.github.io/tags/evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fun</title>
-      <link>https://jananiravi.github.io/tags/fun/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jananiravi.github.io/tags/fun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>genomic-context</title>
-      <link>https://jananiravi.github.io/tags/genomic-context/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://jananiravi.github.io/tags/genomic-context/</guid>
       <description></description>
     </item>
     
@@ -175,20 +121,11 @@
     </item>
     
     <item>
-      <title>group</title>
-      <link>https://jananiravi.github.io/tags/group/</link>
+      <title>host/pathogen</title>
+      <link>https://jananiravi.github.io/tags/host-pathogen/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>health</title>
-      <link>https://jananiravi.github.io/tags/health/</link>
-      <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jananiravi.github.io/tags/health/</guid>
+      <guid>https://jananiravi.github.io/tags/host-pathogen/</guid>
       <description></description>
     </item>
     
@@ -211,15 +148,6 @@
     </item>
     
     <item>
-      <title>math</title>
-      <link>https://jananiravi.github.io/tags/math/</link>
-      <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jananiravi.github.io/tags/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>math-modeling</title>
       <link>https://jananiravi.github.io/tags/math-modeling/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
@@ -229,18 +157,9 @@
     </item>
     
     <item>
-      <title>movie</title>
-      <link>https://jananiravi.github.io/tags/movie/</link>
-      <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jananiravi.github.io/tags/movie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>phylogeny-evolution</title>
       <link>https://jananiravi.github.io/tags/phylogeny-evolution/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>https://jananiravi.github.io/tags/phylogeny-evolution/</guid>
       <description></description>
@@ -252,15 +171,6 @@
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>https://jananiravi.github.io/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>productivity</title>
-      <link>https://jananiravi.github.io/tags/productivity/</link>
-      <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jananiravi.github.io/tags/productivity/</guid>
       <description></description>
     </item>
     
@@ -279,15 +189,6 @@
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>https://jananiravi.github.io/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>review</title>
-      <link>https://jananiravi.github.io/tags/review/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jananiravi.github.io/tags/review/</guid>
       <description></description>
     </item>
     
@@ -315,33 +216,6 @@
       <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>https://jananiravi.github.io/tags/stress-response/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>https://jananiravi.github.io/tags/tech/</link>
-      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jananiravi.github.io/tags/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>travel</title>
-      <link>https://jananiravi.github.io/tags/travel/</link>
-      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jananiravi.github.io/tags/travel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tree-of-life</title>
-      <link>https://jananiravi.github.io/tags/tree-of-life/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://jananiravi.github.io/tags/tree-of-life/</guid>
       <description></description>
     </item>
     

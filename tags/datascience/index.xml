@@ -7,30 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
-    <lastBuildDate>Fri, 15 Feb 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://jananiravi.github.io/tags/datascience/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Computational Pathogenomics Group</title>
-      <link>https://jananiravi.github.io/group/</link>
-      <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://jananiravi.github.io/group/</guid>
-      <description>People PI Janani Ravi Pathobiology and Diagnostic Investigation, College of Veterinary Medicine, Michigan State University. GitHub | Twitter | Webpage, MSU Webpage
-Students    Name Major/Minor ** GitHub &amp;amp; Social Media     Lauren Sosinski Majors: Biochemistry &amp;amp; Biotechnology; Genomics and Molecular Genetics Minor: CMSE  GitHub Twitter   Philip Calhoun Human Biology (pre-med) Drew Scholar Honors College Dean&amp;rsquo;s List SROP fellowship GitHub   Samuel Chen Computer Science Engineering Honors College Dean&amp;rsquo;s List State Scholarship GitHub   Phoebe Tuyishime Major: Nutritional Sciences Minor: Global Public health and Epidemiology Mastercard Foundation Scholar Justin S.</description>
-    </item>
-    
-    <item>
-      <title>Join us!</title>
-      <link>https://jananiravi.github.io/joinus/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://jananiravi.github.io/joinus/</guid>
-      <description>Research program Our research involves developing computational approaches that can leverage large-scale genomic data to gain actionable insights into infectious disease biology. Specifically, we focus on three key areas:
-i) Identifying genomic signatures, functions, and mechanisms relevant to host-pathogen interactions, to enable understanding and guide diagnosis, ii) Unraveling molecular mechanisms common between genetic and infectious diseases, to guide targeted drug repurposing, and iii) Developing tools and resources for seamlessly relating sequence, structure, and function of genes/proteins in poorly characterized pathogens to enable and guide better prevention, diagnostic and treatment regimen.</description>
-    </item>
     
     <item>
       <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
@@ -48,17 +28,6 @@ i) Identifying genomic signatures, functions, and mechanisms relevant to host-pa
       
       <guid>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</guid>
       <description>Workshop material: GitHub • Google Drive</description>
-    </item>
-    
-    <item>
-      <title>Modeler&#39;s Hippocratic Oath</title>
-      <link>https://jananiravi.github.io/post/2018/modelers-hippocratic-oath/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jananiravi.github.io/post/2018/modelers-hippocratic-oath/</guid>
-      <description>I recently came across the Modeler&amp;rsquo;s Hippocratic Oath while reading Cathy O&amp;rsquo;Neil&amp;rsquo;s &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.
-This was originally written by Emanuel Derman and Paul Wilmott in the wake of the 2008 financial crisis.
-The Oath  I will remember that I didn’t make the world, and it doesn’t satisfy my equations. Though I will use models boldly to estimate value, I will not be overly impressed by mathematics. I will never sacrifice reality for elegance without explaining why I have done so.</description>
     </item>
     
   </channel>

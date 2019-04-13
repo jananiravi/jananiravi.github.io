@@ -7,16 +7,13 @@ categories:
   - Books-Blogs
 tags:
   - books
-  - review
+  # - review
 summary: "My Year in Books: 2016!"
 ---
+Find my latest reads & recommendations on [Goodreads](//goodreads.com/jananiravi)!
 
+### [2016: #MyYearInBooks Summary Stats](https://www.goodreads.com/user/year_in_books/2016/1671098)
+[//]: # ![](//static/img/20170101-goodreads-part1.png){width=450px height=450px}
 
-Check out [2016 #MyYearInBooks](https://www.goodreads.com/user/year_in_books/2016/1671098) on [Goodreads](//goodreads.com/jananiravi)! [\@goodreads](//twitter.com/goodreads)
-
-## 2016: Summary Stats
-![](//static/img/20170101-goodreads-part1.png){width=450px height=450px}
-
-## 2016: Books Read
-![](/post/2016-12-31-goodreads-2016_files/2016-goodreads-part2.png){width=100% height=100%}
-
+### [Books Read](https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2016-reads)
+[//]: # ![](/post/2016-12-31-goodreads-2016_files/2016-goodreads-part2.png){width=100% height=100%}
