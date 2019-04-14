@@ -2,73 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>phylogeny-evolution on Janani Ravi</title>
-    <link>https://jananiravi.github.io/tags/phylogeny-evolution/</link>
+    <link>/tags/phylogeny-evolution/</link>
     <description>Recent content in phylogeny-evolution on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
     <lastBuildDate>Fri, 15 Feb 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://jananiravi.github.io/tags/phylogeny-evolution/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/phylogeny-evolution/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Our Group</title>
-      <link>https://jananiravi.github.io/group/group/</link>
+      <link>/group/group/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/group/group/</guid>
-      <description>PI Janani Ravi Pathobiology and Diagnostic Investigation, College of Veterinary Medicine, Michigan State University. GitHub | Twitter | Webpage, MSU Webpage
-Students Lauren Sosinski Majors: Biochemistry &amp;amp; Biotechnology; Genomics and Molecular Genetics; Minor: CMSE GitHub | Twitter
-Philip Calhoun Human Biology (pre-med) Drew Scholar | Honors College | Dean&amp;rsquo;s List | SROP fellowship GitHub | Twitter
-Samuel Chen Computer Science Engineering Honors College | Dean&amp;rsquo;s List | State Scholarship GitHub</description>
+      <guid>/group/group/</guid>
+      <description>PI Janani Ravi Pathobiology and Diagnostic Investigation, Michigan State University. GitHub | Twitter | Webpage Students           Lauren Sosinski Majors: Biochemistry &amp;amp; Biotechnology; Genomics and Molecular Genetics; Minor: CMSE GitHub; Twitter    Philip Calhoun Human Biology (pre-med) Drew Scholar; Honors College; Dean&amp;rsquo;s List; SROP fellowship GitHub; Twitter    Samuel Chen Computer Science Engineering Honors College; Dean&amp;rsquo;s List; State Scholarship GitHub    Phoebe Tuyishime Major: Nutritional Sciences; Minor: Global Public Health &amp;amp; Epidemiology Mastercard Foundation Scholar; Justin S.</description>
     </item>
     
     <item>
       <title>What we do!</title>
-      <link>https://jananiravi.github.io/group/about/</link>
+      <link>/group/about/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/group/about/</guid>
+      <guid>/group/about/</guid>
       <description>Our research involves developing computational approaches that can leverage large-scale genomic data to gain actionable insights into infectious disease biology. Specifically, we focus on three key areas:
 i) Identifying genomic signatures, functions, and mechanisms relevant to host-pathogen interactions, to enable understanding and guide diagnosis, ii) Unraveling molecular mechanisms common between genetic and infectious diseases, to guide targeted drug repurposing, and iii) Developing tools and resources for seamlessly relating sequence, structure, and function of genes/proteins in poorly characterized pathogens to enable and guide better prevention, diagnostic and treatment regimen.</description>
     </item>
     
     <item>
       <title>Join us!</title>
-      <link>https://jananiravi.github.io/joinus/</link>
+      <link>/joinus/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/joinus/</guid>
+      <guid>/joinus/</guid>
       <description>Open positions Undergraduate Student Research We are looking for highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases. Currently, we prefer students coming in with fellowships/scholarships (e.g., SROP, ENSURE, other department/college-level awards).
 We are happy to train them in many aspects of data-intensive biology. A keen interest in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields, and prior programming experience in R, Python, Perl, and/or C/C++ would be a huge plus.</description>
     </item>
     
     <item>
       <title>Bacterial Stress Response</title>
-      <link>https://jananiravi.github.io/projects/stress-response/</link>
+      <link>/projects/stress-response/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/projects/stress-response/</guid>
+      <guid>/projects/stress-response/</guid>
       <description>Summary During my postdoctoral research at Rutgers University, I focused on using computational approaches to study various facets of host and pathogen biology including:
  delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp); unraveling the evolution of bacterial stress response systems (psp) across the tree of life using protein sequence-structure-function relationships; reconstructing and analyzing the mycobacterial sigma factor regulatory network.</description>
     </item>
     
     <item>
       <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
-      <link>https://jananiravi.github.io/publication/2018/anto/</link>
+      <link>/publication/2018/anto/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/publication/2018/anto/</guid>
+      <guid>/publication/2018/anto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
-      <link>https://jananiravi.github.io/publication/2015/molmicro/</link>
+      <link>/publication/2015/molmicro/</link>
       <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/publication/2015/molmicro/</guid>
+      <guid>/publication/2015/molmicro/</guid>
       <description></description>
     </item>
     

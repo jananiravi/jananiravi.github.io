@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Janani Ravi on Janani Ravi</title>
-    <link>https://jananiravi.github.io/</link>
+    <link>/</link>
     <description>Recent content in Janani Ravi on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>What we do!</title>
-      <link>https://jananiravi.github.io/group/about/</link>
+      <link>/group/about/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/group/about/</guid>
+      <guid>/group/about/</guid>
       <description>
 
 &lt;p&gt;Our research involves developing computational approaches that can leverage large-scale genomic data to gain actionable insights into infectious disease biology.
@@ -33,84 +33,92 @@ iii) Developing tools and resources for seamlessly relating sequence, structure,
     
     <item>
       <title>Interests</title>
-      <link>https://jananiravi.github.io/bio/skills/</link>
+      <link>/bio/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/bio/skills/</guid>
+      <guid>/bio/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Our Group</title>
-      <link>https://jananiravi.github.io/group/group/</link>
+      <link>/group/group/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/group/group/</guid>
+      <guid>/group/group/</guid>
       <description>
 
 &lt;h2 id=&#34;pi&#34;&gt;PI&lt;/h2&gt;
 
-&lt;p&gt;&lt;img align=&#34;right&#34; src=&#34;https://jananiravi.github.io/img/jananiravi-webpage-pic.png&#34; width=&#34;250&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img align=&#34;right&#34; src=&#34;/img/jananiravi-webpage-pic.png&#34; width=&#34;250&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;Janani Ravi &lt;br&gt;
 &lt;a href=&#34;//cvm.msu.edu/pdi&#34; target=&#34;_blank&#34;&gt;Pathobiology and Diagnostic Investigation&lt;/a&gt;, &lt;br&gt;
-&lt;a href=&#34;//cvm.msu.edu&#34; target=&#34;_blank&#34;&gt;College of Veterinary Medicine&lt;/a&gt;, Michigan State University. &lt;br&gt;
-&lt;a href=&#34;https://github.com/jananiravi&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/janani137&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;//jananiravi.github.io&#34; target=&#34;_blank&#34;&gt;Webpage&lt;/a&gt;, &lt;a href=&#34;https://www.cvm.msu.edu/directory/ravi&#34; target=&#34;_blank&#34;&gt;MSU Webpage&lt;/a&gt;&lt;/p&gt;
+Michigan State University. &lt;br&gt;
+&lt;a href=&#34;https://github.com/jananiravi&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/janani137&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;//jananiravi.github.io&#34; target=&#34;_blank&#34;&gt;Webpage&lt;/a&gt;
+&lt;br&gt; &lt;br&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
 
-&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;https://jananiravi.github.io/img/laurensosinski.jpg&#34; width=&#34;100&#34;/&gt;
- Lauren Sosinski &lt;br&gt;
- Majors: Biochemistry &amp;amp; Biotechnology; Genomics and Molecular Genetics; Minor: CMSE &lt;br&gt;
- &lt;a href=&#34;https://github.com/sosinsk7&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/sosinsk7&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;https://jananiravi.github.io/img/philipcalhoun.png&#34; width=&#34;100&#34;/&gt;
-Philip Calhoun &lt;br&gt;
-Human Biology (pre-med) &lt;br&gt;
-Drew Scholar | Honors College | Dean&amp;rsquo;s List | SROP fellowship &lt;br&gt;
-&lt;a href=&#34;https://github.com/calhou67&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/PhilipCalhoun5&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img align=&#34;left&#34; src=&#34;/img/laurensosinski.jpg&#34; width=&#34;100&#34;/&gt;&lt;/td&gt;
+&lt;td&gt;Lauren Sosinski &lt;br&gt;  Majors: Biochemistry &amp;amp; Biotechnology; Genomics and Molecular Genetics; Minor: CMSE &lt;br&gt; &lt;a href=&#34;https://github.com/sosinsk7&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;; &lt;a href=&#34;https://twitter.com/sosinsk7&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;https://jananiravi.github.io/img/samuelchen.png&#34; width=&#34;100&#34;/&gt;
- Samuel Chen &lt;br&gt;
- Computer Science Engineering &lt;br&gt;
- Honors College | Dean&amp;rsquo;s List | State Scholarship &lt;br&gt;
- &lt;a href=&#34;https://github.com/samuel19chen&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img align=&#34;left&#34; src=&#34;/img/philipcalhoun.png&#34; width=&#34;100&#34;/&gt;&lt;/td&gt;
+&lt;td&gt;Philip Calhoun &lt;br&gt; Human Biology (pre-med) &lt;br&gt; Drew Scholar; Honors College; Dean&amp;rsquo;s List; SROP fellowship &lt;br&gt; &lt;a href=&#34;https://github.com/calhou67&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;; &lt;a href=&#34;https://twitter.com/PhilipCalhoun5&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;https://jananiravi.github.io/img/phoebetuyishime.jpg&#34; width=&#34;100&#34;/&gt;
-Phoebe Tuyishime &lt;br&gt;
-Major: Nutritional Sciences; Minor: Global Public Health &amp;amp; Epidemiology &lt;br&gt;
-Mastercard Foundation Scholar | Justin S. Morrill Leadership Fellow: CANR |
-Food and Nutrition Database Research Center, UG Teaching Assistant: FSHN. &lt;br&gt;
-&lt;a href=&#34;https://github.com/tuyishi1&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/tuyishimephoebe&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;https://www.canr.msu.edu/people/phoebe-tuyishime&#34; target=&#34;_blank&#34;&gt;Webpage&lt;/a&gt;&lt;/p&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img align=&#34;left&#34; src=&#34;/img/samuelchen.png&#34; width=&#34;100&#34;/&gt;&lt;/td&gt;
+&lt;td&gt;Samuel Chen &lt;br&gt; Computer Science Engineering &lt;br&gt; Honors College; Dean&amp;rsquo;s List; State Scholarship &lt;br&gt; &lt;a href=&#34;https://github.com/samuel19chen&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;h3 id=&#34;join-us-joinus&#34;&gt;&lt;a href=&#34;https://jananiravi.github.io/joinus&#34;&gt;Join Us&lt;/a&gt;&lt;/h3&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img align=&#34;left&#34; src=&#34;/img/phoebetuyishime.jpg&#34; width=&#34;100&#34;/&gt;&lt;/td&gt;
+&lt;td&gt;Phoebe Tuyishime &lt;br&gt; Major: Nutritional Sciences; Minor: Global Public Health &amp;amp; Epidemiology &lt;br&gt; Mastercard Foundation Scholar; Justin S. Morrill Leadership Fellow; &lt;br&gt; Food and Nutrition Database Research Center, UG Teaching Assistant. &lt;br&gt; &lt;a href=&#34;https://github.com/tuyishi1&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;; &lt;a href=&#34;https://twitter.com/tuyishimephoebe&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;; &lt;a href=&#34;https://www.canr.msu.edu/people/phoebe-tuyishime&#34; target=&#34;_blank&#34;&gt;Webpage&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;join-us-joinus&#34;&gt;&lt;a href=&#34;/joinus&#34;&gt;Join Us&lt;/a&gt;!&lt;/h3&gt;
 </description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://jananiravi.github.io/bio/experience/</link>
+      <link>/bio/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/bio/experience/</guid>
+      <guid>/bio/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Tidyverse for Genomics workshop</title>
-      <link>https://jananiravi.github.io/talk/using-tidyverse-for-genomics-workshop/</link>
+      <link>/talk/using-tidyverse-for-genomics-workshop/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/using-tidyverse-for-genomics-workshop/</guid>
+      <guid>/talk/using-tidyverse-for-genomics-workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Join us!</title>
-      <link>https://jananiravi.github.io/joinus/</link>
+      <link>/joinus/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/joinus/</guid>
+      <guid>/joinus/</guid>
       <description>
 
 &lt;h1 id=&#34;open-positions&#34;&gt;Open positions&lt;/h1&gt;
@@ -146,28 +154,28 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     
     <item>
       <title>Simple rules to make an effective scientific presentation</title>
-      <link>https://jananiravi.github.io/talk/simple-rules-to-make-an-effective-scientific-presentation/</link>
+      <link>/talk/simple-rules-to-make-an-effective-scientific-presentation/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/simple-rules-to-make-an-effective-scientific-presentation/</guid>
+      <guid>/talk/simple-rules-to-make-an-effective-scientific-presentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tidyverse workshop</title>
-      <link>https://jananiravi.github.io/talk/tidyverse-workshop/</link>
+      <link>/talk/tidyverse-workshop/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/tidyverse-workshop/</guid>
+      <guid>/talk/tidyverse-workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2018: Year in Review | RLEL</title>
-      <link>https://jananiravi.github.io/post/2019/rlel-2018/</link>
+      <link>/post/2019/rlel-2018/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2019/rlel-2018/</guid>
+      <guid>/post/2019/rlel-2018/</guid>
       <description>
 
 &lt;p&gt;Thanks to everyone who attended, participated or sponsored &lt;a href=&#34;https://rladies-eastlansing.github.io&#34; target=&#34;_blank&#34;&gt;R-Ladies East Lansing&lt;/a&gt; in 2018! We had a fantastic start &amp;amp; a very successful first 6mo &lt;a href=&#34;http://bit.ly/rlel-venue&#34; target=&#34;_blank&#34;&gt;on campus&lt;/a&gt;! We hosted 7 meetups since July 2018 including two very well-attended workshops (70+ attendees) and a DataViz challenge! Help us continue spreading the R &amp;amp; Data Science spirit across MSU in 2019! Contact us &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_blank&#34;&gt;eastlansing@rladies.org&lt;/a&gt; about co-hosting or sponsoring a meetup/workshop in Spring 2019. As always, R-Ladies events are open to all R-users across all levels of expertise including students, faculty and staff, and non-MSU folks.&lt;/p&gt;
@@ -186,7 +194,7 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
 
 &lt;h2 id=&#34;2018-sponsors&#34;&gt;2018 Sponsors&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://jananiravi.github.io/rlel-2018/index_files/rlel-sponsors-2018.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/rlel-2018/index_files/rlel-sponsors-2018.jpg&#34; alt=&#34;&#34; /&gt;
 Grand Traverse Pie (2018-12) | Business Analytics (2018-11) | SSDA (2018-10) |
 Krishnan Lab (2018-09) | College of Veterinary Medicine (2018-09) |
 BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
@@ -257,8 +265,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/2018-rlel-sponsors.png&#34; data-caption=&#34;2018: Meetup Sponsors&#34;&gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/2018-rlel-sponsors.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/rlel-2018/gallery/2018-rlel-sponsors.png&#34; data-caption=&#34;2018: Meetup Sponsors&#34;&gt;
+  &lt;img src=&#34;/post/2019/rlel-2018/gallery/2018-rlel-sponsors.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -271,8 +279,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180706-rlel-chicago.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180706-rlel-chicago.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/rlel-2018/gallery/20180706-rlel-chicago.jpg&#34; &gt;
+  &lt;img src=&#34;/post/2019/rlel-2018/gallery/20180706-rlel-chicago.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -285,8 +293,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180725-kickoff-activities.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180725-kickoff-activities.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/rlel-2018/gallery/20180725-kickoff-activities.jpg&#34; &gt;
+  &lt;img src=&#34;/post/2019/rlel-2018/gallery/20180725-kickoff-activities.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -299,8 +307,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180725-kickoff-group.jpg&#34; data-caption=&#34;July 2018: Kickoff meeting&#34;&gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180725-kickoff-group.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/rlel-2018/gallery/20180725-kickoff-group.jpg&#34; data-caption=&#34;July 2018: Kickoff meeting&#34;&gt;
+  &lt;img src=&#34;/post/2019/rlel-2018/gallery/20180725-kickoff-group.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -313,8 +321,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180813-collage.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180813-collage.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/rlel-2018/gallery/20180813-collage.jpg&#34; &gt;
+  &lt;img src=&#34;/post/2019/rlel-2018/gallery/20180813-collage.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -327,8 +335,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180826-rladies-collage.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180826-rladies-collage.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/rlel-2018/gallery/20180826-rladies-collage.jpg&#34; &gt;
+  &lt;img src=&#34;/post/2019/rlel-2018/gallery/20180826-rladies-collage.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -341,8 +349,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180910-collage.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180910-collage.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/rlel-2018/gallery/20180910-collage.jpg&#34; &gt;
+  &lt;img src=&#34;/post/2019/rlel-2018/gallery/20180910-collage.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -355,8 +363,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180924-collage.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20180924-collage.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/rlel-2018/gallery/20180924-collage.jpg&#34; &gt;
+  &lt;img src=&#34;/post/2019/rlel-2018/gallery/20180924-collage.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -369,8 +377,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20181008-collage.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20181008-collage.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/rlel-2018/gallery/20181008-collage.jpg&#34; &gt;
+  &lt;img src=&#34;/post/2019/rlel-2018/gallery/20181008-collage.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -383,8 +391,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20181105-collage.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20181105-collage.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/rlel-2018/gallery/20181105-collage.jpg&#34; &gt;
+  &lt;img src=&#34;/post/2019/rlel-2018/gallery/20181105-collage.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -397,8 +405,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20181203-collage.jpg&#34; &gt;
-  &lt;img src=&#34;https://jananiravi.github.io/post/2019/rlel-2018/gallery/20181203-collage.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/rlel-2018/gallery/20181203-collage.jpg&#34; &gt;
+  &lt;img src=&#34;/post/2019/rlel-2018/gallery/20181203-collage.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -458,10 +466,10 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
     <item>
       <title>2019: RLEL Upcoming Events</title>
-      <link>https://jananiravi.github.io/post/2019/rlel-2019-upcoming/</link>
+      <link>/post/2019/rlel-2019-upcoming/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2019/rlel-2019-upcoming/</guid>
+      <guid>/post/2019/rlel-2019-upcoming/</guid>
       <description>
 
 &lt;h2 id=&#34;a-little-background&#34;&gt;A little background&lt;/h2&gt;
@@ -587,10 +595,10 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     
     <item>
       <title>2018: Year in Books | Goodreads</title>
-      <link>https://jananiravi.github.io/post/2019/goodreads-2018/</link>
+      <link>/post/2019/goodreads-2018/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2019/goodreads-2018/</guid>
+      <guid>/post/2019/goodreads-2018/</guid>
       <description>
 
 
@@ -606,20 +614,20 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     
     <item>
       <title>Useful Resources</title>
-      <link>https://jananiravi.github.io/post/2018/useful-resources/</link>
+      <link>/post/2018/useful-resources/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2018/useful-resources/</guid>
+      <guid>/post/2018/useful-resources/</guid>
       <description>
 
 
-&lt;p&gt;&lt;em&gt;My posts with some &lt;a href=&#34;https://jananiravi.github.io/categories/resources&#34;&gt;#useful-resources&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;My posts with some &lt;a href=&#34;/categories/resources&#34;&gt;#useful-resources&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;div id=&#34;great-posts-academic&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Great posts | academic&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&#34;&gt;The Awesomest 7-year Postdoc &lt;em&gt;by&lt;/em&gt; Radhika Nagpal | Scientific American&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2016/matt-might-blog/&#34;&gt;Matt Might’s Blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler’s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/2016/matt-might-blog/&#34;&gt;Matt Might’s Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler’s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;bioinformatics&#34; class=&#34;section level2&#34;&gt;
@@ -636,7 +644,7 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
 &lt;div id=&#34;r&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;R&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/&#34;&gt;R resources&lt;/a&gt; &lt;em&gt;by&lt;/em&gt; &lt;a href=&#34;paulvanderlaken.com&#34;&gt;Paul Vanderlaken&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Related post: &lt;a href=&#34;https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/&#34;&gt;R Tips and Tricks&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -676,10 +684,10 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     
     <item>
       <title>Bacterial Stress Response</title>
-      <link>https://jananiravi.github.io/projects/stress-response/</link>
+      <link>/projects/stress-response/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/projects/stress-response/</guid>
+      <guid>/projects/stress-response/</guid>
       <description>
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
@@ -696,9 +704,9 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
 
 &lt;ul&gt;
 &lt;li&gt;The evolution, conservation, and covariation of the Psp envelope-stress-response system across the tree of life, &lt;em&gt;in preparation.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/publication/2018/anto&#34;&gt;Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/publication/2015/molmicro&#34;&gt;The Psp system of &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; integrates envelope stress-sensing and envelope-preserving functions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/publication/2016/natcomm&#34;&gt;Reconstruction and topological characterization of the sigma factor regulatory network of &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/publication/2018/anto&#34;&gt;Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/publication/2015/molmicro&#34;&gt;The Psp system of &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; integrates envelope stress-sensing and envelope-preserving functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/publication/2016/natcomm&#34;&gt;Reconstruction and topological characterization of the sigma factor regulatory network of &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
@@ -737,10 +745,10 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     
     <item>
       <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
-      <link>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</link>
+      <link>/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</guid>
+      <guid>/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Workshop material: &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; • &lt;a href=&#34;https://bit.ly/rlel-20181105&#34; target=&#34;_blank&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
@@ -749,10 +757,10 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     
     <item>
       <title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title>
-      <link>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</link>
+      <link>/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</guid>
+      <guid>/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201810-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Workshop material: &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181008-workshop-dataviz&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; • &lt;a href=&#34;https://drive.google.com/drive/folders/1tSrhZ_TymJfxeZbe8hAdtPjcmhoeAJls?usp=sharing&#34; target=&#34;_blank&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;

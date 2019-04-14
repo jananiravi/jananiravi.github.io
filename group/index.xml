@@ -2,36 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Janani Ravi</title>
-    <link>https://jananiravi.github.io/group/</link>
+    <link>/group/</link>
     <description>Recent content in Research on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
     <lastBuildDate>Fri, 05 Apr 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://jananiravi.github.io/group/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/group/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What we do!</title>
-      <link>https://jananiravi.github.io/group/about/</link>
+      <link>/group/about/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/group/about/</guid>
+      <guid>/group/about/</guid>
       <description>Our research involves developing computational approaches that can leverage large-scale genomic data to gain actionable insights into infectious disease biology. Specifically, we focus on three key areas:
 i) Identifying genomic signatures, functions, and mechanisms relevant to host-pathogen interactions, to enable understanding and guide diagnosis, ii) Unraveling molecular mechanisms common between genetic and infectious diseases, to guide targeted drug repurposing, and iii) Developing tools and resources for seamlessly relating sequence, structure, and function of genes/proteins in poorly characterized pathogens to enable and guide better prevention, diagnostic and treatment regimen.</description>
     </item>
     
     <item>
       <title>Our Group</title>
-      <link>https://jananiravi.github.io/group/group/</link>
+      <link>/group/group/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/group/group/</guid>
-      <description>PI Janani Ravi Pathobiology and Diagnostic Investigation, College of Veterinary Medicine, Michigan State University. GitHub | Twitter | Webpage, MSU Webpage
-Students Lauren Sosinski Majors: Biochemistry &amp;amp; Biotechnology; Genomics and Molecular Genetics; Minor: CMSE GitHub | Twitter
-Philip Calhoun Human Biology (pre-med) Drew Scholar | Honors College | Dean&amp;rsquo;s List | SROP fellowship GitHub | Twitter
-Samuel Chen Computer Science Engineering Honors College | Dean&amp;rsquo;s List | State Scholarship GitHub</description>
+      <guid>/group/group/</guid>
+      <description>PI Janani Ravi Pathobiology and Diagnostic Investigation, Michigan State University. GitHub | Twitter | Webpage Students           Lauren Sosinski Majors: Biochemistry &amp;amp; Biotechnology; Genomics and Molecular Genetics; Minor: CMSE GitHub; Twitter    Philip Calhoun Human Biology (pre-med) Drew Scholar; Honors College; Dean&amp;rsquo;s List; SROP fellowship GitHub; Twitter    Samuel Chen Computer Science Engineering Honors College; Dean&amp;rsquo;s List; State Scholarship GitHub    Phoebe Tuyishime Major: Nutritional Sciences; Minor: Global Public Health &amp;amp; Epidemiology Mastercard Foundation Scholar; Justin S.</description>
     </item>
     
   </channel>

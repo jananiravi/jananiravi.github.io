@@ -2,220 +2,220 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Janani Ravi</title>
-    <link>https://jananiravi.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
     <lastBuildDate>Tue, 14 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jananiravi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>India</title>
-      <link>https://jananiravi.github.io/tags/india/</link>
+      <link>/tags/india/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/india/</guid>
+      <guid>/tags/india/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Psp</title>
-      <link>https://jananiravi.github.io/tags/psp/</link>
+      <link>/tags/psp/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/psp/</guid>
+      <guid>/tags/psp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://jananiravi.github.io/tags/r/</link>
+      <link>/tags/r/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/r/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>academic</title>
-      <link>https://jananiravi.github.io/tags/academic/</link>
+      <link>/tags/academic/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/academic/</guid>
+      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blogs</title>
-      <link>https://jananiravi.github.io/tags/blogs/</link>
+      <link>/tags/blogs/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/blogs/</guid>
+      <guid>/tags/blogs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>books</title>
-      <link>https://jananiravi.github.io/tags/books/</link>
+      <link>/tags/books/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/books/</guid>
+      <guid>/tags/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>compbio-bioinfo</title>
-      <link>https://jananiravi.github.io/tags/compbio-bioinfo/</link>
+      <link>/tags/compbio-bioinfo/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/compbio-bioinfo/</guid>
+      <guid>/tags/compbio-bioinfo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data-science</title>
-      <link>https://jananiravi.github.io/tags/data-science/</link>
+      <link>/tags/data-science/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/data-science/</guid>
+      <guid>/tags/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>datascience</title>
-      <link>https://jananiravi.github.io/tags/datascience/</link>
+      <link>/tags/datascience/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/datascience/</guid>
+      <guid>/tags/datascience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dynamical-systems</title>
-      <link>https://jananiravi.github.io/tags/dynamical-systems/</link>
+      <link>/tags/dynamical-systems/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/dynamical-systems/</guid>
+      <guid>/tags/dynamical-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>evolution</title>
-      <link>https://jananiravi.github.io/tags/evolution/</link>
+      <link>/tags/evolution/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/evolution/</guid>
+      <guid>/tags/evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://jananiravi.github.io/tags/git/</link>
+      <link>/tags/git/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/git/</guid>
+      <guid>/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>host/pathogen</title>
-      <link>https://jananiravi.github.io/tags/host-pathogen/</link>
+      <link>/tags/host-pathogen/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/host-pathogen/</guid>
+      <guid>/tags/host-pathogen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jobs</title>
-      <link>https://jananiravi.github.io/tags/jobs/</link>
+      <link>/tags/jobs/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/jobs/</guid>
+      <guid>/tags/jobs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lipid-metabolism</title>
-      <link>https://jananiravi.github.io/tags/lipid-metabolism/</link>
+      <link>/tags/lipid-metabolism/</link>
       <pubDate>Thu, 31 Dec 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/lipid-metabolism/</guid>
+      <guid>/tags/lipid-metabolism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>math-modeling</title>
-      <link>https://jananiravi.github.io/tags/math-modeling/</link>
+      <link>/tags/math-modeling/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/math-modeling/</guid>
+      <guid>/tags/math-modeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>phylogeny-evolution</title>
-      <link>https://jananiravi.github.io/tags/phylogeny-evolution/</link>
+      <link>/tags/phylogeny-evolution/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/phylogeny-evolution/</guid>
+      <guid>/tags/phylogeny-evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>https://jananiravi.github.io/tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>refs</title>
-      <link>https://jananiravi.github.io/tags/refs/</link>
+      <link>/tags/refs/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/refs/</guid>
+      <guid>/tags/refs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>research</title>
-      <link>https://jananiravi.github.io/tags/research/</link>
+      <link>/tags/research/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/research/</guid>
+      <guid>/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rladies</title>
-      <link>https://jananiravi.github.io/tags/rladies/</link>
+      <link>/tags/rladies/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/rladies/</guid>
+      <guid>/tags/rladies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>software-tools</title>
-      <link>https://jananiravi.github.io/tags/software-tools/</link>
+      <link>/tags/software-tools/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/software-tools/</guid>
+      <guid>/tags/software-tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stress-response</title>
-      <link>https://jananiravi.github.io/tags/stress-response/</link>
+      <link>/tags/stress-response/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/tags/stress-response/</guid>
+      <guid>/tags/stress-response/</guid>
       <description></description>
     </item>
     

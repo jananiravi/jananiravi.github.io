@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lipid-metabolism on Janani Ravi</title>
-    <link>https://jananiravi.github.io/tags/lipid-metabolism/</link>
+    <link>/tags/lipid-metabolism/</link>
     <description>Recent content in lipid-metabolism on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
     <lastBuildDate>Thu, 31 Dec 2015 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://jananiravi.github.io/tags/lipid-metabolism/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/lipid-metabolism/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>TB &amp; Lipid metabolism</title>
-      <link>https://jananiravi.github.io/projects/lipid-metabolism/</link>
+      <link>/projects/lipid-metabolism/</link>
       <pubDate>Thu, 31 Dec 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/projects/lipid-metabolism/</guid>
+      <guid>/projects/lipid-metabolism/</guid>
       <description>Summary In addition to stress-response systems on the pathogenic side, I studied some host responses to M. tuberculosis infection using computational approaches as well:
  characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis; understanding the dysregulation of lipid metabolism in M. tuberculosis-infected macrophages using dynamic Bayesian model and statistical analyses of heterogeneous single-cell populations.  Related publications  Lipid Metabolism and TB, in preparation.</description>
     </item>

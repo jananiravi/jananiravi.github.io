@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>research on Janani Ravi</title>
-    <link>https://jananiravi.github.io/tags/research/</link>
+    <link>/tags/research/</link>
     <description>Recent content in research on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
     <lastBuildDate>Fri, 15 Feb 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://jananiravi.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Using Tidyverse for Genomics workshop</title>
-      <link>https://jananiravi.github.io/talk/using-tidyverse-for-genomics-workshop/</link>
+      <link>/talk/using-tidyverse-for-genomics-workshop/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/using-tidyverse-for-genomics-workshop/</guid>
+      <guid>/talk/using-tidyverse-for-genomics-workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple rules to make an effective scientific presentation</title>
-      <link>https://jananiravi.github.io/talk/simple-rules-to-make-an-effective-scientific-presentation/</link>
+      <link>/talk/simple-rules-to-make-an-effective-scientific-presentation/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/simple-rules-to-make-an-effective-scientific-presentation/</guid>
+      <guid>/talk/simple-rules-to-make-an-effective-scientific-presentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tidyverse workshop</title>
-      <link>https://jananiravi.github.io/talk/tidyverse-workshop/</link>
+      <link>/talk/tidyverse-workshop/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/tidyverse-workshop/</guid>
+      <guid>/talk/tidyverse-workshop/</guid>
       <description></description>
     </item>
     

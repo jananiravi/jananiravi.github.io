@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jobs on Janani Ravi</title>
-    <link>https://jananiravi.github.io/tags/jobs/</link>
+    <link>/tags/jobs/</link>
     <description>Recent content in jobs on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
     <lastBuildDate>Tue, 15 Jan 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://jananiravi.github.io/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Join us!</title>
-      <link>https://jananiravi.github.io/joinus/</link>
+      <link>/joinus/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/joinus/</guid>
+      <guid>/joinus/</guid>
       <description>Open positions Undergraduate Student Research We are looking for highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases. Currently, we prefer students coming in with fellowships/scholarships (e.g., SROP, ENSURE, other department/college-level awards).
 We are happy to train them in many aspects of data-intensive biology. A keen interest in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields, and prior programming experience in R, Python, Perl, and/or C/C++ would be a huge plus.</description>
     </item>

@@ -2,114 +2,114 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>software-tools on Janani Ravi</title>
-    <link>https://jananiravi.github.io/tags/software-tools/</link>
+    <link>/tags/software-tools/</link>
     <description>Recent content in software-tools on Janani Ravi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Janani Ravi, 2018</copyright>
     <lastBuildDate>Fri, 15 Feb 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://jananiravi.github.io/tags/software-tools/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/software-tools/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Using Tidyverse for Genomics workshop</title>
-      <link>https://jananiravi.github.io/talk/using-tidyverse-for-genomics-workshop/</link>
+      <link>/talk/using-tidyverse-for-genomics-workshop/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/using-tidyverse-for-genomics-workshop/</guid>
+      <guid>/talk/using-tidyverse-for-genomics-workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple rules to make an effective scientific presentation</title>
-      <link>https://jananiravi.github.io/talk/simple-rules-to-make-an-effective-scientific-presentation/</link>
+      <link>/talk/simple-rules-to-make-an-effective-scientific-presentation/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/simple-rules-to-make-an-effective-scientific-presentation/</guid>
+      <guid>/talk/simple-rules-to-make-an-effective-scientific-presentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tidyverse workshop</title>
-      <link>https://jananiravi.github.io/talk/tidyverse-workshop/</link>
+      <link>/talk/tidyverse-workshop/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/tidyverse-workshop/</guid>
+      <guid>/talk/tidyverse-workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2018: Year in Review | RLEL</title>
-      <link>https://jananiravi.github.io/post/2019/rlel-2018/</link>
+      <link>/post/2019/rlel-2018/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2019/rlel-2018/</guid>
+      <guid>/post/2019/rlel-2018/</guid>
       <description>Thanks to everyone who attended, participated or sponsored R-Ladies East Lansing in 2018! We had a fantastic start &amp;amp; a very successful first 6mo on campus! We hosted 7 meetups since July 2018 including two very well-attended workshops (70+ attendees) and a DataViz challenge! Help us continue spreading the R &amp;amp; Data Science spirit across MSU in 2019! Contact us eastlansing@rladies.org about co-hosting or sponsoring a meetup/workshop in Spring 2019.</description>
     </item>
     
     <item>
       <title>2019: RLEL Upcoming Events</title>
-      <link>https://jananiravi.github.io/post/2019/rlel-2019-upcoming/</link>
+      <link>/post/2019/rlel-2019-upcoming/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2019/rlel-2019-upcoming/</guid>
+      <guid>/post/2019/rlel-2019-upcoming/</guid>
       <description>A little background R-Ladies East Lansing welcomes R-enthusiasts of all proficiency levels, including aspiring and experienced R programmers, who are interested in mentoring, networking &amp;amp; expertise upskilling. This non-profit, civil society community is designed to develop members’ R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!
 Anyone and everyone interested in R/Data Science should join the group.</description>
     </item>
     
     <item>
       <title>Useful Resources</title>
-      <link>https://jananiravi.github.io/post/2018/useful-resources/</link>
+      <link>/post/2018/useful-resources/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2018/useful-resources/</guid>
+      <guid>/post/2018/useful-resources/</guid>
       <description>My posts with some #useful-resources.
 Great posts | academic  The Awesomest 7-year Postdoc by Radhika Nagpal | Scientific American Matt Might’s Blog Modeler’s Hippocratic oath   Bioinformatics  Microbial Bioinformatics Starter Kit by Lauren Cowley Microbial genome annotation by Michael Eisen  Twitter thread &amp;amp; moment  Tools for bacterial comparative genomes by Holt lab   R  Git, GitHub and R R resources by Paul Vanderlaken Related post: R Tips and Tricks   Data Visualization  Plotting trees + data by Holt Lab   Blogdown, Hugo, Academic &amp;amp; R Markdown  Blogdown: Creating websites with R Markdown by Yihui Xie Hugo  Hugo discussion forum  Hugo Academic by George Cushen  Academic  R Markdown Building your blog using blogdown by Marie Dussault   Blogging tips  Lifehacker 6 tips for low-cost academic blogging by Matt Might Ready to start your data science blog?</description>
     </item>
     
     <item>
       <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
-      <link>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</link>
+      <link>/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</guid>
+      <guid>/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</guid>
       <description>Workshop material: GitHub • Google Drive</description>
     </item>
     
     <item>
       <title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title>
-      <link>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</link>
+      <link>/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</guid>
+      <guid>/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</guid>
       <description>Workshop material: GitHub • Google Drive</description>
     </item>
     
     <item>
       <title>Launching R-Ladies East Lansing!</title>
-      <link>https://jananiravi.github.io/post/2018/rlel-launch/</link>
+      <link>/post/2018/rlel-launch/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2018/rlel-launch/</guid>
+      <guid>/post/2018/rlel-launch/</guid>
       <description>Welcome to our new chapter!  What we’re about R-Ladies East Lansing is a local chapter of R-Ladies Global. We meet to discuss, learn, teach, present, work on all things R! Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. The group exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities.</description>
     </item>
     
     <item>
       <title>R-Ladies East Lansing</title>
-      <link>https://jananiravi.github.io/projects/rladies-eastlansing/</link>
+      <link>/projects/rladies-eastlansing/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jananiravi.github.io/projects/rladies-eastlansing/</guid>
+      <guid>/projects/rladies-eastlansing/</guid>
       <description>R-Ladies East Lansing Posts &amp;amp; Workshops</description>
     </item>
     
     <item>
       <title>Useful Git/GitHub links</title>
-      <link>https://jananiravi.github.io/post/2018/git-github-links/</link>
+      <link>/post/2018/git-github-links/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jananiravi.github.io/post/2018/git-github-links/</guid>
+      <guid>/post/2018/git-github-links/</guid>
       <description> See also:  My tweet dated: 2017-03-11 Resources for more links related to Blogdown, Rmarkdown &amp;amp; GitHub   Git  Version control with Git on Software Carpentry Git workflow for beginners Mozilla Git Getting started with Git Git, the simple guide Git exercises GitHowTo Introduction to Git and command line Friendly introduction to Git, Jane Git for humans, slides by Bartlett Learn Git branching Git cheat sheet and best practices Getting yourself out of a Git mess Try Git   Git and GitHub  GitHub tutorial, Broman New GitHub repo Git &amp;amp; Github | Seankross GitHub on Mac   R and Git  R with Git and GitHub   GitHub Pages, Gists | Jekyll  Github pages #1 #2 Creating gists on Github Jekyll GCC Ruby Ruby Gems   </description>
     </item>
     
