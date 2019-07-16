@@ -1,713 +1,585 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    <url>
-    
-      <loc>/group/about/</loc>
-      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-  
-    
-    <url>
-    
-      <loc>/group/group/</loc>
-      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-  
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/bio/</loc>
-      <lastmod>2019-04-05T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/group/</loc>
-      <lastmod>2019-04-05T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/using-tidyverse-for-genomics-workshop/</loc>
-      <lastmod>2019-02-15T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/joinus/</loc>
-      <lastmod>2019-03-25T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/simple-rules-to-make-an-effective-scientific-presentation/</loc>
-      <lastmod>2019-01-15T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/tidyverse-workshop/</loc>
-      <lastmod>2019-01-15T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2019/rlel-2018/</loc>
-      <lastmod>2019-01-15T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2019/rlel-2019-upcoming/</loc>
-      <lastmod>2019-01-15T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2019/goodreads-2018/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2018/useful-resources/</loc>
-      <lastmod>2018-11-12T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/projects/stress-response/</loc>
-      <lastmod>2018-11-07T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</loc>
-      <lastmod>2018-11-05T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</loc>
-      <lastmod>2018-10-08T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2018/rlel-launch/</loc>
-      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2018/modelers-hippocratic-oath/</loc>
-      <lastmod>2018-05-24T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/projects/rladies-eastlansing/</loc>
-      <lastmod>2018-05-07T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/reading/</loc>
-      <lastmod>2018-05-07T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/resources/</loc>
-      <lastmod>2018-05-07T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2018/git-github-links/</loc>
-      <lastmod>2018-05-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/2018/anto/</loc>
-      <lastmod>2018-02-27T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2017/goodreads-2017/</loc>
-      <lastmod>2017-12-31T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2017/black-swan-nassim-taleb/</loc>
-      <lastmod>2017-04-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/evolution-and-conservation-of-the-psp-envelope-stress-response-system/</loc>
-      <lastmod>2017-04-01T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2017/j1-visa-waiver-nori/</loc>
-      <lastmod>2017-03-14T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/using-computational-appraches-to-understand-host-pathogen-biology/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2017/goodreads-2015/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2017/goodreads-2016/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2016/becoming-steve-jobs/</loc>
-      <lastmod>2016-10-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/microbial-mechanosensing-phage-shock-protein-response-system-in-gram-positive-bacteria/</loc>
-      <lastmod>2016-06-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2016/matt-might-blog/</loc>
-      <lastmod>2016-05-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2016/ramanujan/</loc>
-      <lastmod>2016-04-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/2016/natcomm/</loc>
-      <lastmod>2016-03-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/projects/lipid-metabolism/</loc>
-      <lastmod>2015-12-31T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/stochastic-nature-of-adipogenic-and-inflammatory-responses-in-tuberculous-macrophages/</loc>
-      <lastmod>2015-11-05T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/2015/molmicro/</loc>
-      <lastmod>2015-08-03T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/mathematical-modeling-of-pathways-involved-in-cell-cycle-regulation-and-differentiation/</loc>
-      <lastmod>2014-10-31T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/2014/jimm/</loc>
-      <lastmod>2014-07-01T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/dynamical-systems/</loc>
-      <lastmod>2011-12-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/modeling-the-start-transition-in-the-budding-yeast-cell-cycle/</loc>
-      <lastmod>2011-03-29T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/modeling-the-start-transition-in-the-budding-yeast-cell-cycle/</loc>
-      <lastmod>2009-05-05T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/modeling-the-start-transition-and-size-control-in-budding-yeast/</loc>
-      <lastmod>2009-03-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/modeling-the-start-transition-and-size-control-in-budding-yeast/</loc>
-      <lastmod>2009-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2018-02-27T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/books-blogs/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/india/</loc>
-      <lastmod>2017-03-14T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/projects/</loc>
-      <lastmod>2018-11-07T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/psp/</loc>
-      <lastmod>2017-04-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2018-02-27T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/r/</loc>
-      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/r/</loc>
-      <lastmod>2019-01-15T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/r-ladies/</loc>
-      <lastmod>2019-03-25T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/research/</loc>
-      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/resources/</loc>
-      <lastmod>2019-02-15T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/slides/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/slides/example-slides/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2017-03-14T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2019-02-15T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/blogs/</loc>
-      <lastmod>2019-01-15T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/books/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/compbio-bioinfo/</loc>
-      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/data-science/</loc>
-      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/datascience/</loc>
-      <lastmod>2018-11-05T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/dynamical-systems/</loc>
-      <lastmod>2011-12-01T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/evolution/</loc>
-      <lastmod>2017-04-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/git/</loc>
-      <lastmod>2018-11-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/host-pathogen/</loc>
-      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/jobs/</loc>
-      <lastmod>2019-03-25T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/lipid-metabolism/</loc>
-      <lastmod>2015-12-31T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/math-modeling/</loc>
-      <lastmod>2018-05-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/phylogeny-evolution/</loc>
-      <lastmod>2019-03-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/plot/</loc>
-      <lastmod>2019-02-15T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/refs/</loc>
-      <lastmod>2018-11-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/research/</loc>
-      <lastmod>2019-02-15T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/rladies/</loc>
-      <lastmod>2019-01-15T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/software-tools/</loc>
-      <lastmod>2019-02-15T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/stress-response/</loc>
-      <lastmod>2018-11-07T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jananiravi.github.io/</loc>
+    <lastmod>2019-04-05T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/group/</loc>
+    <lastmod>2019-04-05T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/</loc>
+    <lastmod>2019-03-25T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/categories/</loc>
+    <lastmod>2019-03-25T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/janani-ravi/</loc>
+    <lastmod>2019-03-25T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/praveena-mathews/</loc>
+    <lastmod>2019-03-05T14:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/categories/r/</loc>
+    <lastmod>2019-03-05T14:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/r/</loc>
+    <lastmod>2019-03-25T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/talk/</loc>
+    <lastmod>2019-03-05T14:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/categories/resources/</loc>
+    <lastmod>2019-03-05T14:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/</loc>
+    <lastmod>2019-03-25T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/talk/2019-iitm/</loc>
+    <lastmod>2019-03-05T14:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/compbio-bioinfo/</loc>
+    <lastmod>2019-03-25T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/data-science/</loc>
+    <lastmod>2019-03-25T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/software-tools/</loc>
+    <lastmod>2019-03-05T14:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/talk/2019-plb/</loc>
+    <lastmod>2019-02-13T09:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/academic/</loc>
+    <lastmod>2019-02-13T09:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/categories/research/</loc>
+    <lastmod>2019-01-24T12:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/talk/2019-cvm/</loc>
+    <lastmod>2019-01-24T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/refs/</loc>
+    <lastmod>2019-01-24T12:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/joinus/</loc>
+    <lastmod>2019-03-25T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/categories/r-ladies/</loc>
+    <lastmod>2019-03-25T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/jobs/</loc>
+    <lastmod>2019-03-25T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/phylogeny-evolution/</loc>
+    <lastmod>2019-03-25T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/rlel-2018/rlel-2018/</loc>
+    <lastmod>2019-01-15T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/rlel-upcoming-2019/rlel-2019-upcoming/</loc>
+    <lastmod>2019-01-15T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/bio/</loc>
+    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/</loc>
+    <lastmod>2019-01-15T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/blogs/</loc>
+    <lastmod>2019-01-15T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/rladies/</loc>
+    <lastmod>2019-01-15T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/goodreads-2018/goodreads-2018/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/categories/books-blogs/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/books/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/useful-links/useful-resources/</loc>
+    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/git/</loc>
+    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/projects/stress-response/</loc>
+    <lastmod>2018-11-07T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/projects/</loc>
+    <lastmod>2018-11-07T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/host/pathogen/</loc>
+    <lastmod>2018-11-07T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/stress-response/</loc>
+    <lastmod>2018-11-07T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/nafiseh-haghtalab/</loc>
+    <lastmod>2018-11-05T18:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/talk/2018-rlel-tidydata/</loc>
+    <lastmod>2018-11-05T18:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/cara-feldscher/</loc>
+    <lastmod>2018-10-08T18:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/kayla-johnson/</loc>
+    <lastmod>2018-10-08T18:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/talk/2018-rlel-dataviz/</loc>
+    <lastmod>2018-10-08T18:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/veronica-frans/</loc>
+    <lastmod>2018-10-08T18:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/l-aravind-iyer/</loc>
+    <lastmod>2018-07-09T15:50:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/maria-l-gennaro/</loc>
+    <lastmod>2018-07-09T15:50:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/talk/2018-ismb/</loc>
+    <lastmod>2018-07-09T15:50:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/vivek-anantharaman/</loc>
+    <lastmod>2018-07-09T15:50:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/rlel-launch/rlel-launch/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/math-modeling/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/projects/rladies-eastlansing/</loc>
+    <lastmod>2018-05-07T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/reading/</loc>
+    <lastmod>2018-05-07T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/resources/</loc>
+    <lastmod>2018-05-07T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/git-links/git-github-links/</loc>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/publication_types/2/</loc>
+    <lastmod>2018-02-27T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/publication_types/</loc>
+    <lastmod>2018-02-27T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/publication/</loc>
+    <lastmod>2018-02-27T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/publication/psp-actino/anto/</loc>
+    <lastmod>2018-02-27T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/goodreads-2017/goodreads-2017/</loc>
+    <lastmod>2017-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/black-swan/black-swan-nassim-taleb/</loc>
+    <lastmod>2017-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/talk/2017-asm-tb/</loc>
+    <lastmod>2017-04-03T17:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/india/</loc>
+    <lastmod>2017-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/j1-waiver/j1-visa-waiver-nori/</loc>
+    <lastmod>2017-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/goodreads-2015/goodreads-2015/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/goodreads-2016/goodreads-2016/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/becoming-steve-jobs/becoming-steve-jobs/</loc>
+    <lastmod>2016-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/talk/2016-asm/</loc>
+    <lastmod>2016-06-18T14:45:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/mattmight/matt-might-blog/</loc>
+    <lastmod>2016-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/post/ramanujan/ramanujan/</loc>
+    <lastmod>2016-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/dirk-schnappinger/</loc>
+    <lastmod>2016-03-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/gabor-balazsi/</loc>
+    <lastmod>2016-03-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/kevin-e-bassler/</loc>
+    <lastmod>2016-03-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/pratik-datta/</loc>
+    <lastmod>2016-03-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/publication/sigfac-mtb/natcomm/</loc>
+    <lastmod>2016-03-01T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/rinki-chauhan/</loc>
+    <lastmod>2016-03-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/tian-chen/</loc>
+    <lastmod>2016-03-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/projects/lipid-metabolism/</loc>
+    <lastmod>2015-12-31T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/lipid-metabolism/</loc>
+    <lastmod>2015-12-31T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/talk/2015-rutgers-symp/</loc>
+    <lastmod>2015-11-05T11:45:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/baris-hancioglu/</loc>
+    <lastmod>2015-08-03T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/matt-b-neiditch/</loc>
+    <lastmod>2015-08-03T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/oleg-a-igoshin/</loc>
+    <lastmod>2015-08-03T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/sarah-m-fortune/</loc>
+    <lastmod>2015-08-03T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/scarlet-s-shell/</loc>
+    <lastmod>2015-08-03T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/publication/psp-mtb/molmicro/</loc>
+    <lastmod>2015-08-03T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/valentina-guerrini/</loc>
+    <lastmod>2015-08-03T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/talk/2014-imsc/</loc>
+    <lastmod>2014-10-31T13:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/publication/vitd/jimm/</loc>
+    <lastmod>2014-07-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/hugh-salamon/</loc>
+    <lastmod>2014-07-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/karim-lakehal/</loc>
+    <lastmod>2014-07-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/ken-d-yamaguchi/</loc>
+    <lastmod>2014-07-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/lanbo-shi/</loc>
+    <lastmod>2014-07-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/natalie-bruiners/</loc>
+    <lastmod>2014-07-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/richard-pine/</loc>
+    <lastmod>2014-07-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/dynamical-systems/</loc>
+    <lastmod>2011-12-01T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/tags/dynamical-systems/</loc>
+    <lastmod>2011-12-01T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/talk/2011-cshl/</loc>
+    <lastmod>2011-03-29T18:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/talk/2009-grc/</loc>
+    <lastmod>2009-07-05T13:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/talk/2009-cshl/</loc>
+    <lastmod>2009-03-24T13:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/talk/2009-vt-symp/</loc>
+    <lastmod>2009-03-01T13:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/slides/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jananiravi.github.io/slides/example-slides/</loc>
+  </url>
   
 </urlset>

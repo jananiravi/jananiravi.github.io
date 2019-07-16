@@ -2,114 +2,305 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books-Blogs on Janani Ravi</title>
-    <link>/categories/books-blogs/</link>
+    <link>https://jananiravi.github.io/categories/books-blogs/</link>
     <description>Recent content in Books-Blogs on Janani Ravi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/books-blogs/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jananiravi.github.io/categories/books-blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018: Year in Books | Goodreads</title>
-      <link>/post/2019/goodreads-2018/</link>
+      <link>https://jananiravi.github.io/post/goodreads-2018/goodreads-2018/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/goodreads-2018/</guid>
-      <description> Find my latest reads &amp;amp; recommendations on Goodreads!
-2018: #MyYearInBooks Summary Stats  Book Read  </description>
+      <guid>https://jananiravi.github.io/post/goodreads-2018/goodreads-2018/</guid>
+      <description>
+
+
+&lt;p&gt;Find my latest reads &amp;amp; recommendations on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;!&lt;/p&gt;
+&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2018/1671098&#34;&gt;2018: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&#34;book-read&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2018-reads&#34;&gt;Book Read&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>Modeler&#39;s Hippocratic Oath</title>
-      <link>/post/2018/modelers-hippocratic-oath/</link>
+      <link>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/modelers-hippocratic-oath/</guid>
-      <description>I recently came across the Modeler&amp;rsquo;s Hippocratic Oath while reading Cathy O&amp;rsquo;Neil&amp;rsquo;s &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.
-This was originally written by Emanuel Derman and Paul Wilmott in the wake of the 2008 financial crisis.
-The Oath  I will remember that I didn’t make the world, and it doesn’t satisfy my equations. Though I will use models boldly to estimate value, I will not be overly impressed by mathematics. I will never sacrifice reality for elegance without explaining why I have done so.</description>
+      <guid>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</guid>
+      <description>
+
+&lt;p&gt;I recently came across the &lt;strong&gt;Modeler&amp;rsquo;s Hippocratic Oath&lt;/strong&gt; while reading &lt;a href=&#34;//twitter.com/mathbabedotorg&#34; target=&#34;_blank&#34;&gt;Cathy O&amp;rsquo;Neil&amp;rsquo;s&lt;/a&gt; &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;This was originally written by &lt;a href=&#34;//twitter.com/EmanuelDerman&#34; target=&#34;_blank&#34;&gt;Emanuel Derman&lt;/a&gt; and &lt;a href=&#34;//twitter.com/wilmott&#34; target=&#34;_blank&#34;&gt;Paul Wilmott&lt;/a&gt; in the wake of the 2008 financial crisis.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-oath&#34;&gt;The Oath&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I will remember that I didn’t make the world, and it doesn’t satisfy my equations.&lt;/li&gt;
+&lt;li&gt;Though I will use models boldly to estimate value, I will not be overly impressed by mathematics.&lt;/li&gt;
+&lt;li&gt;I will never sacrifice reality for elegance without explaining why I have done so.&lt;/li&gt;
+&lt;li&gt;Nor will I give the people who use my model false comfort about its accuracy. Instead, I will make explicit its assumptions and oversights.&lt;/li&gt;
+&lt;li&gt;I understand that my work may have enormous effects on society and the economy, many of them beyond my comprehension.
+&lt;img src=&#34;https://jananiravi.github.io/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Reading</title>
-      <link>/reading/</link>
+      <link>https://jananiravi.github.io/reading/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/reading/</guid>
-      <description>Check out my Goodreads profile for my latest reads and recommendations! :)</description>
+      <guid>https://jananiravi.github.io/reading/</guid>
+      <description>&lt;p&gt;Check out my &lt;a href=&#34;//goodreads.com/jananiravi&#34; target=&#34;_blank&#34;&gt;Goodreads&lt;/a&gt; profile for my latest reads and recommendations! :)&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>2017: Year in Books | Goodreads</title>
-      <link>/post/2017/goodreads-2017/</link>
+      <link>https://jananiravi.github.io/post/goodreads-2017/goodreads-2017/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017/goodreads-2017/</guid>
-      <description> Find my latest reads &amp;amp; recommendations on Goodreads!
-2017: #MyYearInBooks Summary Stats  Books Read  </description>
+      <guid>https://jananiravi.github.io/post/goodreads-2017/goodreads-2017/</guid>
+      <description>
+
+
+&lt;p&gt;Find my latest reads &amp;amp; recommendations on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;!&lt;/p&gt;
+&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2017/1671098&#34;&gt;2017: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&#34;books-read&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2017-reads&#34;&gt;Books Read&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>Black Swan by Nassim Taleb</title>
-      <link>/post/2017/black-swan-nassim-taleb/</link>
+      <link>https://jananiravi.github.io/post/black-swan/black-swan-nassim-taleb/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017/black-swan-nassim-taleb/</guid>
-      <description>Book Review I find myself increasingly drawn to the field of Behavioral Economics (so much so that I was considering a second PhD to channelize my love!), and how beautifully evasive these concepts are in real life. Starting with Daniel Kahneman’s Thinking Fast and Slow, followed by the writings and blogs of Steven Levitt, Dan Ariely, Nate Silver and Barry Schwartz (and still others like Malcolm Gladwell), has set me thinking a lot about how insane and illogical we are.</description>
+      <guid>https://jananiravi.github.io/post/black-swan/black-swan-nassim-taleb/</guid>
+      <description>
+
+
+&lt;div id=&#34;book-review&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Book Review&lt;/h1&gt;
+&lt;p&gt;I find myself increasingly drawn to the field of Behavioral Economics (so much so that I was considering a second PhD to channelize my love!), and how beautifully evasive these concepts are in real life.
+Starting with Daniel Kahneman’s Thinking Fast and Slow, followed by the writings and blogs of Steven Levitt, Dan Ariely, Nate Silver and Barry Schwartz (and still others like Malcolm Gladwell), has set me thinking a lot about how insane and illogical we are. We do see ourselves as logical and reasonably intelligent people who do not fall for the usual traps (OK, maybe you didn’t see me that way, but we’ll let that slide for now…), but how fool-proof are we? What about the narrative fallacy - ‘aah, that makes sense now’ or ‘I thought so’ or confirmation biases?&lt;/p&gt;
+&lt;p&gt;‘The Black Swan’ by Nassim Nicholas Taleb (&lt;a href=&#34;http://fooledbyrandomness.com/&#34; class=&#34;uri&#34;&gt;http://fooledbyrandomness.com/&lt;/a&gt;) has been on my list ever since I first got infatuated with this topic. I finally finished it last month. Man, is it it well-written! The guy is brilliant, and his wit and humor are unmatchable! Among other things, he leads (and concludes) with our love for everything normal, statistically speaking and otherwise, and how we can’t but help make the obvious blunders of predicting, quite erroneously, based on the past, even though we know fully well that life doesn’t present itself as a series of bell curves stringed together just so that we can get away with some easy math! You’ll hear a lot about epistemology (defined in PS3; truth be told, I hadn’t heard of this word until last month), mediocristan (the Gaussian life) vs extremistan (scale-free distributions encountered more often than not in real-life)&lt;/p&gt;
+&lt;p&gt;Here’s a snippet: &lt;a href=&#34;https://drive.google.com/file/d/0B7_wAV4HsNrkQmdFMndHSHhldFE/view&#34; class=&#34;uri&#34;&gt;https://drive.google.com/file/d/0B7_wAV4HsNrkQmdFMndHSHhldFE/view&lt;/a&gt; Never mind if you don’t get it. I enjoyed every last bit of the book, and hope that you do too!
+Give it a try - whether you love it or hate it, it would be time well-spent! :)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Happy reading!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;PS1. I’ve heard that people either love it or hate it. Clearly, I fall in the bin #1. Do I agree with everything? Well, yeah, almost everything.
+PS2. Luckily, none of you are directly tied to economics or financial sectors. :D Well, scientists and statisticians have been insulted too, but the elegance of it makes it OK! Lots to think about.:)
+PS3. Epistemology studies the nature of knowledge, justification, and the rationality of belief. Much of the debate in epistemology centers on four areas: (1) the philosophical analysis of the nature of knowledge and how it relates to such concepts as truth, belief, and justification, (2) various problems of skepticism, (3) the sources and scope of knowledge and justified belief, and (4) the criteria for knowledge and justification.&lt;/p&gt;
+&lt;div id=&#34;tags&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Tags&lt;/h2&gt;
+&lt;p&gt;#behavioraleconomics #books #suggestions #mustread #randomness #economics #business #philosophy&lt;/p&gt;
+&lt;p&gt;blurb, review, snapshot below&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;blurb&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Blurb&lt;/h1&gt;
+&lt;p&gt;A black swan is a highly improbable event with three principal characteristics: It is unpredictable; it carries a massive impact; and, after the fact, we concoct an explanation that makes it appear less random, and more predictable, than it was.&lt;/p&gt;
+&lt;p&gt;The astonishing success of Google was a black swan; so was 9/11. For Nassim Nicholas Taleb, black swans underlie almost everything about our world, from the rise of religions to events in our own personal lives.&lt;/p&gt;
+&lt;p&gt;Why do we not acknowledge the phenomenon of black swans until after they occur? Part of the answer, according to Taleb, is that humans are hardwired to learn specifics when they should be focused on generalities.&lt;/p&gt;
+&lt;p&gt;We concentrate on things we already know and time and time again fail to take into consideration what we don’t know. We are, therefore, unable to truly estimate opportunities, too vulnerable to the impulse to simplify, narrate, and categorize, and not open enough to rewarding those who can imagine the “impossible.”&lt;/p&gt;
+&lt;p&gt;For years, Taleb has studied how we fool ourselves into thinking we know more than we actually do. We restrict our thinking to the irrelevant and inconsequential, while large events continue to surprise us and shape our world. Now, in this revelatory book, Taleb explains everything we know about what we don’t know. He offers surprisingly simple tricks for dealing with black swans and benefiting from them.&lt;/p&gt;
+&lt;p&gt;Elegant, startling, and universal in its applications ‘The Black Swan’ will change the way you look at the world. Taleb is a vastly entertaining writer, with wit, irreverence, and unusual stories to tell. He has a polymathic command of subjects ranging from cognitive science to business to probability theory.&lt;/p&gt;
+&lt;p&gt;‘The Black Swan’ is a landmark book – itself a black swan.&lt;/p&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>2015: Year in Books | Goodreads</title>
-      <link>/post/2017/goodreads-2015/</link>
+      <link>https://jananiravi.github.io/post/goodreads-2015/goodreads-2015/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017/goodreads-2015/</guid>
-      <description> Find my latest reads &amp;amp; recommendations on Goodreads!
-2015: #MyYearInBooks Summary Stats   Books Read   </description>
+      <guid>https://jananiravi.github.io/post/goodreads-2015/goodreads-2015/</guid>
+      <description>
+
+
+&lt;p&gt;Find my latest reads &amp;amp; recommendations on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;!&lt;/p&gt;
+&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2015/1671098&#34;&gt;2015: #MyYearInBooks Summary Stats&lt;/a&gt; &lt;br&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&#34;books-read&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2015-reads&#34;&gt;Books Read&lt;/a&gt; &lt;br&gt;&lt;/h4&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>2016: Year in Books | Goodreads</title>
-      <link>/post/2017/goodreads-2016/</link>
+      <link>https://jananiravi.github.io/post/goodreads-2016/goodreads-2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017/goodreads-2016/</guid>
-      <description> Find my latest reads &amp;amp; recommendations on Goodreads!
-2016: #MyYearInBooks Summary Stats  Books Read  </description>
+      <guid>https://jananiravi.github.io/post/goodreads-2016/goodreads-2016/</guid>
+      <description>
+
+
+&lt;p&gt;Find my latest reads &amp;amp; recommendations on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;!&lt;/p&gt;
+&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2016/1671098&#34;&gt;2016: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&#34;books-read&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2016-reads&#34;&gt;Books Read&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>Becoming Steve Jobs by Brent Schlender</title>
-      <link>/post/2016/becoming-steve-jobs/</link>
+      <link>https://jananiravi.github.io/post/becoming-steve-jobs/becoming-steve-jobs/</link>
       <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/2016/becoming-steve-jobs/</guid>
-      <description>Becoming Steve Jobs by Brent Schlender is a well-written biography of Steve Jobs &amp;amp; is definitely much better than Walter Isaacson’s ‘official’ one! And yeah, it is much more than a boring compendium of wiki and news articles. :)
-So, happy reading!</description>
+      <guid>https://jananiravi.github.io/post/becoming-steve-jobs/becoming-steve-jobs/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;a href=&#34;http://becomingstevejobs.com/&#34;&gt;Becoming Steve Jobs &lt;em&gt;by&lt;/em&gt; Brent Schlender&lt;/a&gt; is a well-written biography of Steve Jobs &amp;amp; is definitely much better than Walter Isaacson’s ‘official’ one! And yeah, it is much more than a boring compendium of wiki and news articles. :)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;So, happy reading!&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Matt Might&#39;s Blog</title>
-      <link>/post/2016/matt-might-blog/</link>
+      <link>https://jananiravi.github.io/post/mattmight/matt-might-blog/</link>
       <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/2016/matt-might-blog/</guid>
-      <description>Background Matt Might has an awesome easy-to-read blog that has inspired us in many ways! Matt is a tenured CS professor at Utah and a visiting professor at HMS (Harvard Medical School). He’s the dad of 3 kids, one of whom has a very rare genetic disorder. He &amp;amp; his wife have spent a good part of their lives educating themselves and others about the disease.
- Some of his useful blog posts Health | Strength-training | JustDoIt  HOWTO: Gain strength and muscle Least resistance weight loss Path of least resistance Handling repetitive strain injury (e.</description>
+      <guid>https://jananiravi.github.io/post/mattmight/matt-might-blog/</guid>
+      <description>
+
+
+&lt;div id=&#34;background&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;a href=&#34;http://matt.might.net/&#34;&gt;Background&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://matt.might.net/#personal&#34;&gt;Matt Might&lt;/a&gt; has an &lt;em&gt;awesome&lt;/em&gt; easy-to-read &lt;a href=&#34;http://matt.might.net/articles/&#34;&gt;blog&lt;/a&gt; that has inspired us in &lt;em&gt;many&lt;/em&gt; ways! Matt is a tenured CS professor at Utah and a visiting professor at HMS (Harvard Medical School). He’s the dad of 3 kids, one of whom has a very &lt;a href=&#34;http://matt.might.net/articles/my-sons-killer/&#34;&gt;rare genetic disorder&lt;/a&gt;.
+He &amp;amp; his wife have spent a good part of their lives &lt;a href=&#34;http://www.overcomingmovementdisorder.com/p/about-us.html&#34;&gt;educating themselves and others&lt;/a&gt; about the &lt;a href=&#34;http://www.ngly1.org/&#34;&gt;disease&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;some-of-his-useful-blog-posts&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Some of his useful blog posts&lt;/h1&gt;
+&lt;div id=&#34;health-strength-training-justdoit&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Health | Strength-training | JustDoIt&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/hacking-strength/&#34;&gt;HOWTO: Gain strength and muscle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/least-resistance-weight-loss/&#34;&gt;Least resistance weight loss&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/#philosophy&#34;&gt;Path of least resistance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/preventing-and-managing-rsi/&#34;&gt;Handling repetitive strain injury (e.g. carpal tunnel syndrome)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;efficiency-productivity-work-life-balance&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Efficiency | Productivity | work-life-balance&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/&#34;&gt;Productivity tips for academics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/how-to-email/&#34;&gt;How to send and reply to email&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/work-life-balance/&#34;&gt;Tips for work-life balance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/travel-hacks/&#34;&gt;Travel hacks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/programmers-resolutions/&#34;&gt;12 resolutions for programmers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;academic-professorship&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Academic | Professorship&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/advice-for-academic-job-hunt/&#34;&gt;Academic job hunt advice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/tenure/&#34;&gt;HOWTO: Get tenure&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;code&gt;… = lots more where this came from!&lt;/code&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>A dedication to Ramanujan</title>
-      <link>/post/2016/ramanujan/</link>
+      <link>https://jananiravi.github.io/post/ramanujan/ramanujan/</link>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/2016/ramanujan/</guid>
-      <description>Authors: Janani Ravi, Arjun Krishnan
-Srinivasa Ramanujan has been noted as one of the classic ‘genius-mathematicians’ of all time! Hailing from the same state/country as him, Arjun Krishnan and I have always looked up to him &amp;amp; his elegant math as a source of inspiration right through our formative years!
-The Movie Recent movie that has drastically increased Ramanujan’s international visibility The Man Who Knew Infinity by Matthew Brown.</description>
+      <guid>https://jananiravi.github.io/post/ramanujan/ramanujan/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;em&gt;Authors: Janani Ravi, Arjun Krishnan&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Srinivasa_Ramanujan&#34;&gt;Srinivasa Ramanujan&lt;/a&gt; has been noted as one of the classic ‘genius-mathematicians’ of all time! Hailing from the same state/country as him, &lt;a href=&#34;//arjun-krishnan.net&#34;&gt;Arjun Krishnan&lt;/a&gt; and I have always looked up to him &amp;amp; his elegant math as a source of inspiration right through our formative years!&lt;/p&gt;
+&lt;div id=&#34;the-movie&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Movie&lt;/h2&gt;
+&lt;p&gt;Recent movie that has drastically increased Ramanujan’s international visibility
+&lt;a href=&#34;https://g.co/kgs/gfuP3p&#34;&gt;The Man Who Knew Infinity&lt;/a&gt; by &lt;a href=&#34;https://www.imdb.com/name/nm0114226/&#34;&gt;Matthew Brown&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-play&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Play&lt;/h2&gt;
+&lt;p&gt;We watched this beautiful play in the University of Virginia campus during our grad school. Such unmistakable passion for math, that’s almost art-like &lt;em&gt;or was it art!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/A_Disappearing_Number&#34;&gt;A Disappearing Number&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Simon_McBurney&#34;&gt;Simon McBurney&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-book&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Book&lt;/h2&gt;
+&lt;p&gt;Here is a great companion book to better understand &lt;em&gt;the Man&lt;/em&gt; and little bit of &lt;em&gt;the Math&lt;/em&gt;!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Man_Who_Knew_Infinity:_A_Life_of_the_Genius_Ramanujan&#34;&gt;The Man Who Knew Infinity: A Life of the Genius Ramanujan&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Robert_Kanigel&#34;&gt;Robert Kanigel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-people&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The People&lt;/h2&gt;
+&lt;p&gt;Without the help of the following people (and many more we haven’t mentioned here), Ramanujan would have remained an unknown &amp;amp; obsolete genius!&lt;/p&gt;
+&lt;div id=&#34;gh-hardy-collaborator-mentor&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/G._H._Hardy&#34;&gt;GH Hardy&lt;/a&gt;: Collaborator, Mentor&lt;/h4&gt;
+&lt;p&gt;Hardy was an English mathematician who brought Ramanujan to Cambridge, encouraged his professional growth and helped publish his many theorems and elegant solutions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;matthew-brown-the-director&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.imdb.com/name/nm0114226/&#34;&gt;Matthew Brown&lt;/a&gt;: The Director&lt;/h4&gt;
+&lt;p&gt;The director of the new Ramanujan movie, &lt;em&gt;The Man Who Knew Infinity&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;manjul-bhargava-math-advisor-associate-producer&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Manjul_Bhargava&#34;&gt;Manjul Bhargava&lt;/a&gt;: Math advisor &amp;amp; associate producer&lt;/h4&gt;
+&lt;p&gt;Princeton number theorist, winner of the Field’s medal, and Associate Producer of the movie.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/128893911&#34;&gt;Video made for Manjul Bhargava Princeton&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ken-ono-math-advisor-associate-producer&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;//en.wikipedia.org/wiki/Ken_Ono&#34;&gt;Ken Ono&lt;/a&gt;: Math advisor &amp;amp; associate producer&lt;/h4&gt;
+&lt;p&gt;Ken Ono is this very accomplished mathematician who’s central research questions revolve around the work of Ramanujan.
+He is also a fantastic and sincere communicator, teacher and author so much so that you can read/listen to almost anything that he has to say.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EyvYr-2WLWg&amp;amp;list=WL&amp;amp;index=9&#34;&gt;Here’s a great video of a conversation he had with another mathematician where he talks about Ramanujan and his connection with him.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;steven-strogatz-applied-mathematician&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;www.stevenstrogatz.com/&#34;&gt;Steven Strogatz&lt;/a&gt;: Applied mathematician&lt;/h4&gt;
+&lt;p&gt;Famous applied mathematician and author of superb books &amp;amp; articles on mathematics.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;steven-strogatz-manjul-bhargava-matt-brown&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Steven Strogatz, Manjul Bhargava &amp;amp; Matt Brown&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yvHrn-41XMU&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;some-more-interesting-articles&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Some more interesting articles&lt;/h2&gt;
+&lt;div id=&#34;ramanujan-surprises-again-plus.maths.org&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;http://www.math.uiuc.edu/~berndt/articles/aachen.pdf&#34;&gt;Ramanujan surprises again| plus.maths.org&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&#34;remembering-ramanujan-india-celebrates-its-famous-mathematical-son&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;http://www.scientificamerican.com/article.cfm?id=remembering-ramanujan-india&#34;&gt;Remembering Ramanujan: India Celebrates Its Famous Mathematical Son&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;December 22, 2012&lt;/em&gt;, marks the 125th anniversary of the birth of legendary Indian mathematician Srinivasa Ramanujan. An intuitive mathematical genius, Ramanujan’s discoveries have influenced several areas of mathematics, but he is probably most famous for his contributions to number theory and infinite series, among them fascinating formulas that can be used to calculate digits of pi in unusual ways.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.scientificamerican.com/article.cfm?id=remembering-ramanujan-india&#34;&gt;More&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>

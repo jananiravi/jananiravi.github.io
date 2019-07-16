@@ -2,54 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data-science on Janani Ravi</title>
-    <link>/tags/data-science/</link>
+    <link>https://jananiravi.github.io/tags/data-science/</link>
     <description>Recent content in data-science on Janani Ravi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
-    <lastBuildDate>Fri, 15 Feb 2019 00:00:00 -0500</lastBuildDate>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
+    <lastBuildDate>Tue, 05 Mar 2019 14:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jananiravi.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Our Group</title>
-      <link>/group/group/</link>
-      <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
+      <title>Using Tidyverse for Genomics workshop</title>
+      <link>https://jananiravi.github.io/talk/2019-iitm/</link>
+      <pubDate>Tue, 05 Mar 2019 14:00:00 -0500</pubDate>
       
-      <guid>/group/group/</guid>
-      <description>PI Janani Ravi Pathobiology and Diagnostic Investigation, Michigan State University. GitHub | Twitter | Webpage Students           Lauren Sosinski Majors: Biochemistry &amp;amp; Biotechnology; Genomics and Molecular Genetics; Minor: CMSE GitHub; Twitter    Philip Calhoun Human Biology (pre-med) Drew Scholar; Honors College; Dean&amp;rsquo;s List; SROP fellowship GitHub; Twitter    Samuel Chen Computer Science Engineering Honors College; Dean&amp;rsquo;s List; State Scholarship GitHub    Phoebe Tuyishime Major: Nutritional Sciences; Minor: Global Public Health &amp;amp; Epidemiology Mastercard Foundation Scholar; Justin S.</description>
+      <guid>https://jananiravi.github.io/talk/2019-iitm/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>What we do!</title>
-      <link>/group/about/</link>
-      <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
+      <title>Tidyverse workshop</title>
+      <link>https://jananiravi.github.io/talk/2019-plb/</link>
+      <pubDate>Wed, 13 Feb 2019 09:00:00 -0500</pubDate>
       
-      <guid>/group/about/</guid>
-      <description>Our research involves developing computational approaches that can leverage large-scale genomic data to gain actionable insights into infectious disease biology. Specifically, we focus on three key areas:
-i) Identifying genomic signatures, functions, and mechanisms relevant to host-pathogen interactions, to enable understanding and guide diagnosis, ii) Unraveling molecular mechanisms common between genetic and infectious diseases, to guide targeted drug repurposing, and iii) Developing tools and resources for seamlessly relating sequence, structure, and function of genes/proteins in poorly characterized pathogens to enable and guide better prevention, diagnostic and treatment regimen.</description>
+      <guid>https://jananiravi.github.io/talk/2019-plb/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Join us!</title>
-      <link>/joinus/</link>
+      <link>https://jananiravi.github.io/joinus/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/joinus/</guid>
-      <description>Open positions Undergraduate Student Research We are looking for highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases. Currently, we prefer students coming in with fellowships/scholarships (e.g., SROP, ENSURE, other department/college-level awards).
-We are happy to train them in many aspects of data-intensive biology. A keen interest in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields, and prior programming experience in R, Python, Perl, and/or C/C++ would be a huge plus.</description>
+      <guid>https://jananiravi.github.io/joinus/</guid>
+      <description>
+
+&lt;h1 id=&#34;open-positions&#34;&gt;Open positions&lt;/h1&gt;
+
+&lt;h2 id=&#34;undergraduate-student-research&#34;&gt;Undergraduate Student Research&lt;/h2&gt;
+
+&lt;p&gt;We are looking for highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases. Currently, we prefer students coming in with fellowships/scholarships (&lt;em&gt;e.g.,&lt;/em&gt; SROP, ENSURE, other department/college-level awards).&lt;/p&gt;
+
+&lt;p&gt;We are happy to train them in many aspects of data-intensive biology. A keen interest in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields, and prior programming experience in R, Python, Perl, and/or C/C++ would be a huge plus. As part of this project, they will have the opportunity to work closely with a senior scientist and learn to: a) work with large datasets, b) write structured, well-documented code to analyze, integrate, and visualize these datasets, c) interpret the results in the context of pathogenesis, and d) communicate the results in the form of a paper and presentation.&lt;/p&gt;
+
+&lt;p&gt;We have high expectations for their level of commitment to research, and we are keen on incorporating their contributions into co-authored papers in conferences/journals. As an undergraduate student, if you are interested in discussing research opportunities, please send me &lt;a href=&#34;mailto:janani@msu.edu&#34; target=&#34;_blank&#34;&gt;an email&lt;/a&gt; to set up a time to talk.&lt;/p&gt;
+
+&lt;h2 id=&#34;graduate-student-research&#34;&gt;Graduate Student Research&lt;/h2&gt;
+
+&lt;p&gt;We are looking for a highly motivated Masters student who is looking to do an internship or a long-term project (6mo–1yr) in developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases. You will be a perfect fit if you have a background in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields. Having programming experience in R, Python, Perl, and/or C/C++ is a huge plus. In addition to these technical qualifications, we are looking for someone who can work well in a team, work hard, and give/take constructive feedback.&lt;/p&gt;
+
+&lt;p&gt;This research experience will give you the opportunity to i) use data analysis and visualization to address key biological questions as pertaining to molecular evolution, diagnosis, and treatment (using R), ii) present at group meetings, journals, technical workshops and conferences, iii) develop high coding standards for writing efficient, clear, well-documented, version-controlled code, iv) equip yourself professional for your next career step.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Start a conversation&lt;/em&gt;
+Please send me your latest CV and a cover letter that includes i) a summary of your academic/work experience, ii) description of relevant coursework, research experience (incl. publications, conference talks/posters), iii) a brief note on familiarity in the field of phylogenetics, molecular evolution, and comparative pathogenomics, iv) coding experience, if any. If you are already at MSU, please &lt;a href=&#34;mailto:janani@msu.edu&#34; target=&#34;_blank&#34;&gt;email me&lt;/a&gt; to set a time to &lt;a href=&#34;//jananiravi.github.io/#contact&#34; target=&#34;_blank&#34;&gt;meet&lt;/a&gt; and discuss your interest.&lt;/p&gt;
+
+&lt;h2 id=&#34;visiting-scientist&#34;&gt;Visiting Scientist&lt;/h2&gt;
+
+&lt;p&gt;We welcome visiting scientists to come and collaborate with us for a short period (summer/6mo). If you have a burning question or an interesting idea that is directly related to or complements our research project(s), we would be glad to share our space, experience, and resources with you to develop your project and execute it. Having your own funding would be the easiest way to make this happen. There are some funding sources that you can apply to (e.g., &lt;a href=&#34;http://www.biologists.com/travelling-fellowships/&#34; target=&#34;_blank&#34;&gt;CoB&lt;/a&gt;). Please send me an &lt;a href=&#34;mailto:janani@msu.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt; to discuss this opportunity.&lt;/p&gt;
+
+&lt;h2 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h2&gt;
+
+&lt;p&gt;If you are interested in any of our specific areas of research or have other great ideas that we could work on together, &lt;a href=&#34;mailto:janani@msu.edu&#34; target=&#34;_blank&#34;&gt;email me&lt;/a&gt; right away!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://jananiravi.github.io/#contact&#34; target=&#34;_blank&#34;&gt;Contact details&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
+      <link>https://jananiravi.github.io/talk/2018-rlel-tidydata/</link>
+      <pubDate>Mon, 05 Nov 2018 18:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/2018-rlel-tidydata/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Workshop material: &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; • &lt;a href=&#34;https://bit.ly/rlel-20181105&#34; target=&#34;_blank&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title>
+      <link>https://jananiravi.github.io/talk/2018-rlel-dataviz/</link>
+      <pubDate>Mon, 08 Oct 2018 18:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/2018-rlel-dataviz/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201810-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Workshop material: &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181008-workshop-dataviz&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; • &lt;a href=&#34;https://drive.google.com/drive/folders/1tSrhZ_TymJfxeZbe8hAdtPjcmhoeAJls?usp=sharing&#34; target=&#34;_blank&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Modeler&#39;s Hippocratic Oath</title>
-      <link>/post/2018/modelers-hippocratic-oath/</link>
+      <link>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/modelers-hippocratic-oath/</guid>
-      <description>I recently came across the Modeler&amp;rsquo;s Hippocratic Oath while reading Cathy O&amp;rsquo;Neil&amp;rsquo;s &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.
-This was originally written by Emanuel Derman and Paul Wilmott in the wake of the 2008 financial crisis.
-The Oath  I will remember that I didn’t make the world, and it doesn’t satisfy my equations. Though I will use models boldly to estimate value, I will not be overly impressed by mathematics. I will never sacrifice reality for elegance without explaining why I have done so.</description>
+      <guid>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</guid>
+      <description>
+
+&lt;p&gt;I recently came across the &lt;strong&gt;Modeler&amp;rsquo;s Hippocratic Oath&lt;/strong&gt; while reading &lt;a href=&#34;//twitter.com/mathbabedotorg&#34; target=&#34;_blank&#34;&gt;Cathy O&amp;rsquo;Neil&amp;rsquo;s&lt;/a&gt; &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;This was originally written by &lt;a href=&#34;//twitter.com/EmanuelDerman&#34; target=&#34;_blank&#34;&gt;Emanuel Derman&lt;/a&gt; and &lt;a href=&#34;//twitter.com/wilmott&#34; target=&#34;_blank&#34;&gt;Paul Wilmott&lt;/a&gt; in the wake of the 2008 financial crisis.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-oath&#34;&gt;The Oath&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I will remember that I didn’t make the world, and it doesn’t satisfy my equations.&lt;/li&gt;
+&lt;li&gt;Though I will use models boldly to estimate value, I will not be overly impressed by mathematics.&lt;/li&gt;
+&lt;li&gt;I will never sacrifice reality for elegance without explaining why I have done so.&lt;/li&gt;
+&lt;li&gt;Nor will I give the people who use my model false comfort about its accuracy. Instead, I will make explicit its assumptions and oversights.&lt;/li&gt;
+&lt;li&gt;I understand that my work may have enormous effects on society and the economy, many of them beyond my comprehension.
+&lt;img src=&#34;https://jananiravi.github.io/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

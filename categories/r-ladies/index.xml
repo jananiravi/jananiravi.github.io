@@ -2,42 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R-Ladies on Janani Ravi</title>
-    <link>/categories/r-ladies/</link>
+    <link>https://jananiravi.github.io/categories/r-ladies/</link>
     <description>Recent content in R-Ladies on Janani Ravi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
     <lastBuildDate>Tue, 15 Jan 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/categories/r-ladies/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jananiravi.github.io/categories/r-ladies/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Join us!</title>
-      <link>/joinus/</link>
+      <link>https://jananiravi.github.io/joinus/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/joinus/</guid>
-      <description>Open positions Undergraduate Student Research We are looking for highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases. Currently, we prefer students coming in with fellowships/scholarships (e.g., SROP, ENSURE, other department/college-level awards).
-We are happy to train them in many aspects of data-intensive biology. A keen interest in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields, and prior programming experience in R, Python, Perl, and/or C/C++ would be a huge plus.</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
-      <link>/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</link>
-      <pubDate>Mon, 05 Nov 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</guid>
-      <description>Workshop material: GitHub • Google Drive</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title>
-      <link>/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</link>
-      <pubDate>Mon, 08 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</guid>
-      <description>Workshop material: GitHub • Google Drive</description>
+      <guid>https://jananiravi.github.io/joinus/</guid>
+      <description>
+
+&lt;h1 id=&#34;open-positions&#34;&gt;Open positions&lt;/h1&gt;
+
+&lt;h2 id=&#34;undergraduate-student-research&#34;&gt;Undergraduate Student Research&lt;/h2&gt;
+
+&lt;p&gt;We are looking for highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases. Currently, we prefer students coming in with fellowships/scholarships (&lt;em&gt;e.g.,&lt;/em&gt; SROP, ENSURE, other department/college-level awards).&lt;/p&gt;
+
+&lt;p&gt;We are happy to train them in many aspects of data-intensive biology. A keen interest in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields, and prior programming experience in R, Python, Perl, and/or C/C++ would be a huge plus. As part of this project, they will have the opportunity to work closely with a senior scientist and learn to: a) work with large datasets, b) write structured, well-documented code to analyze, integrate, and visualize these datasets, c) interpret the results in the context of pathogenesis, and d) communicate the results in the form of a paper and presentation.&lt;/p&gt;
+
+&lt;p&gt;We have high expectations for their level of commitment to research, and we are keen on incorporating their contributions into co-authored papers in conferences/journals. As an undergraduate student, if you are interested in discussing research opportunities, please send me &lt;a href=&#34;mailto:janani@msu.edu&#34; target=&#34;_blank&#34;&gt;an email&lt;/a&gt; to set up a time to talk.&lt;/p&gt;
+
+&lt;h2 id=&#34;graduate-student-research&#34;&gt;Graduate Student Research&lt;/h2&gt;
+
+&lt;p&gt;We are looking for a highly motivated Masters student who is looking to do an internship or a long-term project (6mo–1yr) in developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases. You will be a perfect fit if you have a background in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields. Having programming experience in R, Python, Perl, and/or C/C++ is a huge plus. In addition to these technical qualifications, we are looking for someone who can work well in a team, work hard, and give/take constructive feedback.&lt;/p&gt;
+
+&lt;p&gt;This research experience will give you the opportunity to i) use data analysis and visualization to address key biological questions as pertaining to molecular evolution, diagnosis, and treatment (using R), ii) present at group meetings, journals, technical workshops and conferences, iii) develop high coding standards for writing efficient, clear, well-documented, version-controlled code, iv) equip yourself professional for your next career step.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Start a conversation&lt;/em&gt;
+Please send me your latest CV and a cover letter that includes i) a summary of your academic/work experience, ii) description of relevant coursework, research experience (incl. publications, conference talks/posters), iii) a brief note on familiarity in the field of phylogenetics, molecular evolution, and comparative pathogenomics, iv) coding experience, if any. If you are already at MSU, please &lt;a href=&#34;mailto:janani@msu.edu&#34; target=&#34;_blank&#34;&gt;email me&lt;/a&gt; to set a time to &lt;a href=&#34;//jananiravi.github.io/#contact&#34; target=&#34;_blank&#34;&gt;meet&lt;/a&gt; and discuss your interest.&lt;/p&gt;
+
+&lt;h2 id=&#34;visiting-scientist&#34;&gt;Visiting Scientist&lt;/h2&gt;
+
+&lt;p&gt;We welcome visiting scientists to come and collaborate with us for a short period (summer/6mo). If you have a burning question or an interesting idea that is directly related to or complements our research project(s), we would be glad to share our space, experience, and resources with you to develop your project and execute it. Having your own funding would be the easiest way to make this happen. There are some funding sources that you can apply to (e.g., &lt;a href=&#34;http://www.biologists.com/travelling-fellowships/&#34; target=&#34;_blank&#34;&gt;CoB&lt;/a&gt;). Please send me an &lt;a href=&#34;mailto:janani@msu.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt; to discuss this opportunity.&lt;/p&gt;
+
+&lt;h2 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h2&gt;
+
+&lt;p&gt;If you are interested in any of our specific areas of research or have other great ideas that we could work on together, &lt;a href=&#34;mailto:janani@msu.edu&#34; target=&#34;_blank&#34;&gt;email me&lt;/a&gt; right away!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://jananiravi.github.io/#contact&#34; target=&#34;_blank&#34;&gt;Contact details&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

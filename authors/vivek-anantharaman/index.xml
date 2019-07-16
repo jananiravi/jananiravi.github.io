@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vivek Anantharaman on Janani Ravi</title>
+    <link>https://jananiravi.github.io/authors/vivek-anantharaman/</link>
+    <description>Recent content in Vivek Anantharaman on Janani Ravi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
+    <lastBuildDate>Mon, 09 Jul 2018 15:50:00 -0400</lastBuildDate>
+    
+	    <atom:link href="https://jananiravi.github.io/authors/vivek-anantharaman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using computational appraches to understand host-pathogen biology</title>
+      <link>https://jananiravi.github.io/talk/2018-ismb/</link>
+      <pubDate>Mon, 09 Jul 2018 15:50:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/2018-ismb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
+      <link>https://jananiravi.github.io/publication/psp-actino/anto/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/publication/psp-actino/anto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution and Conservation of the Psp Envelope Stress-Response System</title>
+      <link>https://jananiravi.github.io/talk/2017-asm-tb/</link>
+      <pubDate>Mon, 03 Apr 2017 17:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/2017-asm-tb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbial Mechanosensing: Phage Shock Protein Response System in Gram-positive Bacteria</title>
+      <link>https://jananiravi.github.io/talk/2016-asm/</link>
+      <pubDate>Sat, 18 Jun 2016 14:45:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/2016-asm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,69 +2,483 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rladies on Janani Ravi</title>
-    <link>/tags/rladies/</link>
+    <link>https://jananiravi.github.io/tags/rladies/</link>
     <description>Recent content in rladies on Janani Ravi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/rladies/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jananiravi.github.io/tags/rladies/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018: Year in Review | RLEL</title>
-      <link>/post/2019/rlel-2018/</link>
+      <link>https://jananiravi.github.io/post/rlel-2018/rlel-2018/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/post/2019/rlel-2018/</guid>
-      <description>Thanks to everyone who attended, participated or sponsored R-Ladies East Lansing in 2018! We had a fantastic start &amp;amp; a very successful first 6mo on campus! We hosted 7 meetups since July 2018 including two very well-attended workshops (70+ attendees) and a DataViz challenge! Help us continue spreading the R &amp;amp; Data Science spirit across MSU in 2019! Contact us eastlansing@rladies.org about co-hosting or sponsoring a meetup/workshop in Spring 2019.</description>
+      <guid>https://jananiravi.github.io/post/rlel-2018/rlel-2018/</guid>
+      <description>
+
+&lt;p&gt;Thanks to everyone who attended, participated or sponsored &lt;a href=&#34;https://rladies-eastlansing.github.io&#34; target=&#34;_blank&#34;&gt;R-Ladies East Lansing&lt;/a&gt; in 2018! We had a fantastic start &amp;amp; a very successful first 6mo &lt;a href=&#34;http://bit.ly/rlel-venue&#34; target=&#34;_blank&#34;&gt;on campus&lt;/a&gt;! We hosted 7 meetups since July 2018 including two very well-attended workshops (70+ attendees) and a DataViz challenge! Help us continue spreading the R &amp;amp; Data Science spirit across MSU in 2019! Contact us &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_blank&#34;&gt;eastlansing@rladies.org&lt;/a&gt; about co-hosting or sponsoring a meetup/workshop in Spring 2019. As always, R-Ladies events are open to all R-users across all levels of expertise including students, faculty and staff, and non-MSU folks.&lt;/p&gt;
+
+&lt;h1 id=&#34;2018-year-in-review&#34;&gt;2018: Year in Review&lt;/h1&gt;
+
+&lt;h2 id=&#34;the-team&#34;&gt;The Team&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Organizers&lt;/strong&gt;: &lt;a href=&#34;https://jananiravi.github.io&#34; target=&#34;_blank&#34;&gt;Janani Ravi&lt;/a&gt;, &lt;a href=&#34;https://icer.msu.edu/about/directory/archer&#34; target=&#34;_blank&#34;&gt;Camille Archer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-organizers&lt;/strong&gt;: Kayla Johnson, Arjun Krishnan, Nate Davis (~ &lt;a href=&#34;https://thekrishnanlab.org&#34; target=&#34;_blank&#34;&gt;Krishnan Lab&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&#34;meetup-presentations-material&#34;&gt;Meetup Presentations/Material&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;http://bit.ly/rlel-meetup-presentations-gd&#34; target=&#34;_blank&#34;&gt;Google Drive&lt;/a&gt; | &lt;a href=&#34;http://bit.ly/rlel-pics-2018&#34; target=&#34;_blank&#34;&gt;Photos&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2018-sponsors&#34;&gt;2018 Sponsors&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jananiravi.github.io/rlel-2018/index_files/rlel-sponsors-2018.jpg&#34; alt=&#34;&#34; /&gt;
+Grand Traverse Pie (2018-12) | Business Analytics (2018-11) | SSDA (2018-10) |
+Krishnan Lab (2018-09) | College of Veterinary Medicine (2018-09) |
+BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
+
+&lt;h2 id=&#34;2018-meetups&#34;&gt;2018 Meetups&lt;/h2&gt;
+
+&lt;h3 id=&#34;kickoff-meeting&#34;&gt;Kickoff meeting&lt;/h3&gt;
+
+&lt;p&gt;Welcome to RLEL | Who We Are | What We Do | Upcoming Meetups&lt;/p&gt;
+
+&lt;h3 id=&#34;lightning-talks&#34;&gt;Lightning talks&lt;/h3&gt;
+
+&lt;h4 id=&#34;aug-13-2018&#34;&gt;Aug 13, 2018&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Git &amp;amp; R by Melissa Dale&lt;/li&gt;
+&lt;li&gt;Experimental languages w/ R by Le Ni La&lt;/li&gt;
+&lt;li&gt;Having fun w/ Rcade by Kayla Johnson&lt;/li&gt;
+&lt;li&gt;Websites w/ R by Camille Archer&lt;/li&gt;
+&lt;li&gt;UpSet plots w/ R by Janani Ravi&lt;/li&gt;
+&lt;li&gt;BigDataIgnite conference promo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;sep-10-2018&#34;&gt;Sep 10, 2018&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Morphospaces w/ #Geomorph by Acacia Ackles&lt;/li&gt;
+&lt;li&gt;Integrating Python &amp;amp; R w/ #Reticulate by Anna Yannakopoulos&lt;/li&gt;
+&lt;li&gt;Literature Survey w/ #Bibliometrix by Veronica Frans&lt;/li&gt;
+&lt;li&gt;GLM w/ #glmulti by Lauren Wisnieski&lt;/li&gt;
+&lt;li&gt;Cool #dataviz resources Data-to-Viz RGraph Gallery by Janani Ravi&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;sep-24-2018&#34;&gt;Sep 24, 2018&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spatial Humanities w/ R Rachael White&lt;/li&gt;
+&lt;li&gt;R/qtl Miranda Haus&lt;/li&gt;
+&lt;li&gt;Hyenas, Microbes &amp;amp; R Connie Rojas&lt;/li&gt;
+&lt;li&gt;Publication quality figures w/ #ggpubr by Taylor Dunivin&lt;/li&gt;
+&lt;li&gt;R+LaTeX=knitr Cara Feldscher&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;workshops&#34;&gt;Workshops&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Intro to Tidy Data Workshop: &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; • &lt;a href=&#34;https://bit.ly/rlel-20181105&#34; target=&#34;_blank&#34;&gt;Google Drive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Data Visualization Workshop: &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181008-workshop-dataviz&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; • &lt;a href=&#34;https://drive.google.com/drive/folders/1tSrhZ_TymJfxeZbe8hAdtPjcmhoeAJls?usp=sharing&#34; target=&#34;_blank&#34;&gt;Google Drive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;year-in-pictures&#34;&gt;Year in pictures&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/2018-rlel-sponsors.png&#34; data-caption=&#34;2018: Meetup Sponsors&#34;&gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/2018-rlel-sponsors_hubce25919d144db2df6f7db803ac6af17_6917740_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180706-rlel-chicago.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180706-rlel-chicago_hu42fc7509618802349aa988fbd7243a25_514640_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-activities.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-activities_hufb152286910be5f1f97a12c3ee9ba939_334772_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-group.jpg&#34; data-caption=&#34;July 2018: Kickoff meeting&#34;&gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-group_hu58b28802711a3c8afea9155c7bae7e71_394797_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180813-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180813-collage_hu57bfde7ce0f63a8f2911579dde681ddf_813532_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180826-rladies-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180826-rladies-collage_hu4f1e9fea0b3fc71314fb730919eec33b_1109597_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180910-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180910-collage_hu8e0f1e6eb80c4af61623ed9a1842f9f2_782112_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180924-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180924-collage_hua01839f5a1afcaad4f452bacfbebc633_206950_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181008-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181008-collage_hua99e81342a4312203de795a4b6c302ad_811467_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181105-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181105-collage_huf67a94b4b49f7252ca2125810aa6a32d_335840_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181203-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181203-collage_huca736b01f7059b1c46c063b99a96199f_1034725_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+
+&lt;h1 id=&#34;you-r-ladies-east-lansing&#34;&gt;You &amp;amp; R-Ladies East Lansing&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Join the R-Ladies Community on Slack (&lt;a href=&#34;https://bit.ly/rlel-slack-signup&#34; target=&#34;_blank&#34;&gt;https://bit.ly/rlel-slack-signup&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Lead (or team-lead) presentations/discussions in a meetup&lt;/li&gt;
+&lt;li&gt;Help run the meetup(s) (help R-newbies, help pick up pizza)&lt;/li&gt;
+&lt;li&gt;Contribute to Blog Entries, Webpage (&lt;a href=&#34;https://rladies-eastlansing.github.io&#34; target=&#34;_blank&#34;&gt;https://rladies-eastlansing.github.io&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Be a Social Butterfly (&lt;a href=&#34;https://twitter.com/RLadiesELansing&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;https://facebook.com/rladieseastlansing&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt; | Courier pigeon?)&lt;/li&gt;
+&lt;li&gt;Sponsor a meeting (OR help find us monthly meeting sponsors; &amp;lt;$75)&lt;/li&gt;
+&lt;li&gt;Bring in a speaker and/or Bring in fellow R-users!&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Suggest a topic &amp;amp; bring in volunteers from the 200+ Meetup/Slack R-Ladies!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Getting Involved @ R-Ladies: &lt;a href=&#34;https://rladies.org/about-us/help/&#34; target=&#34;_blank&#34;&gt;https://rladies.org/about-us/help/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;how-to-be-in-touch&#34;&gt;How to be in touch?&lt;/h2&gt;
+
+&lt;p&gt;Access our presentations, R scripts and more on &lt;a href=&#34;//github.com/rladies-eastlansing&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; and follow us on twitter to stay up to date about R-Ladies news! &lt;em&gt;Join the &lt;a href=&#34;https://meetup.com/rladies-east-lansing/&#34; target=&#34;_blank&#34;&gt;Meetup group&lt;/a&gt; to be notified of our upcoming meetings!&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rladies.org&#34; target=&#34;_blank&#34;&gt;R-Ladies Global&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meetup: &lt;a href=&#34;https://meetup.com/rladies-east-lansing/&#34; target=&#34;_blank&#34;&gt;https://meetup.com/rladies-east-lansing/&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Twitter: &lt;a href=&#34;http://twitter.com/RLadiesELansing&#34; target=&#34;_blank&#34;&gt;@RLadiesELansing&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://twitter.com/RLadiesGlobal&#34; target=&#34;_blank&#34;&gt;@RLadiesGlobal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Slack: &lt;a href=&#34;https://rladies-eastlansing.slack.com&#34; target=&#34;_blank&#34;&gt;https://rladies-eastlansing.slack.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github: &lt;a href=&#34;https://github.com/rladies-eastlansing&#34; target=&#34;_blank&#34;&gt;@rladies-eastlansing&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/rladies&#34; target=&#34;_blank&#34;&gt;@rladies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;E-mail:
+
+&lt;ul&gt;
+&lt;li&gt;eastlansing [at] rladies [dot] org&lt;/li&gt;
+&lt;li&gt;janani [at] rladies [dot] org&lt;/li&gt;
+&lt;li&gt;info [at] rladies [dot] org&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;organizers&#34;&gt;Organizers&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;janani@rladies.org&#34; target=&#34;_blank&#34;&gt;Janani Ravi&lt;/a&gt; &amp;amp; &lt;a href=&#34;camille@rladies.org&#34; target=&#34;_blank&#34;&gt;Camille Archer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;PS&lt;/em&gt; Community Policies &amp;amp; Code of Conduct:&lt;/p&gt;
+
+&lt;p&gt;Full community guidelines are found here: &lt;a href=&#34;https://github.com/rladies/starter-kit/wiki&#34; target=&#34;_blank&#34;&gt;https://github.com/rladies/starter-kit/wiki&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>2019: RLEL Upcoming Events</title>
-      <link>/post/2019/rlel-2019-upcoming/</link>
+      <link>https://jananiravi.github.io/post/rlel-upcoming-2019/rlel-2019-upcoming/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/post/2019/rlel-2019-upcoming/</guid>
-      <description>A little background R-Ladies East Lansing welcomes R-enthusiasts of all proficiency levels, including aspiring and experienced R programmers, who are interested in mentoring, networking &amp;amp; expertise upskilling. This non-profit, civil society community is designed to develop members’ R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!
-Anyone and everyone interested in R/Data Science should join the group.</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
-      <link>/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</link>
-      <pubDate>Mon, 05 Nov 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</guid>
-      <description>Workshop material: GitHub • Google Drive</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title>
-      <link>/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</link>
-      <pubDate>Mon, 08 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</guid>
-      <description>Workshop material: GitHub • Google Drive</description>
+      <guid>https://jananiravi.github.io/post/rlel-upcoming-2019/rlel-2019-upcoming/</guid>
+      <description>
+
+&lt;h2 id=&#34;a-little-background&#34;&gt;A little background&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://rladies-eastlansing.github.io&#34; target=&#34;_blank&#34;&gt;R-Ladies East Lansing&lt;/a&gt; welcomes R-enthusiasts of all proficiency levels, including aspiring and experienced R programmers, who are interested in mentoring, networking &amp;amp; expertise upskilling. This non-profit, civil society community is designed to develop members’ R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!&lt;/p&gt;
+
+&lt;p&gt;Anyone and everyone interested in R/Data Science should join the group. We encourage members to actively participate, contributing as learners, teachers, developers or innovators! We encourage women and minority genders to present/lead most sessions, conversations but we have no restrictions whatsoever about who can participate in membership, discussions and other activities. Please join us and bring your R-family &amp;amp; R-friends!&lt;/p&gt;
+
+&lt;h1 id=&#34;2019-what-s-next&#34;&gt;2019: What’s next?&lt;/h1&gt;
+
+&lt;h2 id=&#34;upcoming-workshops&#34;&gt;Upcoming Workshops&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Intro to Statistics w/ R (Spring; workshop series)&lt;/li&gt;
+&lt;li&gt;Intro to RMarkdown (Summer)&lt;/li&gt;
+&lt;li&gt;Intro to Shiny (Summer)&lt;/li&gt;
+&lt;li&gt;Intro to Version Control (Git) w/ R (Summer)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Register &amp;amp; RSVP on Meetup&lt;/strong&gt;: &lt;a href=&#34;https://meetup.com/rladies-eastlansing&#34; target=&#34;_blank&#34;&gt;https://meetup.com/rladies-eastlansing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Would you like to &lt;em&gt;team-lead a workshop&lt;/em&gt;? Contact us if you’d to present for 5–10 min slots within the workshop or longer if desired.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Join&lt;/strong&gt; the channels on &lt;strong&gt;Slack&lt;/strong&gt;: #workshop-rstats #workshop-shiny #workshop-rmarkdown OR Email us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_blank&#34;&gt;eastlansing@rladies.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;introduce-a-girl-to-engineering-2019-02-16&#34;&gt;Introduce a Girl to Engineering (2019-02-16)&lt;/h2&gt;
+
+&lt;p&gt;Register for R-Ladies East Lansing’s activity booth: &lt;a href=&#34;http://meetu.ps/e/Gfntz/yBMBS/f&#34; target=&#34;_blank&#34;&gt;http://meetu.ps/e/Gfntz/yBMBS/f&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;MSU Women in Engg. outreach: &lt;a href=&#34;http://bit.ly/msu-wie-k12-outreach&#34; target=&#34;_blank&#34;&gt;http://bit.ly/msu-wie-k12-outreach&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;women-in-data-science-conference-2019-04&#34;&gt;Women in Data Science Conference (2019-04)&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://widsconference.org&#34; target=&#34;_blank&#34;&gt;https://widsconference.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Register&lt;/strong&gt;: TBA&lt;/p&gt;
+
+&lt;p&gt;Would like to give a talk/present a poster? Stay tuned on &lt;a href=&#34;https://meetup.com/rladies-eastlansing&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt;.
+Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_blank&#34;&gt;eastlansing@rladies.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;r-ladies-east-lansing-bookclub&#34;&gt;R-Ladies East Lansing Bookclub&lt;/h2&gt;
+
+&lt;h3 id=&#34;academic-incl&#34;&gt;Academic incl.&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;R for Data Science&lt;/li&gt;
+&lt;li&gt;Learning Statistics with R&lt;/li&gt;
+&lt;li&gt;R programming for Data Science&lt;/li&gt;
+&lt;li&gt;Hands-On Programming with R&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;nonfiction-incl&#34;&gt;Nonfiction incl.&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Algorithms to Live by&lt;/li&gt;
+&lt;li&gt;Weapons of Math Destruction&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;blog-posts-articles-incl&#34;&gt;Blog posts &amp;amp; Articles incl.&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Excuse me, do you have a moment to talk about version control?&lt;/li&gt;
+&lt;li&gt;Good enough practices in Scientific Computing&lt;/li&gt;
+&lt;li&gt;Happy Git w/ R&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;meetup-presentations-material&#34;&gt;Meetup Presentations/Material&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;http://bit.ly/rlel-meetup-presentations-gd&#34; target=&#34;_blank&#34;&gt;Google Drive&lt;/a&gt; | &lt;a href=&#34;http://bit.ly/rlel-pics-2018&#34; target=&#34;_blank&#34;&gt;Photos&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;you-r-ladies-east-lansing&#34;&gt;You &amp;amp; R-Ladies East Lansing&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Join the R-Ladies Community on Slack (&lt;a href=&#34;https://bit.ly/rlel-slack-signup&#34; target=&#34;_blank&#34;&gt;https://bit.ly/rlel-slack-signup&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Lead (or team-lead) presentations/discussions in a meetup&lt;/li&gt;
+&lt;li&gt;Help run the meetup(s) (help R-newbies, help pick up pizza)&lt;/li&gt;
+&lt;li&gt;Contribute to Blog Entries, Webpage (&lt;a href=&#34;https://rladies-eastlansing.github.io&#34; target=&#34;_blank&#34;&gt;https://rladies-eastlansing.github.io&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Be a Social Butterfly (&lt;a href=&#34;https://twitter.com/RLadiesELansing&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;https://facebook.com/rladieseastlansing&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt; | Courier pigeon?)&lt;/li&gt;
+&lt;li&gt;Sponsor a meeting (OR help find us monthly meeting sponsors; &amp;lt;$75)&lt;/li&gt;
+&lt;li&gt;Bring in a speaker and/or Bring in fellow R-users!&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Suggest a topic &amp;amp; bring in volunteers from the 200+ Meetup/Slack R-Ladies!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Getting Involved @ R-Ladies: &lt;a href=&#34;https://rladies.org/about-us/help/&#34; target=&#34;_blank&#34;&gt;https://rladies.org/about-us/help/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;how-to-be-in-touch&#34;&gt;How to be in touch?&lt;/h2&gt;
+
+&lt;p&gt;Access our presentations, R scripts and more on &lt;a href=&#34;//github.com/rladies-eastlansing&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; and follow us on twitter to stay up to date about R-Ladies news! &lt;em&gt;Join the &lt;a href=&#34;https://meetup.com/rladies-east-lansing/&#34; target=&#34;_blank&#34;&gt;Meetup group&lt;/a&gt; to be notified of our upcoming meetings!&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rladies.org&#34; target=&#34;_blank&#34;&gt;R-Ladies Global&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meetup: &lt;a href=&#34;https://meetup.com/rladies-east-lansing/&#34; target=&#34;_blank&#34;&gt;https://meetup.com/rladies-east-lansing/&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Twitter: &lt;a href=&#34;http://twitter.com/RLadiesELansing&#34; target=&#34;_blank&#34;&gt;@RLadiesELansing&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://twitter.com/RLadiesGlobal&#34; target=&#34;_blank&#34;&gt;@RLadiesGlobal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Slack: &lt;a href=&#34;https://rladies-eastlansing.slack.com&#34; target=&#34;_blank&#34;&gt;https://rladies-eastlansing.slack.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github: &lt;a href=&#34;https://github.com/rladies-eastlansing&#34; target=&#34;_blank&#34;&gt;@rladies-eastlansing&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/rladies&#34; target=&#34;_blank&#34;&gt;@rladies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;E-mail:
+
+&lt;ul&gt;
+&lt;li&gt;eastlansing [at] rladies [dot] org&lt;/li&gt;
+&lt;li&gt;janani [at] rladies [dot] org&lt;/li&gt;
+&lt;li&gt;info [at] rladies [dot] org&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-team&#34;&gt;The Team&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Organizers&lt;/strong&gt;: &lt;a href=&#34;janani@rladies.org&#34; target=&#34;_blank&#34;&gt;Janani Ravi&lt;/a&gt;, &lt;a href=&#34;camille@rladies.org&#34; target=&#34;_blank&#34;&gt;Camille Archer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-organizers&lt;/strong&gt;: Kayla Johnson, Arjun Krishnan (~ &lt;a href=&#34;https://thekrishnanlab.org&#34; target=&#34;_blank&#34;&gt;Krishnan Lab&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;PS&lt;/em&gt; Community Policies &amp;amp; Code of Conduct:&lt;/p&gt;
+
+&lt;p&gt;Full community guidelines are found here: &lt;a href=&#34;https://github.com/rladies/starter-kit/wiki&#34; target=&#34;_blank&#34;&gt;https://github.com/rladies/starter-kit/wiki&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Launching R-Ladies East Lansing!</title>
-      <link>/post/2018/rlel-launch/</link>
+      <link>https://jananiravi.github.io/post/rlel-launch/rlel-launch/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/rlel-launch/</guid>
-      <description>Welcome to our new chapter!  What we’re about R-Ladies East Lansing is a local chapter of R-Ladies Global. We meet to discuss, learn, teach, present, work on all things R! Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. The group exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities.</description>
+      <guid>https://jananiravi.github.io/post/rlel-launch/rlel-launch/</guid>
+      <description>
+
+
+&lt;div id=&#34;welcome-to-our-new-chapter&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;em&gt;Welcome to our new chapter!&lt;/em&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div id=&#34;what-were-about&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What we’re about&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;R-Ladies East Lansing&lt;/em&gt; is a local chapter of R-Ladies Global. We meet to discuss, learn, teach, present, work on all things R! Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R. The group exists to promote gender diversity in the R community worldwide. We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;who-should-join&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Who should join?&lt;/h2&gt;
+&lt;p&gt;R-Ladies East Lansing welcomes members of &lt;strong&gt;all R proficiency levels&lt;/strong&gt;, whether you are a new or aspiring R user, or an experienced R programmer interested in mentoring, networking &amp;amp; expert upskilling. Our non-profit, civil society community is designed to develop our members’ R skills &amp;amp; knowledge through social, collaborative learning &amp;amp; sharing. &lt;em&gt;Supporting minority identity access to STEM skills &amp;amp; careers, the Free Software Movement, and contributing to the global R community!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Anyone and everyone interested in R/Data Science&lt;/em&gt; should join our group and participate/contribute in any way you can, be they learners, teachers, developers or innovators! We encourage women and minority genders to present/lead most sessions, conversations but we have &lt;em&gt;no restrictions&lt;/em&gt; whatsoever when it comes to membership, participation, and discussions. So, please join us and bring your R-family &amp;amp; R-friends!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;how-to-be-in-touch&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;How to be in touch?&lt;/h2&gt;
+&lt;p&gt;Access our presentations, R scripts and more on &lt;a href=&#34;//github.com/rladies-eastlansing&#34;&gt;Github&lt;/a&gt; and follow us on twitter to stay up to date about R-Ladies news! &lt;em&gt;Join the &lt;a href=&#34;https://meetup.com/rladies-east-lansing/&#34;&gt;Meetup group&lt;/a&gt; to be notified of the first meeting in July!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rladies.org&#34;&gt;R-Ladies Global&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Meetup: &lt;a href=&#34;https://meetup.com/rladies-east-lansing/&#34; class=&#34;uri&#34;&gt;https://meetup.com/rladies-east-lansing/&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Twitter: &lt;a href=&#34;http://twitter.com/RLadiesELansing&#34;&gt;@RLadiesELansing&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://twitter.com/RLadiesGlobal&#34;&gt;@RLadiesGlobal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Slack: &lt;a href=&#34;https://rladies-eastlansing.slack.com&#34; class=&#34;uri&#34;&gt;https://rladies-eastlansing.slack.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github: &lt;a href=&#34;https://github.com/rladies-eastlansing&#34;&gt;@rladies-eastlansing&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/rladies&#34;&gt;@rladies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;E-mail:
+&lt;ul&gt;
+&lt;li&gt;eastlansing [at] rladies [dot] org&lt;/li&gt;
+&lt;li&gt;janani [at] rladies [dot] org&lt;/li&gt;
+&lt;li&gt;info [at] rladies [dot] org&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;organizers&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Organizers&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;janani@msu.edu&#34;&gt;Janani Ravi&lt;/a&gt; &amp;amp; &lt;a href=&#34;archerc5@msu.edu&#34;&gt;Camille Archer&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ps-community-policies-code-of-conduct&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;em&gt;PS&lt;/em&gt; Community Policies &amp;amp; Code of Conduct:&lt;/h2&gt;
+&lt;p&gt;Full community guidelines are found here: &lt;a href=&#34;https://github.com/rladies/starter-kit/wiki&#34; class=&#34;uri&#34;&gt;https://github.com/rladies/starter-kit/wiki&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>R-Ladies East Lansing</title>
-      <link>/projects/rladies-eastlansing/</link>
+      <link>https://jananiravi.github.io/projects/rladies-eastlansing/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/projects/rladies-eastlansing/</guid>
-      <description>R-Ladies East Lansing Posts &amp;amp; Workshops</description>
+      <guid>https://jananiravi.github.io/projects/rladies-eastlansing/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://jananiravi.github.io/tags/rladies&#34;&gt;R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jananiravi.github.io/interests/rladies_files/rladies.jpeg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34;/&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

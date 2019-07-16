@@ -2,97 +2,596 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on Janani Ravi</title>
-    <link>/categories/resources/</link>
+    <link>https://jananiravi.github.io/categories/resources/</link>
     <description>Recent content in Resources on Janani Ravi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
-    <lastBuildDate>Fri, 15 Feb 2019 00:00:00 -0500</lastBuildDate>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
+    <lastBuildDate>Tue, 05 Mar 2019 14:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/categories/resources/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jananiravi.github.io/categories/resources/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Using Tidyverse for Genomics workshop</title>
-      <link>/talk/using-tidyverse-for-genomics-workshop/</link>
-      <pubDate>Fri, 15 Feb 2019 00:00:00 -0500</pubDate>
+      <link>https://jananiravi.github.io/talk/2019-iitm/</link>
+      <pubDate>Tue, 05 Mar 2019 14:00:00 -0500</pubDate>
       
-      <guid>/talk/using-tidyverse-for-genomics-workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simple rules to make an effective scientific presentation</title>
-      <link>/talk/simple-rules-to-make-an-effective-scientific-presentation/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/talk/simple-rules-to-make-an-effective-scientific-presentation/</guid>
+      <guid>https://jananiravi.github.io/talk/2019-iitm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tidyverse workshop</title>
-      <link>/talk/tidyverse-workshop/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
+      <link>https://jananiravi.github.io/talk/2019-plb/</link>
+      <pubDate>Wed, 13 Feb 2019 09:00:00 -0500</pubDate>
       
-      <guid>/talk/tidyverse-workshop/</guid>
+      <guid>https://jananiravi.github.io/talk/2019-plb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple rules to make an effective scientific presentation</title>
+      <link>https://jananiravi.github.io/talk/2019-cvm/</link>
+      <pubDate>Thu, 24 Jan 2019 12:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/2019-cvm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Useful Resources</title>
-      <link>/post/2018/useful-resources/</link>
+      <link>https://jananiravi.github.io/post/useful-links/useful-resources/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/useful-resources/</guid>
-      <description>My posts with some #useful-resources.
-Great posts | academic  The Awesomest 7-year Postdoc by Radhika Nagpal | Scientific American Matt Might’s Blog Modeler’s Hippocratic oath   Bioinformatics  Microbial Bioinformatics Starter Kit by Lauren Cowley Microbial genome annotation by Michael Eisen  Twitter thread &amp;amp; moment  Tools for bacterial comparative genomes by Holt lab   R  Git, GitHub and R R resources by Paul Vanderlaken Related post: R Tips and Tricks   Data Visualization  Plotting trees + data by Holt Lab   Blogdown, Hugo, Academic &amp;amp; R Markdown  Blogdown: Creating websites with R Markdown by Yihui Xie Hugo  Hugo discussion forum  Hugo Academic by George Cushen  Academic  R Markdown Building your blog using blogdown by Marie Dussault   Blogging tips  Lifehacker 6 tips for low-cost academic blogging by Matt Might Ready to start your data science blog?</description>
+      <guid>https://jananiravi.github.io/post/useful-links/useful-resources/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;em&gt;My posts with some &lt;a href=&#34;https://jananiravi.github.io/categories/resources&#34;&gt;#useful-resources&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;div id=&#34;great-posts-academic&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Great posts | academic&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&#34;&gt;The Awesomest 7-year Postdoc &lt;em&gt;by&lt;/em&gt; Radhika Nagpal | Scientific American&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2016/matt-might-blog/&#34;&gt;Matt Might’s Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler’s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bioinformatics&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Bioinformatics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://c2-d2.github.io/hanage-lab/Microbial-Bioinformatics-starter-kit/&#34;&gt;Microbial Bioinformatics Starter Kit &lt;em&gt;by&lt;/em&gt; Lauren Cowley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Microbial genome annotation &lt;em&gt;by&lt;/em&gt; Michael Eisen
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/phylogenomics/status/999406494859718662&#34;&gt;Twitter thread&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://twitter.com/i/moments/999641962025074696&#34;&gt;moment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://holtlab.net/2015/02/25/tools-for-bacterial-comparative-genomics/&#34;&gt;Tools for bacterial comparative genomes &lt;em&gt;by&lt;/em&gt; Holt lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;R&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/&#34;&gt;R resources&lt;/a&gt; &lt;em&gt;by&lt;/em&gt; &lt;a href=&#34;paulvanderlaken.com&#34;&gt;Paul Vanderlaken&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Related post: &lt;a href=&#34;https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/&#34;&gt;R Tips and Tricks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;data-visualization&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Data Visualization&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://holtlab.net/2015/10/03/plotting-trees-data/&#34;&gt;Plotting trees + data &lt;em&gt;by&lt;/em&gt; Holt Lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;blogdown-hugo-academic-r-markdown&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Blogdown, Hugo, Academic &amp;amp; R Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Blogdown: Creating websites with R Markdown &lt;em&gt;by&lt;/em&gt; Yihui Xie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gohugoio&#34;&gt;Hugo&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://discourse.gohugo.io/&#34;&gt;Hugo discussion forum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Hugo Academic &lt;em&gt;by&lt;/em&gt; George Cushen&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rmarkdown.rstudio.com/index.html&#34;&gt;R Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mcdussault.rbind.io/post/building-your-blog-using-blogdown/&#34;&gt;Building your blog using blogdown &lt;em&gt;by&lt;/em&gt; Marie Dussault&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;blogging-tips&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Blogging tips&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hackerspace.lifehacker.com/top-tips-for-writing-a-blog-post-in-30-minutes-1688838523&#34;&gt;Lifehacker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/how-to-blog-as-an-academic/&#34;&gt;6 tips for low-cost academic blogging &lt;em&gt;by&lt;/em&gt; Matt Might&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.masalmon.eu/rladiesct/slides#1&#34;&gt;Ready to start your data science blog? &lt;em&gt;by&lt;/em&gt; Maëlle Salmon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
-      <link>/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</link>
-      <pubDate>Mon, 05 Nov 2018 00:00:00 -0500</pubDate>
+      <link>https://jananiravi.github.io/talk/2018-rlel-tidydata/</link>
+      <pubDate>Mon, 05 Nov 2018 18:00:00 -0500</pubDate>
       
-      <guid>/talk/r-ladies-east-lansing-workshop-on-intro-to-tidy-data-w-r/</guid>
-      <description>Workshop material: GitHub • Google Drive</description>
+      <guid>https://jananiravi.github.io/talk/2018-rlel-tidydata/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Workshop material: &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; • &lt;a href=&#34;https://bit.ly/rlel-20181105&#34; target=&#34;_blank&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title>
-      <link>/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</link>
-      <pubDate>Mon, 08 Oct 2018 00:00:00 -0400</pubDate>
+      <link>https://jananiravi.github.io/talk/2018-rlel-dataviz/</link>
+      <pubDate>Mon, 08 Oct 2018 18:00:00 -0400</pubDate>
       
-      <guid>/talk/r-ladies-east-lansing-workshop-on-intro-to-data-visualization-w-r/</guid>
-      <description>Workshop material: GitHub • Google Drive</description>
+      <guid>https://jananiravi.github.io/talk/2018-rlel-dataviz/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201810-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Workshop material: &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181008-workshop-dataviz&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; • &lt;a href=&#34;https://drive.google.com/drive/folders/1tSrhZ_TymJfxeZbe8hAdtPjcmhoeAJls?usp=sharing&#34; target=&#34;_blank&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>/resources/</link>
+      <link>https://jananiravi.github.io/resources/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/resources/</guid>
-      <description>My posts with some useful resources
- Git, GitHub and R Modeler&amp;rsquo;s Hippocratic oath  Great posts | academic  The Awesomest 7-year Postdoc by Radhika Nagpal | Scientific American  Bioinformatics  Microbial Bioinformatics Starter Kit by Lauren Cowley Microbial genome annotation by Michael Eisen  Twitter thread &amp;amp; moment  Tools for bacterial comparative genomes by Holt lab  R  R resources by Paul Vanderlaken  Related post: R Tips and Tricks   Blogdown, Hugo, Academic &amp;amp; R Markdown  Blogdown: Creating websites with R Markdown by Yihui Xie Hugo  Hugo discussion forum  Hugo Academic by George Cushen  Academic  R Markdown Building your blog using blogdown by Marie Dussault  Data Visualization  Plotting trees + data by Holt Lab  Blogging tips  Lifehacker 6 tips for low-cost academic blogging by Matt Might Ready to start your data science blog?</description>
+      <guid>https://jananiravi.github.io/resources/</guid>
+      <description>
+
+&lt;p&gt;My posts with some &lt;a href=&#34;https://jananiravi.github.io/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;great-posts-academic&#34;&gt;Great posts | academic&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&#34; target=&#34;_blank&#34;&gt;The Awesomest 7-year Postdoc &lt;em&gt;by&lt;/em&gt; Radhika Nagpal | Scientific American&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bioinformatics&#34;&gt;Bioinformatics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://c2-d2.github.io/hanage-lab/Microbial-Bioinformatics-starter-kit/&#34; target=&#34;_blank&#34;&gt;Microbial Bioinformatics Starter Kit &lt;em&gt;by&lt;/em&gt; Lauren Cowley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Microbial genome annotation &lt;em&gt;by&lt;/em&gt; Michael Eisen
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/phylogenomics/status/999406494859718662&#34; target=&#34;_blank&#34;&gt;Twitter thread&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://twitter.com/i/moments/999641962025074696&#34; target=&#34;_blank&#34;&gt;moment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://holtlab.net/2015/02/25/tools-for-bacterial-comparative-genomics/&#34; target=&#34;_blank&#34;&gt;Tools for bacterial comparative genomes &lt;em&gt;by&lt;/em&gt; Holt lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/&#34; target=&#34;_blank&#34;&gt;R resources&lt;/a&gt; &lt;em&gt;by&lt;/em&gt; &lt;a href=&#34;paulvanderlaken.com&#34; target=&#34;_blank&#34;&gt;Paul Vanderlaken&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Related post: &lt;a href=&#34;https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/&#34; target=&#34;_blank&#34;&gt;R Tips and Tricks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;blogdown-hugo-academic-r-markdown&#34;&gt;Blogdown, Hugo, Academic &amp;amp; R Markdown&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;Blogdown: Creating websites with R Markdown &lt;em&gt;by&lt;/em&gt; Yihui Xie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gohugoio&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://discourse.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34; target=&#34;_blank&#34;&gt;Hugo Academic &lt;em&gt;by&lt;/em&gt; George Cushen&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rmarkdown.rstudio.com/index.html&#34; target=&#34;_blank&#34;&gt;R Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mcdussault.rbind.io/post/building-your-blog-using-blogdown/&#34; target=&#34;_blank&#34;&gt;Building your blog using blogdown &lt;em&gt;by&lt;/em&gt; Marie Dussault&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://holtlab.net/2015/10/03/plotting-trees-data/&#34; target=&#34;_blank&#34;&gt;Plotting trees + data &lt;em&gt;by&lt;/em&gt; Holt Lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;blogging-tips&#34;&gt;Blogging tips&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hackerspace.lifehacker.com/top-tips-for-writing-a-blog-post-in-30-minutes-1688838523&#34; target=&#34;_blank&#34;&gt;Lifehacker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matt.might.net/articles/how-to-blog-as-an-academic/&#34; target=&#34;_blank&#34;&gt;6 tips for low-cost academic blogging &lt;em&gt;by&lt;/em&gt; Matt Might&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.masalmon.eu/rladiesct/slides#1&#34; target=&#34;_blank&#34;&gt;Ready to start your data science blog? &lt;em&gt;by&lt;/em&gt; Maëlle Salmon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Useful Git/GitHub links</title>
-      <link>/post/2018/git-github-links/</link>
+      <link>https://jananiravi.github.io/post/git-links/git-github-links/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/git-github-links/</guid>
-      <description> See also:  My tweet dated: 2017-03-11 Resources for more links related to Blogdown, Rmarkdown &amp;amp; GitHub   Git  Version control with Git on Software Carpentry Git workflow for beginners Mozilla Git Getting started with Git Git, the simple guide Git exercises GitHowTo Introduction to Git and command line Friendly introduction to Git, Jane Git for humans, slides by Bartlett Learn Git branching Git cheat sheet and best practices Getting yourself out of a Git mess Try Git   Git and GitHub  GitHub tutorial, Broman New GitHub repo Git &amp;amp; Github | Seankross GitHub on Mac   R and Git  R with Git and GitHub   GitHub Pages, Gists | Jekyll  Github pages #1 #2 Creating gists on Github Jekyll GCC Ruby Ruby Gems   </description>
+      <guid>https://jananiravi.github.io/post/git-links/git-github-links/</guid>
+      <description>
+
+
+&lt;div id=&#34;see-also&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;See also:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/janani137/status/926516970920562688&#34;&gt;My tweet dated: 2017-03-11&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/interests/resources/&#34;&gt;Resources&lt;/a&gt; for more links related to Blogdown, Rmarkdown &amp;amp; GitHub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;git&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Git&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Version control with &lt;a href=&#34;http://swcarpentry.github.io/git-novice/&#34;&gt;Git on Software Carpentry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sklise.com/2012/10/07/git-workflow-beginner/&#34;&gt;Git workflow for beginners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/&#34;&gt;Mozilla Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://guides.beanstalkapp.com/version-control/getting-started-with-git.html&#34;&gt;Getting started with Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rogerdudler.github.io/git-guide/&#34;&gt;Git, the simple guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cbattista/learn-github/wiki/Learn-Github-Exercises&#34;&gt;Git exercises&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://githowto.com/&#34;&gt;GitHowTo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sklise.com/2012/09/22/introduction-to-git/&#34;&gt;Introduction to Git and command line&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kirstiejane.github.io/friendly-github-intro/&#34;&gt;Friendly introduction to Git, Jane&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/alicebartlett/git-for-humans&#34;&gt;Git for humans, slides by Bartlett&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://learngitbranching.js.org&#34;&gt;Learn Git branching&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52&#34;&gt;Git cheat sheet and best practices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ohshitgit.com&#34;&gt;Getting yourself out of a Git mess&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://try.github.io&#34;&gt;Try Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;git-and-github&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Git and GitHub&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kbroman/github_tutorial&#34;&gt;GitHub tutorial, Broman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/new&#34;&gt;New GitHub repo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://seankross.com/the-unix-workbench/git-and-github.html&#34;&gt;Git &amp;amp; Github | Seankross&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mac.github.com/help.html&#34;&gt;GitHub on Mac&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r-and-git&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R and Git&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://happygitwithr.com/big-picture.html&#34;&gt;R with Git and GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;github-pages-gists-jekyll&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;GitHub Pages, Gists | Jekyll&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Github pages &lt;a href=&#34;https://guides.github.com/features/pages/&#34;&gt;#1&lt;/a&gt; &lt;a href=&#34;https://pages.github.com/&#34;&gt;#2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/categories/gists/&#34;&gt;Creating gists on Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jekyllrb.com/docs/installation/&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gcc.gnu.org/install/&#34;&gt;GCC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ruby-lang.org/en/downloads/&#34;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rubygems.org/pages/download&#34;&gt;Ruby Gems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>J1 visa waiver | How to obtain your NORI?</title>
-      <link>/post/2017/j1-visa-waiver-nori/</link>
+      <link>https://jananiravi.github.io/post/j1-waiver/j1-visa-waiver-nori/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017/j1-visa-waiver-nori/</guid>
-      <description>About Me Why I’m writing this The initial process, where you read and imbibe! Helpful links:  Approximate order of key events &amp;amp; things-to-do Initial set of documents needed for the Indian Consulate attestation Documents to be sent to Indian Home Department Documents to be sent to the other two departments: List of documents  Addresses for mailing your packages TN State Department Regional Passport Office (RPO)  Additional documents required for police verification Main letters/documents Supporting documents  Final set of documents to be sent to the USCIS, Department of State Address for the package to be sent Tracking progress    About Me I’m Janani Ravi, currently at Michigan State University.</description>
+      <guid>https://jananiravi.github.io/post/j1-waiver/j1-visa-waiver-nori/</guid>
+      <description>
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#why-im-writing-this&#34;&gt;Why I’m writing this&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#the-initial-process-where-you-read-and-imbibe&#34;&gt;The initial process, where you read and imbibe!&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#helpful-links&#34;&gt;Helpful links:&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#approximate-order-of-key-events-things-to-do&#34;&gt;Approximate order of key events &amp;amp; things-to-do&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#initial-set-of-documents-needed-for-the-indian-consulate-attestation&#34;&gt;Initial set of documents needed for the Indian Consulate attestation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#documents-to-be-sent-to-indian-home-department&#34;&gt;Documents to be sent to Indian Home Department&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#documents-to-be-sent-to-the-other-two-departments&#34;&gt;Documents to be sent to the other two departments:&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#list-of-documents&#34;&gt;List of documents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#addresses-for-mailing-your-packages&#34;&gt;Addresses for mailing your packages&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#tn-state-department&#34;&gt;TN State Department&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#regional-passport-office-rpo&#34;&gt;Regional Passport Office (RPO)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#additional-documents-required-for-police-verification&#34;&gt;Additional documents required for police verification&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#main-lettersdocuments&#34;&gt;Main letters/documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#supporting-documents&#34;&gt;Supporting documents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#final-set-of-documents-to-be-sent-to-the-uscis-department-of-state&#34;&gt;Final set of documents to be sent to the USCIS, Department of State&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#address-for-the-package-to-be-sent&#34;&gt;Address for the package to be sent&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#tracking-progress&#34;&gt;Tracking progress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;why-im-writing-this&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Why I’m writing this&lt;/h2&gt;
+&lt;p&gt;I went through this rather painful &amp;amp; ghastly process from Rutgers University, Newark, NJ. My closest consulate was the one in New York (CGNY).
+I am originally from Chennai, Tamil Nadu (India). So, most of the state department and RPO/police verification guidelines I’ve enlisted below worked for my specific case. Folks from other countries can skip ahead from their consulate to the last step reading some country-specific blogs in-between.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-initial-process-where-you-read-and-imbibe&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The initial process, where you read and imbibe!&lt;/h2&gt;
+&lt;div id=&#34;helpful-links&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Helpful links:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;US govt. websites&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver.html&#34; class=&#34;uri&#34;&gt;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver.html&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver/ds-3035-instructions.html&#34; class=&#34;uri&#34;&gt;http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver/ds-3035-instructions.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov&#34; class=&#34;uri&#34;&gt;https://j1visawaiverrecommendation.state.gov&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/accessController.asp?page=26&#34; class=&#34;uri&#34;&gt;https://j1visawaiverrecommendation.state.gov/accessController.asp?page=26&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/cancelHandler.asp&#34; class=&#34;uri&#34;&gt;https://j1visawaiverrecommendation.state.gov/cancelHandler.asp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blogs&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sameetmehta.com/2015/01/the-j1-waiver-process-for-indian.html&#34; class=&#34;uri&#34;&gt;http://www.sameetmehta.com/2015/01/the-j1-waiver-process-for-indian.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sciash.wordpress.com/2016/03/20/j1-waiver-step-by-step-guide/&#34; class=&#34;uri&#34;&gt;https://sciash.wordpress.com/2016/03/20/j1-waiver-step-by-step-guide/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.immihelp.com/forum/showthread.php/113424-J1-visa-home-residency-requirement-waiver-from-India&#34; class=&#34;uri&#34;&gt;http://www.immihelp.com/forum/showthread.php/113424-J1-visa-home-residency-requirement-waiver-from-India&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://j1.aruppukottai.net/&#34; class=&#34;uri&#34;&gt;http://j1.aruppukottai.net/&lt;/a&gt; (old 2009)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://prashanth-jaikumar.blogspot.com/2010/05/how-i-learned-to-stop-worrying-and-love.html&#34; class=&#34;uri&#34;&gt;http://prashanth-jaikumar.blogspot.com/2010/05/how-i-learned-to-stop-worrying-and-love.html&lt;/a&gt; (2010 May)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tip&lt;/em&gt;: Find specific blogs for your state since the rules and guidelines might be somewhat different. Mine was Tamil Nadu.&lt;/li&gt;
+&lt;li&gt;Other useful PDFs that may include some of the above: The_process&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;approximate-order-of-key-events-things-to-do&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Approximate order of key events &amp;amp; things-to-do&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Read &amp;amp; decipher the resources. It’s a one-time thing. So, do it!&lt;/li&gt;
+&lt;li&gt;Start at least 1–1.5yrs before your current employment ends/your extended J1 expires. The process takes time &amp;amp; patience. Give time for ‘worst case scenarios’!&lt;/li&gt;
+&lt;li&gt;Tip: Talk to your department admin and your university’s international/J1 office.&lt;/li&gt;
+&lt;li&gt;Note: First extend your J1 &amp;amp; then apply for the waiver. You can’t extend once you apply for your waiver.&lt;/li&gt;
+&lt;li&gt;Notarization of your biodata and affidavit (your local bank or other notary publics)&lt;/li&gt;
+&lt;li&gt;Attestation of your biodata and affidavit: Local Indian consulate with the necessary documents
+&lt;ul&gt;
+&lt;li&gt;Some require passport-sized photo taken within the last 6 mo (CGNY did ‘require’ but they didn’t ’need’ it!!)&lt;/li&gt;
+&lt;li&gt;Call to get their full list and check their website before going&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Send your packages to the 3 departments back home (web portal/postal mail w/ tracking)&lt;/li&gt;
+&lt;li&gt;Back to the local Indian consulate
+&lt;ul&gt;
+&lt;li&gt;Take your 3 NORIs and forms to get a NORI that they will forward to the Department of State, US)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Send your package to USCIS (w/ tracking)
+&lt;ul&gt;
+&lt;li&gt;Include all the necessary background documents&lt;/li&gt;
+&lt;li&gt;NORIs from all of the above&lt;/li&gt;
+&lt;li&gt;DS-3035 form&lt;/li&gt;
+&lt;li&gt;Preferably, don’t include what’s not in the govt. list&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Note: You can migrate your J1 to a different university during your J1’s duration of validity.
+&lt;ul&gt;
+&lt;li&gt;Talk to both the universities’ J1 departments.&lt;/li&gt;
+&lt;li&gt;This would take 24-48h but can only happen before you terminate your current appointment. Once you are out, you need to process a new J1 and, possibly, go this whole process once again!&lt;/li&gt;
+&lt;li&gt;This could happen even while your J1 is being petitioned.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;initial-set-of-documents-needed-for-the-indian-consulate-attestation&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Initial set of documents needed for the Indian Consulate attestation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Original Passport + Visa (+ copy)&lt;/li&gt;
+&lt;li&gt;All DS-2019s (+ copy)&lt;/li&gt;
+&lt;li&gt;Latest I-94 (+ copy)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://i94.cbp.dhs.gov/I94&#34; class=&#34;uri&#34;&gt;https://i94.cbp.dhs.gov/I94&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Proof of residence in the US (preferably 2)&lt;/li&gt;
+&lt;li&gt;Cash, money order or cashier’s cheque&lt;/li&gt;
+&lt;li&gt;Biodata &amp;amp; Affidavit
+&lt;ul&gt;
+&lt;li&gt;unfilled sample: J1-waiver-biodata-affidavit-NY_unfilled.pdf&lt;/li&gt;
+&lt;li&gt;The first page is for New York Consulate General but others could use it as a guide too.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;documents-to-be-sent-to-indian-home-department&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documents to be sent to Indian Home Department&lt;/h2&gt;
+&lt;p&gt;Govt. of India Ministry of Human Resource Development (HRD)
+No Obligation to Return to India
+&lt;a href=&#34;http://www.nori.ac.in/&#34; class=&#34;uri&#34;&gt;http://www.nori.ac.in/&lt;/a&gt; (quite straightforward; trackable (!); they are really fast &amp;amp; responsive)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Biodata and Affidavit (Notarized &amp;amp; Attested by the Consulate General of India, New York, USA)&lt;/li&gt;
+&lt;li&gt;e-Copy of Passport (New and Old) and J1-Visa&lt;/li&gt;
+&lt;li&gt;e-Copy of all DS-2019s&lt;/li&gt;
+&lt;li&gt;e-Copies of PhD &amp;amp; BTech (other, as applicable) Degree Certificate&lt;/li&gt;
+&lt;li&gt;I don’t remember if I included:
+&lt;ul&gt;
+&lt;li&gt;Employment letter from the department chair (I needed this somewhere)&lt;/li&gt;
+&lt;li&gt;Proof of current residence in the US&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;documents-to-be-sent-to-the-other-two-departments&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Documents to be sent to the other two departments:&lt;/h2&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;your state government&lt;/li&gt;
+&lt;li&gt;your Regional Passport Office (likely, where you got your first passport)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div id=&#34;list-of-documents&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;List of documents&lt;/h3&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Biodata and Affidavit (Notarized &amp;amp; Attested by the Consulate General of India, New York, USA)&lt;/li&gt;
+&lt;li&gt;Copy of Passport (New and Old) and J1-Visa&lt;/li&gt;
+&lt;li&gt;Copy of all DS-2019s&lt;/li&gt;
+&lt;li&gt;Proof of current residence in the US&lt;/li&gt;
+&lt;li&gt;Copies of Ph.D. &amp;amp; B.Tech (other, as applicable) Degree Certificate&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Cover letter with your request to grant NORI
+&lt;ul&gt;
+&lt;li&gt;Your correct address &amp;amp; theirs (of course!) including your email ID (you never know!)&lt;/li&gt;
+&lt;li&gt;Where you are studying/working&lt;/li&gt;
+&lt;li&gt;Passport number (new and old)&lt;/li&gt;
+&lt;li&gt;Why you need the waiver (change of job, extending the same one, …)&lt;/li&gt;
+&lt;li&gt;List of attested/enclosed copies of documents&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Letter of consent from your parent saying that you have no legal obligation to return. Include these details, if possible/applicable
+&lt;ul&gt;
+&lt;li&gt;Who they are, where they are working/retired from&lt;/li&gt;
+&lt;li&gt;Brief family history&lt;/li&gt;
+&lt;li&gt;Your residential address (India)&lt;/li&gt;
+&lt;li&gt;Your brief educational history&lt;/li&gt;
+&lt;li&gt;When and why you came to the US&lt;/li&gt;
+&lt;li&gt;Your marital &amp;amp; dependent info (briefly) when applicable&lt;/li&gt;
+&lt;li&gt;Your current residential address in the US&lt;/li&gt;
+&lt;li&gt;Why you are requesting the waiver (in their words)&lt;/li&gt;
+&lt;li&gt;And something along these lines (sample below)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;With regard to the NORI certification, I confirm that all the details
+stated above are true to the best of my knowledge and all supporting documents
+have been attached for your perusal (the shipping document list is on the next page).
+There is no civil or criminal case against my daughter, XYZ.
+Also, she did not take any educational loan from the Indian or US governments.
+Therefore, she does not have any commitments here in India for legal,
+financial or personal reasons.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I, therefore, request you to kindly provide the necessary NORI certificate
+that will help her continue working towards her professional and personal
+goals in the US. The experience and expertise that she gains during her stay
+there will help her serve India better in the long run.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;addresses-for-mailing-your-packages&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Addresses for mailing your packages&lt;/h2&gt;
+&lt;div id=&#34;tn-state-department&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;TN State Department&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;The Secretary
+Home (Citz II) Department
+Government of Tamil Nadu
+Secretariat, Fort St. George
+Chennai 600 009
+Tamil Nadu, India&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;regional-passport-office-rpo&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Regional Passport Office (RPO)&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;The Passport Officer
+Regional Passport Office
+Royala Towers No. 2 and 3, IV Floor,
+Old No. 785, New No. 158, Anna Salai,
+Chennai 600002
+Tamil Nadu, India&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;additional-documents-required-for-police-verification&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Additional documents required for police verification&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;[At least, I needed it (Chennai, Tamil Nadu)]&lt;/em&gt;&lt;/p&gt;
+&lt;div id=&#34;main-lettersdocuments&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Main letters/documents&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Consent letter and Pro Forma from the applicant’s parent&lt;/li&gt;
+&lt;li&gt;Letter from the applicant’s spouse&lt;/li&gt;
+&lt;li&gt;Biodata of the applicant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;supporting-documents&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Supporting documents&lt;/h3&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Applicant’s: Mark sheets and certificates
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;10th 12th mark sheets&lt;/li&gt;
+&lt;li&gt;B. Tech. degree certificate&lt;/li&gt;
+&lt;li&gt;Ph.D. degree certificate&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Applicant’s: Passport and Visa
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Passport (front/back)&lt;/li&gt;
+&lt;li&gt;J-1 Visa &amp;amp; Certificate of eligibility for exchange visitor (J-1) status (DS-2019)&lt;/li&gt;
+&lt;li&gt;Old passport and old J1 and F1 visas&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Applicant’s: Graduate assistantship letter for PhD&lt;/li&gt;
+&lt;li&gt;Applicant’s: Employment letter (current place of work)&lt;/li&gt;
+&lt;li&gt;Spouse’s: Mark sheets and certificates
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;10th, 12th mark sheets&lt;/li&gt;
+&lt;li&gt;B. Tech. degree certificate&lt;/li&gt;
+&lt;li&gt;Ph.D. degree certificate&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Applicant’s Spouse’s: Passport and Visa
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Passport (front/back)&lt;/li&gt;
+&lt;li&gt;H1B visa approval notice (I-797)&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Applicant’s Spouse’s: Employment letter (MSU)&lt;/li&gt;
+&lt;li&gt;Both: Marriage certificate&lt;/li&gt;
+&lt;li&gt;Both: Present address proof (Wells Fargo bank statement)&lt;/li&gt;
+&lt;li&gt;Applicant’s Parents’: Chennai address proof (Ration card, gas bill)&lt;/li&gt;
+&lt;li&gt;Applicant’s Parents’: Aadhar card&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;final-set-of-documents-to-be-sent-to-the-uscis-department-of-state&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Final set of documents to be sent to the USCIS, Department of State&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Read the &lt;a href=&#34;https://travel.state.gov/content/travel/en/us-visas/study/exchange/waiver-of-the-exchange-visitor/how-to-apply-waiver.html&#34;&gt;How to apply for a waiver&lt;/a&gt; page on the travel.state.gov website again.&lt;/li&gt;
+&lt;li&gt;DS-3035 &amp;amp; SOR J1 waiver application packet for USCIS and Department of State
+&lt;ul&gt;
+&lt;li&gt;Application fee
+&lt;ul&gt;
+&lt;li&gt;Non-refundable — do it at the end&lt;/li&gt;
+&lt;li&gt;cashier’s cheque written out to ’The US Department of State’&lt;/li&gt;
+&lt;li&gt;Include your name and case number (from the DS-3035 barcode)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Waiver review division barcode&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.j1waivertips.com/sample-statement-of-reason-for-j1-visa-waiver-application-at-us-dept-of-state/&#34;&gt;Statement of reason&lt;/a&gt; (below)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Sample statement:&lt;/em&gt;
+I am XYZ working at ABC as a PQR. I am currently on J1 visa sponsored by QWERTY. My J1 visa started on 7/19/2013 and ends on 7/19/2018 with a two-year home residency requirement. The main purpose of my J1 visa is to allow me to do research. My research work is progressing well, and it needs more time (longer than 7/19/2018) to complete my research projects. Since I am the lead person in the research projects, my employer and I feel that the opportunity for me to stay here in the US and complete the projects by obtaining the J1 visa waiver will be great.
+I am requesting a waiver of the two-year home residence requirement to complete my work here on the basis of No Objection certificate. My home country “ABC” has no objection in allowing me to continue working here in the US, and has issued a No Objection certificate to that effect. The ABCian Embassy in the USA will be issuing the No Objection statement to you. I kindly request you to grant me the J1 visa waiver at the earliest.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;The actual completed DS-3035
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/&#34; class=&#34;uri&#34;&gt;https://j1visawaiverrecommendation.state.gov/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If you make a mistake, fill it out from the beginning&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Passport data page&lt;/li&gt;
+&lt;li&gt;All DS2019s, IAP-66&lt;/li&gt;
+&lt;li&gt;Degree Certificates (Bachelors, Masters, PhD, …)&lt;/li&gt;
+&lt;li&gt;Statement of Reason&lt;/li&gt;
+&lt;li&gt;Two self-addressed stamped envelopes (legal-size)&lt;/li&gt;
+&lt;li&gt;Your NORI letters from
+&lt;ul&gt;
+&lt;li&gt;India: i) home department, ii) state department and iii) regional passport office (for police verification) and&lt;/li&gt;
+&lt;li&gt;US (local Indian Consulate, although they would be sending a copy)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&#34;address-for-the-package-to-be-sent&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Address for the package to be sent&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;Postal Service
+Department of State J-1 Waiver
+P.O. Box 979037
+St. Louis, MO 63197-9000
+
+
+Courier Service
+Department of State J-1 Waiver
+P.O. Box 979037
+1005 Convention Plaza
+St. Louis, MO 63101-1200&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tracking-progress&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tracking progress&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://j1visawaiverrecommendation.state.gov/&#34; class=&#34;uri&#34;&gt;https://j1visawaiverrecommendation.state.gov/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>

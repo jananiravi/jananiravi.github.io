@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cara Feldscher on Janani Ravi</title>
+    <link>https://jananiravi.github.io/authors/cara-feldscher/</link>
+    <description>Recent content in Cara Feldscher on Janani Ravi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
+    <lastBuildDate>Mon, 08 Oct 2018 18:00:00 -0400</lastBuildDate>
+    
+	    <atom:link href="https://jananiravi.github.io/authors/cara-feldscher/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title>
+      <link>https://jananiravi.github.io/talk/2018-rlel-dataviz/</link>
+      <pubDate>Mon, 08 Oct 2018 18:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/2018-rlel-dataviz/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201810-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Workshop material: &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181008-workshop-dataviz&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; • &lt;a href=&#34;https://drive.google.com/drive/folders/1tSrhZ_TymJfxeZbe8hAdtPjcmhoeAJls?usp=sharing&#34; target=&#34;_blank&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

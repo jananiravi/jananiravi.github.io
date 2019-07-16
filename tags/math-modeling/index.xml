@@ -2,47 +2,221 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>math-modeling on Janani Ravi</title>
-    <link>/tags/math-modeling/</link>
+    <link>https://jananiravi.github.io/tags/math-modeling/</link>
     <description>Recent content in math-modeling on Janani Ravi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Janani Ravi, 2018</copyright>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
     <lastBuildDate>Thu, 24 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/math-modeling/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jananiravi.github.io/tags/math-modeling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Modeler&#39;s Hippocratic Oath</title>
-      <link>/post/2018/modelers-hippocratic-oath/</link>
+      <link>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/modelers-hippocratic-oath/</guid>
-      <description>I recently came across the Modeler&amp;rsquo;s Hippocratic Oath while reading Cathy O&amp;rsquo;Neil&amp;rsquo;s &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.
-This was originally written by Emanuel Derman and Paul Wilmott in the wake of the 2008 financial crisis.
-The Oath  I will remember that I didn’t make the world, and it doesn’t satisfy my equations. Though I will use models boldly to estimate value, I will not be overly impressed by mathematics. I will never sacrifice reality for elegance without explaining why I have done so.</description>
+      <guid>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</guid>
+      <description>
+
+&lt;p&gt;I recently came across the &lt;strong&gt;Modeler&amp;rsquo;s Hippocratic Oath&lt;/strong&gt; while reading &lt;a href=&#34;//twitter.com/mathbabedotorg&#34; target=&#34;_blank&#34;&gt;Cathy O&amp;rsquo;Neil&amp;rsquo;s&lt;/a&gt; &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;This was originally written by &lt;a href=&#34;//twitter.com/EmanuelDerman&#34; target=&#34;_blank&#34;&gt;Emanuel Derman&lt;/a&gt; and &lt;a href=&#34;//twitter.com/wilmott&#34; target=&#34;_blank&#34;&gt;Paul Wilmott&lt;/a&gt; in the wake of the 2008 financial crisis.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-oath&#34;&gt;The Oath&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I will remember that I didn’t make the world, and it doesn’t satisfy my equations.&lt;/li&gt;
+&lt;li&gt;Though I will use models boldly to estimate value, I will not be overly impressed by mathematics.&lt;/li&gt;
+&lt;li&gt;I will never sacrifice reality for elegance without explaining why I have done so.&lt;/li&gt;
+&lt;li&gt;Nor will I give the people who use my model false comfort about its accuracy. Instead, I will make explicit its assumptions and oversights.&lt;/li&gt;
+&lt;li&gt;I understand that my work may have enormous effects on society and the economy, many of them beyond my comprehension.
+&lt;img src=&#34;https://jananiravi.github.io/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>A dedication to Ramanujan</title>
-      <link>/post/2016/ramanujan/</link>
+      <link>https://jananiravi.github.io/post/ramanujan/ramanujan/</link>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/2016/ramanujan/</guid>
-      <description>Authors: Janani Ravi, Arjun Krishnan
-Srinivasa Ramanujan has been noted as one of the classic ‘genius-mathematicians’ of all time! Hailing from the same state/country as him, Arjun Krishnan and I have always looked up to him &amp;amp; his elegant math as a source of inspiration right through our formative years!
-The Movie Recent movie that has drastically increased Ramanujan’s international visibility The Man Who Knew Infinity by Matthew Brown.</description>
+      <guid>https://jananiravi.github.io/post/ramanujan/ramanujan/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;em&gt;Authors: Janani Ravi, Arjun Krishnan&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Srinivasa_Ramanujan&#34;&gt;Srinivasa Ramanujan&lt;/a&gt; has been noted as one of the classic ‘genius-mathematicians’ of all time! Hailing from the same state/country as him, &lt;a href=&#34;//arjun-krishnan.net&#34;&gt;Arjun Krishnan&lt;/a&gt; and I have always looked up to him &amp;amp; his elegant math as a source of inspiration right through our formative years!&lt;/p&gt;
+&lt;div id=&#34;the-movie&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Movie&lt;/h2&gt;
+&lt;p&gt;Recent movie that has drastically increased Ramanujan’s international visibility
+&lt;a href=&#34;https://g.co/kgs/gfuP3p&#34;&gt;The Man Who Knew Infinity&lt;/a&gt; by &lt;a href=&#34;https://www.imdb.com/name/nm0114226/&#34;&gt;Matthew Brown&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-play&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Play&lt;/h2&gt;
+&lt;p&gt;We watched this beautiful play in the University of Virginia campus during our grad school. Such unmistakable passion for math, that’s almost art-like &lt;em&gt;or was it art!&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/A_Disappearing_Number&#34;&gt;A Disappearing Number&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Simon_McBurney&#34;&gt;Simon McBurney&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-book&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Book&lt;/h2&gt;
+&lt;p&gt;Here is a great companion book to better understand &lt;em&gt;the Man&lt;/em&gt; and little bit of &lt;em&gt;the Math&lt;/em&gt;!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Man_Who_Knew_Infinity:_A_Life_of_the_Genius_Ramanujan&#34;&gt;The Man Who Knew Infinity: A Life of the Genius Ramanujan&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Robert_Kanigel&#34;&gt;Robert Kanigel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-people&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The People&lt;/h2&gt;
+&lt;p&gt;Without the help of the following people (and many more we haven’t mentioned here), Ramanujan would have remained an unknown &amp;amp; obsolete genius!&lt;/p&gt;
+&lt;div id=&#34;gh-hardy-collaborator-mentor&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/G._H._Hardy&#34;&gt;GH Hardy&lt;/a&gt;: Collaborator, Mentor&lt;/h4&gt;
+&lt;p&gt;Hardy was an English mathematician who brought Ramanujan to Cambridge, encouraged his professional growth and helped publish his many theorems and elegant solutions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;matthew-brown-the-director&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.imdb.com/name/nm0114226/&#34;&gt;Matthew Brown&lt;/a&gt;: The Director&lt;/h4&gt;
+&lt;p&gt;The director of the new Ramanujan movie, &lt;em&gt;The Man Who Knew Infinity&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;manjul-bhargava-math-advisor-associate-producer&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Manjul_Bhargava&#34;&gt;Manjul Bhargava&lt;/a&gt;: Math advisor &amp;amp; associate producer&lt;/h4&gt;
+&lt;p&gt;Princeton number theorist, winner of the Field’s medal, and Associate Producer of the movie.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/128893911&#34;&gt;Video made for Manjul Bhargava Princeton&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ken-ono-math-advisor-associate-producer&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;//en.wikipedia.org/wiki/Ken_Ono&#34;&gt;Ken Ono&lt;/a&gt;: Math advisor &amp;amp; associate producer&lt;/h4&gt;
+&lt;p&gt;Ken Ono is this very accomplished mathematician who’s central research questions revolve around the work of Ramanujan.
+He is also a fantastic and sincere communicator, teacher and author so much so that you can read/listen to almost anything that he has to say.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EyvYr-2WLWg&amp;amp;list=WL&amp;amp;index=9&#34;&gt;Here’s a great video of a conversation he had with another mathematician where he talks about Ramanujan and his connection with him.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;steven-strogatz-applied-mathematician&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;www.stevenstrogatz.com/&#34;&gt;Steven Strogatz&lt;/a&gt;: Applied mathematician&lt;/h4&gt;
+&lt;p&gt;Famous applied mathematician and author of superb books &amp;amp; articles on mathematics.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;steven-strogatz-manjul-bhargava-matt-brown&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Steven Strogatz, Manjul Bhargava &amp;amp; Matt Brown&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yvHrn-41XMU&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;some-more-interesting-articles&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Some more interesting articles&lt;/h2&gt;
+&lt;div id=&#34;ramanujan-surprises-again-plus.maths.org&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;http://www.math.uiuc.edu/~berndt/articles/aachen.pdf&#34;&gt;Ramanujan surprises again| plus.maths.org&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div id=&#34;remembering-ramanujan-india-celebrates-its-famous-mathematical-son&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;http://www.scientificamerican.com/article.cfm?id=remembering-ramanujan-india&#34;&gt;Remembering Ramanujan: India Celebrates Its Famous Mathematical Son&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;December 22, 2012&lt;/em&gt;, marks the 125th anniversary of the birth of legendary Indian mathematician Srinivasa Ramanujan. An intuitive mathematical genius, Ramanujan’s discoveries have influenced several areas of mathematics, but he is probably most famous for his contributions to number theory and infinite series, among them fascinating formulas that can be used to calculate digits of pi in unusual ways.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.scientificamerican.com/article.cfm?id=remembering-ramanujan-india&#34;&gt;More&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematical modeling of pathways involved in cell cycle regulation and Differentiation</title>
+      <link>https://jananiravi.github.io/talk/2014-imsc/</link>
+      <pubDate>Fri, 31 Oct 2014 13:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/2014-imsc/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Dynamical Systems &amp; Math Biology</title>
-      <link>/dynamical-systems/</link>
+      <link>https://jananiravi.github.io/dynamical-systems/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 -0500</pubDate>
       
-      <guid>/dynamical-systems/</guid>
-      <description>Research During my graduate research with Dr John Tyson, I built mathematical models to understand dynamical aspects:
- Modeling the START transition in the budding yeast cell cycle:
- Built a detailed mathematical model (~100 ODEs, ~150 parameters) for the START transition in yeast and integrated it with our published model of the whole cell cycle. Model addresses outstanding issues related to the precise mechanism and timing of transcriptional, post- translational and localization events, as well as size control under varying growth conditions.</description>
+      <guid>https://jananiravi.github.io/dynamical-systems/</guid>
+      <description>
+
+&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
+
+&lt;p&gt;During &lt;a href=&#34;http://mpf.biol.vt.edu/lab_website/people/Janani_Ravi/&#34; target=&#34;_blank&#34;&gt;my graduate research with Dr John Tyson&lt;/a&gt;, I built mathematical models to understand dynamical aspects:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Modeling the START transition in the budding yeast cell cycle:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Built a detailed mathematical model (~100 ODEs, ~150 parameters) for the START transition in yeast and
+integrated it with our published model of the whole cell cycle.&lt;/li&gt;
+&lt;li&gt;Model addresses outstanding issues related to the precise mechanism and timing of transcriptional, post-
+translational and localization events, as well as size control under varying growth conditions.&lt;/li&gt;
+&lt;li&gt;Model consistent with ~200 experimental mutant phenotypes pertaining to the START transition and rest of
+the cell cycle.&lt;/li&gt;
+&lt;li&gt;Built a basic model for the nutritional effect of size control in budding yeast cells.&lt;/li&gt;
+&lt;li&gt;This mechanism has been incorporated into the existing model of the yeast cell cycle to explain an initial
+set of START mutants.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Modeling bistability in the canonical Wnt pathway:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Built a simplified model based upon the core module of the Wnt canonical pathway, and incorporated
+additional key regulatory interactions.&lt;/li&gt;
+&lt;li&gt;Model shows that the Wnt signaling pathway can display bistability, in agreement with preliminary
+experimental results.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;related-publications&#34;&gt;Related publications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ravi J, Tyson JJ. Modeling the START transition in the budding yeast cell cycle. &lt;em&gt;Submitted&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Thorne C, Ravi J, Tyson JJ, Lee E. Modeling bistability in the canonical Wnt signaling pathway. &lt;em&gt;Submitted&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+
+&lt;h4 id=&#34;virginia-tech&#34;&gt;Virginia Tech&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kathy Chen (now &lt;em&gt;retd.&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;vanderbilt-university&#34;&gt;Vanderbilt University&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ethan Lee&lt;/li&gt;
+&lt;li&gt;Curtis A. Thorne (now at University of Arizona)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling the START transition in the budding yeast cell cycle</title>
+      <link>https://jananiravi.github.io/talk/2011-cshl/</link>
+      <pubDate>Tue, 29 Mar 2011 18:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/2011-cshl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the START transition in the budding yeast cell cycle</title>
+      <link>https://jananiravi.github.io/talk/2009-grc/</link>
+      <pubDate>Sun, 05 Jul 2009 13:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/2009-grc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the START transition and size control in budding yeast</title>
+      <link>https://jananiravi.github.io/talk/2009-cshl/</link>
+      <pubDate>Tue, 24 Mar 2009 13:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/2009-cshl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the START transition and size control in budding yeast</title>
+      <link>https://jananiravi.github.io/talk/2009-vt-symp/</link>
+      <pubDate>Sun, 01 Mar 2009 13:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/talk/2009-vt-symp/</guid>
+      <description></description>
     </item>
     
   </channel>

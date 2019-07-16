@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pratik Datta on Janani Ravi</title>
+    <link>https://jananiravi.github.io/authors/pratik-datta/</link>
+    <description>Recent content in Pratik Datta on Janani Ravi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
+    <lastBuildDate>Tue, 01 Mar 2016 00:00:00 -0500</lastBuildDate>
+    
+	    <atom:link href="https://jananiravi.github.io/authors/pratik-datta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
+      <link>https://jananiravi.github.io/publication/sigfac-mtb/natcomm/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://jananiravi.github.io/publication/sigfac-mtb/natcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
+      <link>https://jananiravi.github.io/publication/psp-mtb/molmicro/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://jananiravi.github.io/publication/psp-mtb/molmicro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
